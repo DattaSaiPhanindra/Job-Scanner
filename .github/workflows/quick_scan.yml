@@ -1,0 +1,47 @@
+name: "\U0001f50d Quick Scan — Job Alerts"
+
+# ──────────────────────────────────────────────────────────────
+# Runs every 10 minutes on public repos (free, unlimited).
+# Polls Greenhouse / Lever / Ashby for new postings,
+# emails you, and updates the live dashboard data.
+# ──────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:          # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5        # should finish in < 1 min
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run quick scan
+        env:
+          SMTP_EMAIL:    ${{ secrets.SMTP_EMAIL }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NOTIFY_EMAIL:  ${{ secrets.NOTIFY_EMAIL }}
+        run: python scripts/quick_scan.py
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name  "Job Scanner Bot"
+          git config user.email "scanner@noreply.github.com"
+          git add recent_jobs.json data/seen_jobs.json
+          git diff --staged --quiet || git commit -m "scan: $(date -u +'%H:%M UTC %b %d')"
+          git push
