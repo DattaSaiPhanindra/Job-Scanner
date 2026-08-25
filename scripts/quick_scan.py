@@ -9,6 +9,8 @@ and writes recent_jobs.json for the live dashboard.
 Usage:
     python scripts/quick_scan.py              # normal scan
     python scripts/quick_scan.py --dry-run    # scan without sending email
+    python scripts/quick_scan.py --seed       # record all existing jobs as baseline
+                                              # (no email, no dashboard, first run does this auto)
 
 Environment variables (set as GitHub Actions secrets):
     SMTP_EMAIL      — Gmail address to send from
@@ -41,6 +43,7 @@ TIMEOUT = 15
 MAX_WORKERS = 10
 
 DRY_RUN = "--dry-run" in sys.argv
+SEED_MODE = "--seed" in sys.argv
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -321,7 +324,30 @@ def main():
     matched = [j for j in all_jobs if matches_filters(j, keywords, locations)]
     print(f"  After filtering: {len(matched)} jobs")
 
-    # ── Detect NEW jobs (not seen before) ──
+    # ── Detect if this is the first run (no previously seen jobs) ──
+    is_first_run = len(seen_ids) == 0
+
+    if is_first_run or SEED_MODE:
+        # FIRST RUN / SEED MODE:
+        # Record all current job IDs so we know what already exists,
+        # but do NOT treat them as "new" — they've been posted for
+        # days/weeks, we just haven't seen them yet.
+        for job in matched:
+            seen_ids.add(job["id"])
+
+        label = "SEED MODE" if SEED_MODE else "FIRST RUN"
+        print(f"\n  \u{1f331} {label}: Recorded {len(seen_ids)} existing job IDs as baseline.")
+        print(f"     No notifications sent. Only genuinely new jobs will")
+        print(f"     be detected starting from the NEXT scan.\n")
+
+        # Clear the dashboard — don't show old jobs as new
+        RECENT_JOBS_PATH.write_text(json.dumps([]))
+        SEEN_JOBS_PATH.write_text(json.dumps(list(seen_ids)))
+        print(f"  \U0001f5c2  Tracked IDs:  {len(seen_ids)}")
+        print(f"\n  \u2705 Seed complete. Future scans will only detect new postings.\n")
+        return
+
+    # ── Normal mode: detect genuinely NEW jobs ──
     now_iso = now.isoformat()
     new_jobs = []
     for job in matched:
@@ -332,7 +358,7 @@ def main():
 
     print(f"  \U0001f195 New this scan:  {len(new_jobs)} jobs")
 
-    # ── Email alert ──
+    # ── Email alert (only for genuinely new postings) ──
     if new_jobs:
         send_email(new_jobs, config)
 
