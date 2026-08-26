@@ -42,27 +42,5 @@
     "ats": "Lever",
     "posted_at": "2026-01-15T18:02:42.708000+00:00",
     "detected_at": "2026-08-26T13:37:19.216306+00:00"
-  },
-  {
-    "id": "gh_7771629",
-    "title": "Senior Software Engineer, Knowledge Engineer ",
-    "company_slug": "adyen",
-    "company": "Adyen",
-    "location": "Amsterdam",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7771629",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:27:41-04:00",
-    "detected_at": "2026-08-26T11:53:51.667482+00:00"
-  },
-  {
-    "id": "gh_8721001002",
-    "title": "Sr. Solutions Engineer",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721001002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:44:16-04:00",
-    "detected_at": "2026-08-26T11:53:51.667482+00:00"
   }
 ]
