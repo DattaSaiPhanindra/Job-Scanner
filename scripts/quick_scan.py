@@ -336,7 +336,7 @@ def main():
             seen_ids.add(job["id"])
 
         label = "SEED MODE" if SEED_MODE else "FIRST RUN"
-        print(f"\n  \u{1f331} {label}: Recorded {len(seen_ids)} existing job IDs as baseline.")
+        print(f"\n  [SEED] {label}: Recorded {len(seen_ids)} existing job IDs as baseline.")
         print(f"     No notifications sent. Only genuinely new jobs will")
         print(f"     be detected starting from the NEXT scan.\n")
 
