@@ -1,5 +1,49 @@
 [
   {
+    "id": "gh_8159062",
+    "title": "Sr. Software Engineer | Aura Platform ",
+    "company_slug": "singlestore",
+    "company": "Singlestore",
+    "location": "United States ",
+    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8159062",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T08:56:04-04:00",
+    "detected_at": "2026-08-26T13:37:19.216306+00:00"
+  },
+  {
+    "id": "lv_95158a91-9675-4cb5-801e-c548999be918",
+    "title": "Sr Lead Cloud Platform Engineer",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Poland",
+    "url": "https://jobs.lever.co/coupa/95158a91-9675-4cb5-801e-c548999be918",
+    "ats": "Lever",
+    "posted_at": "2026-08-21T06:03:27.668000+00:00",
+    "detected_at": "2026-08-26T13:37:19.216306+00:00"
+  },
+  {
+    "id": "lv_11a27990-7bd5-43a4-84e8-f443eaae278f",
+    "title": "Sr Lead Kubernetes Platform Engineer",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Poland",
+    "url": "https://jobs.lever.co/coupa/11a27990-7bd5-43a4-84e8-f443eaae278f",
+    "ats": "Lever",
+    "posted_at": "2026-08-21T06:12:10.280000+00:00",
+    "detected_at": "2026-08-26T13:37:19.216306+00:00"
+  },
+  {
+    "id": "lv_09535341-46f8-444d-9f8f-608192c1c2d8",
+    "title": "Sr. AI Engineer - 11096",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Pune, India",
+    "url": "https://jobs.lever.co/coupa/09535341-46f8-444d-9f8f-608192c1c2d8",
+    "ats": "Lever",
+    "posted_at": "2026-01-15T18:02:42.708000+00:00",
+    "detected_at": "2026-08-26T13:37:19.216306+00:00"
+  },
+  {
     "id": "gh_7771629",
     "title": "Senior Software Engineer, Knowledge Engineer ",
     "company_slug": "adyen",
@@ -20,49 +64,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-08-26T07:44:16-04:00",
     "detected_at": "2026-08-26T11:53:51.667482+00:00"
-  },
-  {
-    "id": "gh_8749946002",
-    "title": "Senior Backend Engineer",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Poland",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749946002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:06:42-04:00",
-    "detected_at": "2026-08-26T11:20:43.276282+00:00"
-  },
-  {
-    "id": "gh_8749951002",
-    "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly ",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Poland",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749951002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:09:14-04:00",
-    "detected_at": "2026-08-26T11:20:43.276282+00:00"
-  },
-  {
-    "id": "gh_8749950002",
-    "title": "Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Poland",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:08:19-04:00",
-    "detected_at": "2026-08-26T11:20:43.276282+00:00"
-  },
-  {
-    "id": "gh_8749952002",
-    "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Poland",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749952002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T07:12:11-04:00",
-    "detected_at": "2026-08-26T11:20:43.276282+00:00"
   }
 ]
