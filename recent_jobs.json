@@ -1,5 +1,49 @@
 [
   {
+    "id": "gh_7068985",
+    "title": "Senior Data Platform Engineer - OLAP",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/7068985",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T05:50:25-04:00",
+    "detected_at": "2026-08-26T10:17:13.470660+00:00"
+  },
+  {
+    "id": "gh_8095959",
+    "title": "Senior software engineer - Data Platform Engineer (OLAP)",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8095959",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T05:52:41-04:00",
+    "detected_at": "2026-08-26T10:17:13.470660+00:00"
+  },
+  {
+    "id": "gh_6699672",
+    "title": "Senior Platform Engineer ",
+    "company_slug": "monzo",
+    "company": "Monzo",
+    "location": "Cardiff, London or Remote (UK)",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/6699672",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T05:50:54-04:00",
+    "detected_at": "2026-08-26T10:17:13.470660+00:00"
+  },
+  {
+    "id": "gh_8158879",
+    "title": "Software Engineering Manager",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8158879?gh_jid=8158879",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T05:49:19-04:00",
+    "detected_at": "2026-08-26T10:17:13.470660+00:00"
+  },
+  {
     "id": "gh_8155204",
     "title": "Senior Manager, Solutions Engineering",
     "company_slug": "intercom",
