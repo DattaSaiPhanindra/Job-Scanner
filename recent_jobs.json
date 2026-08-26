@@ -1,5 +1,27 @@
 [
   {
+    "id": "gh_7771629",
+    "title": "Senior Software Engineer, Knowledge Engineer ",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/7771629",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T07:27:41-04:00",
+    "detected_at": "2026-08-26T11:53:51.667482+00:00"
+  },
+  {
+    "id": "gh_8721001002",
+    "title": "Sr. Solutions Engineer",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721001002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T07:44:16-04:00",
+    "detected_at": "2026-08-26T11:53:51.667482+00:00"
+  },
+  {
     "id": "gh_8749946002",
     "title": "Senior Backend Engineer",
     "company_slug": "gitlab",
@@ -86,16 +108,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-08-26T05:49:19-04:00",
     "detected_at": "2026-08-26T10:17:13.470660+00:00"
-  },
-  {
-    "id": "gh_8155204",
-    "title": "Senior Manager, Solutions Engineering",
-    "company_slug": "intercom",
-    "company": "Intercom",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/8155204",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T05:18:19-04:00",
-    "detected_at": "2026-08-26T09:39:32.153068+00:00"
   }
 ]
