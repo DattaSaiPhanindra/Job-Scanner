@@ -1,5 +1,60 @@
 [
   {
+    "id": "gh_7819891003",
+    "title": "Senior Software Engineer, Backend (Account Management)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819891003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T12:27:57-04:00",
+    "detected_at": "2026-08-26T16:46:36.082361+00:00"
+  },
+  {
+    "id": "gh_8121732",
+    "title": "Staff Software Engineer, Retirement",
+    "company_slug": "gusto",
+    "company": "Gusto",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8121732",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T12:35:00-04:00",
+    "detected_at": "2026-08-26T16:46:36.082361+00:00"
+  },
+  {
+    "id": "gh_8125694",
+    "title": "Director, Global WMS Software Engineering and Product Design",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Warszawa, Masovian Voivodeship, Poland",
+    "url": "https://careers.hellofresh.com/global/en/job/8125694?gh_jid=8125694",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T12:07:49-04:00",
+    "detected_at": "2026-08-26T16:46:36.082361+00:00"
+  },
+  {
+    "id": "gh_5216837007",
+    "title": "Senior Software Engineer, ADAS Feature Integration\u00a0",
+    "company_slug": "lucidmotors",
+    "company": "Lucidmotors",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216837007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T12:22:53-04:00",
+    "detected_at": "2026-08-26T16:46:36.082361+00:00"
+  },
+  {
+    "id": "ab_bb2dc07f-eae3-44b3-8f7e-144d54571e03",
+    "title": "Senior Backend Software Engineer, Integrations Platform [Canada]",
+    "company_slug": "vanta",
+    "company": "Vanta",
+    "location": "Remote - Canada",
+    "url": "https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03",
+    "ats": "Ashby",
+    "posted_at": "2026-08-26T16:27:42.156+00:00",
+    "detected_at": "2026-08-26T16:46:36.082361+00:00"
+  },
+  {
     "id": "gh_8154252",
     "title": "Senior Site Reliability Engineer I",
     "company_slug": "braze",
