@@ -1,79 +1,46 @@
 [
   {
-    "id": "gh_7702714",
-    "title": "Staff Software Engineer, Streaming Infrastructure",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714",
+    "id": "gh_7950166",
+    "title": "Lead Software Engineer",
+    "company_slug": "appian",
+    "company": "Appian",
+    "location": "Chennai, India",
+    "url": "https://job-boards.greenhouse.io/appian/jobs/7950166",
     "ats": "Greenhouse",
-    "posted_at": "2026-08-27T01:29:10-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+    "posted_at": "2026-08-27T06:17:28-04:00",
+    "detected_at": "2026-08-27T11:44:57.822057+00:00"
   },
   {
-    "id": "gh_8160557",
-    "title": "Staff Software Engineer, Compute Platform (Routing)",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
+    "id": "gh_7515882",
+    "title": "Senior Named Solutions Engineer, UKI",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882",
     "ats": "Greenhouse",
-    "posted_at": "2026-08-26T20:36:40-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+    "posted_at": "2026-08-27T06:26:14-04:00",
+    "detected_at": "2026-08-27T11:44:57.822057+00:00"
   },
   {
-    "id": "gh_7809452003",
+    "id": "gh_8112183",
+    "title": "Senior AI Engineer \u2013 Notebooks",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote",
+    "url": "https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T05:45:50-04:00",
+    "detected_at": "2026-08-27T11:44:57.822057+00:00"
+  },
+  {
+    "id": "gh_8138828",
     "title": "Senior Software Engineer",
-    "company_slug": "fivetran",
-    "company": "Fivetran",
-    "location": "Bengaluru, Karnataka, India, APAC",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7809452003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T02:18:11-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
-  },
-  {
-    "id": "gh_8159014",
-    "title": "Senior Software Engineer (UI-React)",
-    "company_slug": "okta",
-    "company": "Okta",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
     "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8159014?gh_jid=8159014",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8138828",
     "ats": "Greenhouse",
-    "posted_at": "2026-08-27T04:35:32-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
-  },
-  {
-    "id": "gh_7763650",
-    "title": "Manager, Software Engineering (Services Lead) - Unpublished R&D Product",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/7763650?gh_jid=7763650",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T20:52:40-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
-  },
-  {
-    "id": "gh_8160843",
-    "title": "Senior Software Engineer, Core Engine",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T02:33:52-04:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
-  },
-  {
-    "id": "ab_8efd3a0a-fc66-46e2-9415-bffba10e2919",
-    "title": "AI Solutions Engineer",
-    "company_slug": "ramp",
-    "company": "Ramp",
-    "location": "New York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
-    "ats": "Ashby",
-    "posted_at": "2026-08-27T03:05:26.969+00:00",
-    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+    "posted_at": "2026-08-27T05:38:52-04:00",
+    "detected_at": "2026-08-27T11:44:57.822057+00:00"
   }
 ]
