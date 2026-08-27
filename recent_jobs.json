@@ -1,5 +1,93 @@
 [
   {
+    "id": "gh_5404730008",
+    "title": "Staff+ Software Engineer, RL Data Platform",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404730008",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T09:21:33-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5223713007",
+    "title": "Senior Embedded Realtime Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Boulder, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223713007?gh_jid=5223713007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T08:52:13-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5223729007",
+    "title": "Senior Manufacturing Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Lexington, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223729007?gh_jid=5223729007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T09:06:32-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5223730007",
+    "title": "Senior Production Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Lexington, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223730007?gh_jid=5223730007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T09:06:28-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5223714007",
+    "title": "Senior Realtime Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Boulder, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223714007?gh_jid=5223714007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T08:52:10-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5209235007",
+    "title": "Site Reliability Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Waltham, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209235007?gh_jid=5209235007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T08:46:58-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "gh_5223371007",
+    "title": "Staff Software Engineer, Space Special Programs",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223371007?gh_jid=5223371007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T09:15:05-04:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
+    "id": "ab_9a175381-45e2-42b6-bd64-6c84532365f9",
+    "title": "Software Engineer, RL Data ",
+    "company_slug": "cursor",
+    "company": "Cursor",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
+    "ats": "Ashby",
+    "posted_at": "2026-08-27T13:28:55.372+00:00",
+    "detected_at": "2026-08-27T13:31:01.106098+00:00"
+  },
+  {
     "id": "gh_8161428",
     "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
     "company_slug": "elastic",
