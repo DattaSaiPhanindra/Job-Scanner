@@ -1,5 +1,16 @@
 [
   {
+    "id": "ab_b28b990c-54e4-4be4-a33a-d5518dc3e117",
+    "title": "Manager, Applied AI Engineering (Codex)",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117",
+    "ats": "Ashby",
+    "posted_at": "2026-08-27T13:49:10.819+00:00",
+    "detected_at": "2026-08-27T13:50:50.240526+00:00"
+  },
+  {
     "id": "gh_5404730008",
     "title": "Staff+ Software Engineer, RL Data Platform",
     "company_slug": "anthropic",
@@ -185,49 +196,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-08-27T08:11:33-04:00",
     "detected_at": "2026-08-27T12:21:54.179312+00:00"
-  },
-  {
-    "id": "gh_7950166",
-    "title": "Lead Software Engineer",
-    "company_slug": "appian",
-    "company": "Appian",
-    "location": "Chennai, India",
-    "url": "https://job-boards.greenhouse.io/appian/jobs/7950166",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T06:17:28-04:00",
-    "detected_at": "2026-08-27T11:44:57.822057+00:00"
-  },
-  {
-    "id": "gh_7515882",
-    "title": "Senior Named Solutions Engineer, UKI",
-    "company_slug": "cloudflare",
-    "company": "Cloudflare",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T06:26:14-04:00",
-    "detected_at": "2026-08-27T11:44:57.822057+00:00"
-  },
-  {
-    "id": "gh_8112183",
-    "title": "Senior AI Engineer \u2013 Notebooks",
-    "company_slug": "datadog",
-    "company": "Datadog",
-    "location": "Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote",
-    "url": "https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T05:45:50-04:00",
-    "detected_at": "2026-08-27T11:44:57.822057+00:00"
-  },
-  {
-    "id": "gh_8138828",
-    "title": "Senior Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8138828",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-27T05:38:52-04:00",
-    "detected_at": "2026-08-27T11:44:57.822057+00:00"
   }
 ]
