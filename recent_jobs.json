@@ -1,101 +1,79 @@
 [
   {
-    "id": "gh_8727543002",
-    "title": "Sr. Solutions Engineer - Games",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Northeast - United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727543002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T17:56:05-04:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "gh_8727410002",
-    "title": "Staff Software Engineer, Safety Experience",
-    "company_slug": "discord",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8727410002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T16:58:25-04:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "gh_8614945002",
-    "title": "Senior Software Engineer (RoR/Go), SSCS: Authentication",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Canada; Remote, United States",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8614945002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T18:32:05-04:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "gh_8110113",
-    "title": "Staff Software Engineer- Tax Credits",
-    "company_slug": "gusto",
-    "company": "Gusto",
-    "location": "New York, New York, United States",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8110113",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T18:18:28-04:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "gh_7978505003",
-    "title": "Senior Solutions Engineer - West",
-    "company_slug": "launchdarkly",
-    "company": "Launchdarkly",
-    "location": "Remote - US West",
-    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7978505003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-26T17:56:01-04:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "ab_81c3c26a-71e3-4c4c-a88e-88c538a169be",
-    "title": "Software Engineer, ML Developer Experience",
-    "company_slug": "anyscale",
-    "company": "Anyscale",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/anyscale/81c3c26a-71e3-4c4c-a88e-88c538a169be",
-    "ats": "Ashby",
-    "posted_at": "2026-08-26T22:16:41.798+00:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "ab_e6eac654-0172-45ac-8598-d1a615f4886b",
-    "title": "Senior Software Engineer I (Agentic Engineering, Europe)",
-    "company_slug": "coder",
-    "company": "Coder",
-    "location": "United Kingdom",
-    "url": "https://jobs.ashbyhq.com/coder/e6eac654-0172-45ac-8598-d1a615f4886b",
-    "ats": "Ashby",
-    "posted_at": "2026-08-26T21:53:13.835+00:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
-  },
-  {
-    "id": "ab_cd346ef3-24dd-4e1f-b863-4af569def480",
-    "title": "Senior Software Engineer I (Agentic Engineering, Eastern Timezone)",
-    "company_slug": "coder",
-    "company": "Coder",
+    "id": "gh_7702714",
+    "title": "Staff Software Engineer, Streaming Infrastructure",
+    "company_slug": "airbnb",
+    "company": "Airbnb",
     "location": "United States",
-    "url": "https://jobs.ashbyhq.com/coder/cd346ef3-24dd-4e1f-b863-4af569def480",
-    "ats": "Ashby",
-    "posted_at": "2026-08-26T22:01:47.478+00:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
+    "url": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T01:29:10-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
   },
   {
-    "id": "ab_47ad420c-9302-4a4f-a35f-7dd29e1d9d28",
-    "title": "AI Engineer, Enablement ",
-    "company_slug": "langchain",
-    "company": "Langchain",
-    "location": "New York, NY",
-    "url": "https://jobs.ashbyhq.com/langchain/47ad420c-9302-4a4f-a35f-7dd29e1d9d28",
+    "id": "gh_8160557",
+    "title": "Staff Software Engineer, Compute Platform (Routing)",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T20:36:40-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+  },
+  {
+    "id": "gh_7809452003",
+    "title": "Senior Software Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7809452003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T02:18:11-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+  },
+  {
+    "id": "gh_8159014",
+    "title": "Senior Software Engineer (UI-React)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8159014?gh_jid=8159014",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T04:35:32-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+  },
+  {
+    "id": "gh_7763650",
+    "title": "Manager, Software Engineering (Services Lead) - Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/7763650?gh_jid=7763650",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-26T20:52:40-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+  },
+  {
+    "id": "gh_8160843",
+    "title": "Senior Software Engineer, Core Engine",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
+    "ats": "Greenhouse",
+    "posted_at": "2026-08-27T02:33:52-04:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
+  },
+  {
+    "id": "ab_8efd3a0a-fc66-46e2-9415-bffba10e2919",
+    "title": "AI Solutions Engineer",
+    "company_slug": "ramp",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
     "ats": "Ashby",
-    "posted_at": "2026-08-26T22:58:10.127+00:00",
-    "detected_at": "2026-08-27T00:01:56.899879+00:00"
+    "posted_at": "2026-08-27T03:05:26.969+00:00",
+    "detected_at": "2026-08-27T09:30:38.384817+00:00"
   }
 ]
