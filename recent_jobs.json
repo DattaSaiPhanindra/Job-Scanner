@@ -1,13 +1,24 @@
 [
   {
-    "id": "gh_7964956",
-    "title": "Full Stack Engineer, Growth",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Singapore",
-    "url": "https://stripe.com/jobs/search?gh_jid=7964956",
-    "ats": "Greenhouse",
-    "posted_at": "2026-08-30T11:19:44-04:00",
-    "detected_at": "2026-08-30T18:02:43.520822+00:00"
+    "id": "ab_0ddbb960-df61-4d19-82f1-e6cd5ab8dd64",
+    "title": "Senior Software Engineer - Dynamic Tables",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "DE-Berlin-Trion Building",
+    "url": "https://jobs.ashbyhq.com/snowflake/0ddbb960-df61-4d19-82f1-e6cd5ab8dd64",
+    "ats": "Ashby",
+    "posted_at": "2026-08-30T20:21:14.249+00:00",
+    "detected_at": "2026-08-30T20:58:45.281230+00:00"
+  },
+  {
+    "id": "ab_99dfc810-9487-4ac1-91a8-50acefd05bae",
+    "title": "Software Engineer - Dynamic Tables",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "DE-Berlin-Trion Building",
+    "url": "https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae",
+    "ats": "Ashby",
+    "posted_at": "2026-08-30T20:13:40.368+00:00",
+    "detected_at": "2026-08-30T20:58:45.281230+00:00"
   }
 ]
