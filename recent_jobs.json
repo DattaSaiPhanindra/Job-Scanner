@@ -1,13 +1,68 @@
 [
   {
-    "id": "gh_8164694",
-    "title": "Senior Software Engineer - Addressing Team",
+    "id": "gh_5211077007",
+    "title": "Software Engineering Intern - Summer 2026",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-02T04:58:18-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
+  },
+  {
+    "id": "gh_8172846",
+    "title": "Customer Solutions Engineer, ASEAN",
     "company_slug": "cloudflare",
     "company": "Cloudflare",
     "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8164694?gh_jid=8164694",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8172846?gh_jid=8172846",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-01T20:49:17-04:00",
-    "detected_at": "2026-09-02T04:59:55.405762+00:00"
+    "posted_at": "2026-09-02T03:55:30-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
+  },
+  {
+    "id": "gh_8172845",
+    "title": "Customer Solutions Engineer, Korea",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8172845?gh_jid=8172845",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-02T03:55:28-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
+  },
+  {
+    "id": "gh_8768938002",
+    "title": "Senior Solutions Engineer - Benelux Geo",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768938002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-02T04:30:50-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
+  },
+  {
+    "id": "gh_8772594002",
+    "title": "Software Engineer",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "Seattle, WA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-02T03:13:55-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
+  },
+  {
+    "id": "gh_8772571002",
+    "title": "Software Engineer",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-02T03:13:51-04:00",
+    "detected_at": "2026-09-02T09:22:30.710519+00:00"
   }
 ]
