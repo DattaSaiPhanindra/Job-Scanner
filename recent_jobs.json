@@ -1,5 +1,82 @@
 [
   {
+    "id": "gh_5227576007",
+    "title": "Platform Engineer, Battlespace Awareness",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227576007?gh_jid=5227576007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T14:46:54-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_5228068007",
+    "title": "Senior Embedded Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228068007?gh_jid=5228068007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T19:07:45-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_5227588007",
+    "title": "Software Engineer, Tooling",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227588007?gh_jid=5227588007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T14:46:56-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_8164724",
+    "title": "Senior Software Engineer, Network On-Ramps",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T20:20:19-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_8029037",
+    "title": "Software Engineer, Data Layer ",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - Singapore",
+    "url": "https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T18:41:28-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_8170956",
+    "title": "Staff Software Engineer, Developer Infrastructure ",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T18:41:45-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
+    "id": "gh_8131354",
+    "title": "Senior Software Engineer, 3D Engine Scalability",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8131354?gh_jid=8131354",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-01T20:19:44-04:00",
+    "detected_at": "2026-09-02T00:30:56.756184+00:00"
+  },
+  {
     "id": "gh_7980264003",
     "title": "Senior Software Engineer, Backend (Card Ledger & Money Movement)",
     "company_slug": "affirm",
