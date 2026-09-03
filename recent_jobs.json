@@ -1,5 +1,38 @@
 [
   {
+    "id": "gh_8175843",
+    "title": "Senior Software Engineer, Caper AI",
+    "company_slug": "instacart",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8175843",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T19:15:42-04:00",
+    "detected_at": "2026-09-03T23:42:36.000289+00:00"
+  },
+  {
+    "id": "gh_8178502",
+    "title": "Senior Software Engineer, Fulfillment",
+    "company_slug": "instacart",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8178502",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T19:15:51-04:00",
+    "detected_at": "2026-09-03T23:42:36.000289+00:00"
+  },
+  {
+    "id": "gh_8178568",
+    "title": "Senior Software Engineer, Growth",
+    "company_slug": "instacart",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8178568",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T19:15:13-04:00",
+    "detected_at": "2026-09-03T23:42:36.000289+00:00"
+  },
+  {
     "id": "gh_8174949",
     "title": "Senior Software Engineer, Agent Verification ",
     "company_slug": "coinbase",
