@@ -1,35 +1,13 @@
 [
   {
-    "id": "gh_8464570002",
-    "title": "Staff Software Engineer - Consumer Revenue",
-    "company_slug": "discord",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8464570002",
+    "id": "gh_8160776",
+    "title": "Software Engineer, New Grad",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-02T19:29:30-04:00",
-    "detected_at": "2026-09-03T00:18:12.552893+00:00"
-  },
-  {
-    "id": "gh_8738225002",
-    "title": "Senior Software Engineer (Ruby), Security Platform: Authorization",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738225002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-02T19:42:29-04:00",
-    "detected_at": "2026-09-03T00:18:12.552893+00:00"
-  },
-  {
-    "id": "ab_f4754cf9-8e07-46b9-8874-528e810892f0",
-    "title": "Senior Software Engineer - Cloud Security",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0",
-    "ats": "Ashby",
-    "posted_at": "2026-09-02T22:56:39.577+00:00",
-    "detected_at": "2026-09-03T00:18:12.552893+00:00"
+    "posted_at": "2026-09-02T23:28:52-04:00",
+    "detected_at": "2026-09-03T04:39:31.762817+00:00"
   }
 ]
