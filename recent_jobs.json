@@ -1,13 +1,35 @@
 [
   {
-    "id": "gh_8160776",
-    "title": "Software Engineer, New Grad",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Singapore",
-    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+    "id": "gh_7983207003",
+    "title": "Senior Software Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7983207003",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-02T23:28:52-04:00",
-    "detected_at": "2026-09-03T04:39:31.762817+00:00"
+    "posted_at": "2026-09-03T02:46:16-04:00",
+    "detected_at": "2026-09-03T09:10:19.017707+00:00"
+  },
+  {
+    "id": "gh_8736877002",
+    "title": "Intermediate Backend Engineer",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T02:59:02-04:00",
+    "detected_at": "2026-09-03T09:10:19.017707+00:00"
+  },
+  {
+    "id": "gh_8736862002",
+    "title": "Senior Backend Engineer",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736862002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T03:18:05-04:00",
+    "detected_at": "2026-09-03T09:10:19.017707+00:00"
   }
 ]
