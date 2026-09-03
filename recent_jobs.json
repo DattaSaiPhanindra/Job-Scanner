@@ -1,35 +1,68 @@
 [
   {
-    "id": "gh_7983207003",
-    "title": "Senior Software Engineer",
-    "company_slug": "fivetran",
-    "company": "Fivetran",
-    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7983207003",
+    "id": "gh_8160660",
+    "title": "Software Engineer, Security Rules",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-03T02:46:16-04:00",
-    "detected_at": "2026-09-03T09:10:19.017707+00:00"
+    "posted_at": "2026-09-03T08:39:43-04:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
   },
   {
-    "id": "gh_8736877002",
-    "title": "Intermediate Backend Engineer",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
+    "id": "gh_8176234",
+    "title": "Staff Site Reliability Engineer",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Bengaluru",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8176234",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-03T02:59:02-04:00",
-    "detected_at": "2026-09-03T09:10:19.017707+00:00"
+    "posted_at": "2026-09-03T06:10:02-04:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
   },
   {
-    "id": "gh_8736862002",
-    "title": "Senior Backend Engineer",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736862002",
+    "id": "gh_6163556004",
+    "title": "Manager, Solutions Engineering | AMER | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6163556004",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-03T03:18:05-04:00",
-    "detected_at": "2026-09-03T09:10:19.017707+00:00"
+    "posted_at": "2026-09-03T08:52:04-04:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
+  },
+  {
+    "id": "gh_8105156",
+    "title": "[TECH] Staff Backend Engineer [CONSUMER]",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Warszawa, Masovian Voivodeship, Poland",
+    "url": "https://careers.hellofresh.com/global/en/job/8105156?gh_jid=8105156",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T07:17:34-04:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
+  },
+  {
+    "id": "lv_7a5e6812-ac78-4ae3-a7f3-01b3e25d13ba",
+    "title": "Sr. Software Engineer- Java with ReactJS (6-9 years) - 11860",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/7a5e6812-ac78-4ae3-a7f3-01b3e25d13ba",
+    "ats": "Lever",
+    "posted_at": "2026-08-26T22:05:15.640000+00:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
+  },
+  {
+    "id": "ab_120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+    "title": "HPC Infrastructure Engineer - GPU Clusters",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+    "ats": "Ashby",
+    "posted_at": "2026-09-03T13:13:09.417+00:00",
+    "detected_at": "2026-09-03T13:36:26.173133+00:00"
   }
 ]
