@@ -1,5 +1,104 @@
 [
   {
+    "id": "gh_4973067008",
+    "title": "Data Infrastructure Engineer, Pre-training",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T21:23:09-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8783420002",
+    "title": "Sr. Solutions Engineer",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:44:58-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8783430002",
+    "title": "Sr. Solutions Engineer",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783430002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:50:03-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8178851",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Greece",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8178851&gh_jid=8178851",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:39:55-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8178850",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Poland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8178850&gh_jid=8178850",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:39:57-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8178848",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Norway",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8178848&gh_jid=8178848",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:39:58-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8096579",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8096579&gh_jid=8096579",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:40:04-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8178845",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Ireland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8178845&gh_jid=8178845",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:40:01-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
+    "id": "gh_8178843",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8178843&gh_jid=8178843",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T20:40:03-04:00",
+    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+  },
+  {
     "id": "gh_8175843",
     "title": "Senior Software Engineer, Caper AI",
     "company_slug": "instacart",
@@ -31,93 +130,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-09-03T19:15:13-04:00",
     "detected_at": "2026-09-03T23:42:36.000289+00:00"
-  },
-  {
-    "id": "gh_8174949",
-    "title": "Senior Software Engineer, Agent Verification ",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8174949?gh_jid=8174949",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T16:00:07-04:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "gh_7985794003",
-    "title": "Full Stack Engineer, Observability",
-    "company_slug": "launchdarkly",
-    "company": "Launchdarkly",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T15:51:33-04:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "gh_8162337",
-    "title": "Principal Software Engineer, Tech Lead, Retail",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote, US",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8162337",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T16:49:50-04:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "gh_8154719",
-    "title": "Senior Software Engineer, Retail",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote, US",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8154719",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T16:50:19-04:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "gh_8174504",
-    "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "San Francisco, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T16:44:52-04:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "ab_81809616-ef2f-44f8-bcee-d1e17749f45d",
-    "title": "Software Engineer (Ray Core)",
-    "company_slug": "anyscale",
-    "company": "Anyscale",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/anyscale/81809616-ef2f-44f8-bcee-d1e17749f45d",
-    "ats": "Ashby",
-    "posted_at": "2026-09-03T21:14:22.858+00:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "ab_1098311d-3a07-40ad-8107-6245a492a0b3",
-    "title": "Software Engineer, Native Learning Experiences",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3",
-    "ats": "Ashby",
-    "posted_at": "2026-09-03T19:51:26.815+00:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
-  },
-  {
-    "id": "ab_4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
-    "title": "Full Stack Software Engineer, Product Explorations",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
-    "ats": "Ashby",
-    "posted_at": "2026-09-03T20:29:00.146+00:00",
-    "detected_at": "2026-09-03T21:55:06.450781+00:00"
   }
 ]
