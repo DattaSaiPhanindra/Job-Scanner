@@ -1,57 +1,35 @@
 [
   {
-    "id": "gh_8073876",
-    "title": "Staff Backend Engineer (Coupang Pay)",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Seoul, South Korea",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073876",
+    "id": "gh_8179613",
+    "title": "Python Software Engineer, Knowledge Infrastructure",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8179613",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T05:42:36-04:00",
-    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+    "posted_at": "2026-09-04T09:29:02-04:00",
+    "detected_at": "2026-09-04T14:59:12.498519+00:00"
   },
   {
-    "id": "gh_6182461004",
-    "title": "Solutions Engineer, Enterprise, EMEA",
-    "company_slug": "hightouch",
-    "company": "Hightouch",
-    "location": "EMEA",
-    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6182461004",
+    "id": "gh_8178208",
+    "title": "Software Engineer",
+    "company_slug": "appian",
+    "company": "Appian",
+    "location": "McLean, Virginia",
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8178208",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T05:07:00-04:00",
-    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+    "posted_at": "2026-09-04T10:34:37-04:00",
+    "detected_at": "2026-09-04T14:59:12.498519+00:00"
   },
   {
-    "id": "gh_8110866",
-    "title": "Manager II, Software Engineering",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Bangalore, India",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8110866",
+    "id": "gh_8177523",
+    "title": "Senior Software Engineer, Build Loop",
+    "company_slug": "webflow",
+    "company": "Webflow",
+    "location": "Argentina Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8177523",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T04:21:53-04:00",
-    "detected_at": "2026-09-04T11:12:59.893299+00:00"
-  },
-  {
-    "id": "gh_8015738",
-    "title": "Staff, Software Engineer (L4)",
-    "company_slug": "twilio",
-    "company": "Twilio",
-    "location": "Remote - India",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8015738",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T05:28:57-04:00",
-    "detected_at": "2026-09-04T11:12:59.893299+00:00"
-  },
-  {
-    "id": "ab_fa58f03f-af7b-4914-b131-0cfc5bebaed5",
-    "title": "Senior Software Engineer - Full Stack (Merchants)",
-    "company_slug": "deliveroo",
-    "company": "Deliveroo",
-    "location": "United Kingdom - Home Office",
-    "url": "https://jobs.ashbyhq.com/deliveroo/fa58f03f-af7b-4914-b131-0cfc5bebaed5",
-    "ats": "Ashby",
-    "posted_at": "2026-09-04T08:43:50.626+00:00",
-    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+    "posted_at": "2026-09-04T09:55:47-04:00",
+    "detected_at": "2026-09-04T14:59:12.498519+00:00"
   }
 ]
