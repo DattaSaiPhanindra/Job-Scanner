@@ -1,35 +1,90 @@
 [
   {
-    "id": "gh_8179613",
-    "title": "Python Software Engineer, Knowledge Infrastructure",
-    "company_slug": "adyen",
-    "company": "Adyen",
-    "location": "Amsterdam",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/8179613",
+    "id": "gh_5208852007",
+    "title": "Mission Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T09:29:02-04:00",
-    "detected_at": "2026-09-04T14:59:12.498519+00:00"
+    "posted_at": "2026-09-04T10:08:15-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
   },
   {
-    "id": "gh_8178208",
-    "title": "Software Engineer",
-    "company_slug": "appian",
-    "company": "Appian",
-    "location": "McLean, Virginia",
-    "url": "https://job-boards.greenhouse.io/appian/jobs/8178208",
+    "id": "gh_5416709008",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T10:34:37-04:00",
-    "detected_at": "2026-09-04T14:59:12.498519+00:00"
+    "posted_at": "2026-09-04T13:02:37-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
   },
   {
-    "id": "gh_8177523",
-    "title": "Senior Software Engineer, Build Loop",
-    "company_slug": "webflow",
-    "company": "Webflow",
-    "location": "Argentina Remote",
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/8177523",
+    "id": "gh_8128254",
+    "title": "Senior Data Platform Engineer, Intelligent Platforms (all genders)",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Berlin, Berlin, Germany",
+    "url": "https://careers.hellofresh.com/global/en/job/8128254?gh_jid=8128254",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T09:55:47-04:00",
-    "detected_at": "2026-09-04T14:59:12.498519+00:00"
+    "posted_at": "2026-09-04T12:29:00-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
+  },
+  {
+    "id": "gh_8174475",
+    "title": "Senior Software Engineer, Data Engineering (Short Term) ",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8174475?gh_jid=8174475",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T12:01:50-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
+  },
+  {
+    "id": "gh_8164933",
+    "title": "Senior Software Engineer, Sharing",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8164933?gh_jid=8164933",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T14:05:27-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
+  },
+  {
+    "id": "gh_4730845005",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "company_slug": "scaleai",
+    "company": "Scaleai",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T12:00:19-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
+  },
+  {
+    "id": "gh_4730836005",
+    "title": "Software Engineer - New Grad",
+    "company_slug": "scaleai",
+    "company": "Scaleai",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T12:53:37-04:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
+  },
+  {
+    "id": "ab_a923d2a8-a994-4cc2-9c71-bc8e7d99f583",
+    "title": "Senior Solutions Engineer (US Federal)",
+    "company_slug": "coder",
+    "company": "Coder",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/coder/a923d2a8-a994-4cc2-9c71-bc8e7d99f583",
+    "ats": "Ashby",
+    "posted_at": "2026-09-04T16:16:37.283+00:00",
+    "detected_at": "2026-09-04T18:11:09.340004+00:00"
   }
 ]
