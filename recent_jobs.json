@@ -1,134 +1,79 @@
 [
   {
-    "id": "gh_4973067008",
-    "title": "Data Infrastructure Engineer, Pre-training",
+    "id": "gh_5227989007",
+    "title": "Senior AI Infrastructure Engineer, Physical Infrastructure",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227989007?gh_jid=5227989007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T17:52:11-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+  },
+  {
+    "id": "gh_5117558007",
+    "title": "Senior Software Engineer, Warfighter Systems ",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Bellevue, Washington, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007?gh_jid=5117558007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T15:12:10-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+  },
+  {
+    "id": "gh_5228337007",
+    "title": "Software Engineer, Distributed Simulation",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Seattle, Washington, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-03T15:24:32-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+  },
+  {
+    "id": "gh_5412734008",
+    "title": "Staff+ Software Engineer, Claude Science",
     "company_slug": "anthropic",
     "company": "Anthropic",
     "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-03T21:23:09-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
+    "posted_at": "2026-09-03T23:18:30-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
   },
   {
-    "id": "gh_8783420002",
-    "title": "Sr. Solutions Engineer",
+    "id": "gh_8179114",
+    "title": "Senior Infrastructure Engineer, Trading ",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T01:34:52-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+  },
+  {
+    "id": "gh_8129527",
+    "title": "Staff Backend Engineer",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Bengaluru",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8129527",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T01:08:48-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+  },
+  {
+    "id": "gh_7651346002",
+    "title": "Staff Software Engineer ",
     "company_slug": "databricks",
     "company": "Databricks",
-    "location": "Singapore",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002",
+    "location": "Bengaluru, India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:44:58-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8783430002",
-    "title": "Sr. Solutions Engineer",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Singapore",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783430002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:50:03-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8178851",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Greece",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8178851&gh_jid=8178851",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:39:55-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8178850",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Poland",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8178850&gh_jid=8178850",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:39:57-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8178848",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Norway",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8178848&gh_jid=8178848",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:39:58-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8096579",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Spain",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8096579&gh_jid=8096579",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:40:04-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8178845",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Ireland",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8178845&gh_jid=8178845",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:40:01-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8178843",
-    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Portugal",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8178843&gh_jid=8178843",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T20:40:03-04:00",
-    "detected_at": "2026-09-04T01:23:31.729475+00:00"
-  },
-  {
-    "id": "gh_8175843",
-    "title": "Senior Software Engineer, Caper AI",
-    "company_slug": "instacart",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8175843",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T19:15:42-04:00",
-    "detected_at": "2026-09-03T23:42:36.000289+00:00"
-  },
-  {
-    "id": "gh_8178502",
-    "title": "Senior Software Engineer, Fulfillment",
-    "company_slug": "instacart",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8178502",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T19:15:51-04:00",
-    "detected_at": "2026-09-03T23:42:36.000289+00:00"
-  },
-  {
-    "id": "gh_8178568",
-    "title": "Senior Software Engineer, Growth",
-    "company_slug": "instacart",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8178568",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T19:15:13-04:00",
-    "detected_at": "2026-09-03T23:42:36.000289+00:00"
+    "posted_at": "2026-09-04T00:33:41-04:00",
+    "detected_at": "2026-09-04T06:09:56.909983+00:00"
   }
 ]
