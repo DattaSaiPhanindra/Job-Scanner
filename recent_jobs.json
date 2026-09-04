@@ -1,79 +1,57 @@
 [
   {
-    "id": "gh_5227989007",
-    "title": "Senior AI Infrastructure Engineer, Physical Infrastructure",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227989007?gh_jid=5227989007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T17:52:11-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
-  },
-  {
-    "id": "gh_5117558007",
-    "title": "Senior Software Engineer, Warfighter Systems ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Bellevue, Washington, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007?gh_jid=5117558007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T15:12:10-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
-  },
-  {
-    "id": "gh_5228337007",
-    "title": "Software Engineer, Distributed Simulation",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Seattle, Washington, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T15:24:32-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
-  },
-  {
-    "id": "gh_5412734008",
-    "title": "Staff+ Software Engineer, Claude Science",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-03T23:18:30-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
-  },
-  {
-    "id": "gh_8179114",
-    "title": "Senior Infrastructure Engineer, Trading ",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T01:34:52-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
-  },
-  {
-    "id": "gh_8129527",
-    "title": "Staff Backend Engineer",
+    "id": "gh_8073876",
+    "title": "Staff Backend Engineer (Coupang Pay)",
     "company_slug": "coupang",
     "company": "Coupang",
-    "location": "Bengaluru",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8129527",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073876",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T01:08:48-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+    "posted_at": "2026-09-04T05:42:36-04:00",
+    "detected_at": "2026-09-04T11:12:59.893299+00:00"
   },
   {
-    "id": "gh_7651346002",
-    "title": "Staff Software Engineer ",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Bengaluru, India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002",
+    "id": "gh_6182461004",
+    "title": "Solutions Engineer, Enterprise, EMEA",
+    "company_slug": "hightouch",
+    "company": "Hightouch",
+    "location": "EMEA",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6182461004",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-04T00:33:41-04:00",
-    "detected_at": "2026-09-04T06:09:56.909983+00:00"
+    "posted_at": "2026-09-04T05:07:00-04:00",
+    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+  },
+  {
+    "id": "gh_8110866",
+    "title": "Manager II, Software Engineering",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bangalore, India",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8110866",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T04:21:53-04:00",
+    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+  },
+  {
+    "id": "gh_8015738",
+    "title": "Staff, Software Engineer (L4)",
+    "company_slug": "twilio",
+    "company": "Twilio",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8015738",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-04T05:28:57-04:00",
+    "detected_at": "2026-09-04T11:12:59.893299+00:00"
+  },
+  {
+    "id": "ab_fa58f03f-af7b-4914-b131-0cfc5bebaed5",
+    "title": "Senior Software Engineer - Full Stack (Merchants)",
+    "company_slug": "deliveroo",
+    "company": "Deliveroo",
+    "location": "United Kingdom - Home Office",
+    "url": "https://jobs.ashbyhq.com/deliveroo/fa58f03f-af7b-4914-b131-0cfc5bebaed5",
+    "ats": "Ashby",
+    "posted_at": "2026-09-04T08:43:50.626+00:00",
+    "detected_at": "2026-09-04T11:12:59.893299+00:00"
   }
 ]
