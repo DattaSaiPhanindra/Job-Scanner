@@ -1,5 +1,27 @@
 [
   {
+    "id": "ab_a14780e7-0316-478c-8e6a-d7629c31c49d",
+    "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d",
+    "ats": "Ashby",
+    "posted_at": "2026-09-04T23:40:07.105+00:00",
+    "detected_at": "2026-09-05T00:20:55.926136+00:00"
+  },
+  {
+    "id": "ab_ddbc1916-39a0-47ff-b868-c9e8b90569f1",
+    "title": "Senior Software Engineer, Cloud Platform Foundations",
+    "company_slug": "temporal",
+    "company": "Temporal",
+    "location": "Seattle, Washington",
+    "url": "https://jobs.ashbyhq.com/temporal/ddbc1916-39a0-47ff-b868-c9e8b90569f1",
+    "ats": "Ashby",
+    "posted_at": "2026-09-04T23:21:05.513+00:00",
+    "detected_at": "2026-09-05T00:20:55.926136+00:00"
+  },
+  {
     "id": "gh_8179210",
     "title": "Senior Staff Software Engineer, Institutional Exchange",
     "company_slug": "coinbase",
@@ -9,148 +31,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-09-04T18:28:44-04:00",
     "detected_at": "2026-09-04T22:33:37.709838+00:00"
-  },
-  {
-    "id": "gh_7981805003",
-    "title": "Software Engineer II",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7981805003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:47:47-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_7981803003",
-    "title": "Software Engineer II, Backend (Post-Transaction)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7981803003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:47:50-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8114074",
-    "title": "Senior Site Reliability Engineer I",
-    "company_slug": "braze",
-    "company": "Braze",
-    "location": "S\u00e3o Paulo",
-    "url": "https://job-boards.greenhouse.io/braze/jobs/8114074",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T14:53:14-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8784354002",
-    "title": "Senior Site Reliability Engineering",
-    "company_slug": "duolingo",
-    "company": "Duolingo",
-    "location": "New York, NY",
-    "url": "https://careers.duolingo.com/jobs/8784354002?gh_jid=8784354002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T14:19:22-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8784381002",
-    "title": "Senior Site Reliability Engineering",
-    "company_slug": "duolingo",
-    "company": "Duolingo",
-    "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8784381002?gh_jid=8784381002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T14:19:24-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8180636",
-    "title": "Staff Software Engineer, Developer Ecosystem",
-    "company_slug": "reddit",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:23:54-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8174908",
-    "title": "Staff Software Engineer, Enterprise AI",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8174908?gh_jid=8174908",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:47:00-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_5416941008",
-    "title": "Staff Software Engineer",
-    "company_slug": "scopely",
-    "company": "Scopely",
-    "location": "US - Bellevue, Washington, United States",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/5416941008?gh_jid=5416941008",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:58:15-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8140393",
-    "title": "Site Reliability Engineering, Technical Lead Manager",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Mountain View, CA, USA ",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8140393",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:08:46-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "gh_8157888",
-    "title": "Site Reliability Engineer, Lead ",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8157888",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-04T15:09:02-04:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "ab_fb46f0d4-98c4-4f59-99c1-f5a151232a67",
-    "title": "Senior Software Engineer II (North America)",
-    "company_slug": "coder",
-    "company": "Coder",
-    "location": "North America | United States | Canada",
-    "url": "https://jobs.ashbyhq.com/coder/fb46f0d4-98c4-4f59-99c1-f5a151232a67",
-    "ats": "Ashby",
-    "posted_at": "2026-09-04T20:27:56.474+00:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "ab_e67d79a1-cbeb-4dd2-8c81-00eb0969f911",
-    "title": "Lead Applied AI Engineer",
-    "company_slug": "langchain",
-    "company": "Langchain",
-    "location": "New York, NY",
-    "url": "https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911",
-    "ats": "Ashby",
-    "posted_at": "2026-09-04T19:46:36.578+00:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
-  },
-  {
-    "id": "ab_351f89c9-7502-4c5c-b600-b3a1192c45eb",
-    "title": "Principal Software Engineer - Performance Engineering (Cloud Infrastructure)",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/351f89c9-7502-4c5c-b600-b3a1192c45eb",
-    "ats": "Ashby",
-    "posted_at": "2026-09-04T18:27:59.714+00:00",
-    "detected_at": "2026-09-04T20:47:06.876103+00:00"
   }
 ]
