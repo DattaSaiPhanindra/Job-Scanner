@@ -1,46 +1,24 @@
 [
   {
-    "id": "gh_8184838",
-    "title": "Senior Software Engineer, Security Rules",
-    "company_slug": "cloudflare",
-    "company": "Cloudflare",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838",
+    "id": "gh_8106224",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "company_slug": "dropbox",
+    "company": "Dropbox",
+    "location": "Remote - US: All locations",
+    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-07T07:21:41-04:00",
-    "detected_at": "2026-09-07T11:51:00.907478+00:00"
+    "posted_at": "2026-09-07T11:17:51-04:00",
+    "detected_at": "2026-09-07T16:54:06.021938+00:00"
   },
   {
-    "id": "gh_4599111",
-    "title": "Senior Software Engineer - Distributed Systems",
-    "company_slug": "datadog",
-    "company": "Datadog",
-    "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France; Tel Aviv, Israel",
-    "url": "https://careers.datadoghq.com/detail/4599111/?gh_jid=4599111",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-07T04:55:31-04:00",
-    "detected_at": "2026-09-07T11:51:00.907478+00:00"
-  },
-  {
-    "id": "gh_8102359",
-    "title": "Senior Software Engineer - (Java & DSA)",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8102359?gh_jid=8102359",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-07T04:45:40-04:00",
-    "detected_at": "2026-09-07T11:51:00.907478+00:00"
-  },
-  {
-    "id": "gh_5030576007",
-    "title": "Staff Site Reliability Engineer",
-    "company_slug": "zscaler",
-    "company": "Zscaler",
-    "location": "Remote - Netherlands",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5030576007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-07T05:00:06-04:00",
-    "detected_at": "2026-09-07T11:51:00.907478+00:00"
+    "id": "ab_840bc4cf-ddc3-4a26-9e04-fa04828ae654",
+    "title": "Senior Software Engineer, Infrastructure",
+    "company_slug": "stream",
+    "company": "Stream",
+    "location": "Toronto office",
+    "url": "https://jobs.ashbyhq.com/stream/840bc4cf-ddc3-4a26-9e04-fa04828ae654",
+    "ats": "Ashby",
+    "posted_at": "2026-09-07T14:34:43.624+00:00",
+    "detected_at": "2026-09-07T16:54:06.021938+00:00"
   }
 ]
