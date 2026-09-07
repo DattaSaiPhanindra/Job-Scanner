@@ -1,13 +1,46 @@
 [
   {
-    "id": "gh_8130883",
-    "title": "Software Engineer, Intern",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Singapore",
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "id": "gh_8184838",
+    "title": "Senior Software Engineer, Security Rules",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-07T01:44:20-04:00",
-    "detected_at": "2026-09-07T05:59:00.913198+00:00"
+    "posted_at": "2026-09-07T07:21:41-04:00",
+    "detected_at": "2026-09-07T11:51:00.907478+00:00"
+  },
+  {
+    "id": "gh_4599111",
+    "title": "Senior Software Engineer - Distributed Systems",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France; Tel Aviv, Israel",
+    "url": "https://careers.datadoghq.com/detail/4599111/?gh_jid=4599111",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-07T04:55:31-04:00",
+    "detected_at": "2026-09-07T11:51:00.907478+00:00"
+  },
+  {
+    "id": "gh_8102359",
+    "title": "Senior Software Engineer - (Java & DSA)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8102359?gh_jid=8102359",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-07T04:45:40-04:00",
+    "detected_at": "2026-09-07T11:51:00.907478+00:00"
+  },
+  {
+    "id": "gh_5030576007",
+    "title": "Staff Site Reliability Engineer",
+    "company_slug": "zscaler",
+    "company": "Zscaler",
+    "location": "Remote - Netherlands",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5030576007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-07T05:00:06-04:00",
+    "detected_at": "2026-09-07T11:51:00.907478+00:00"
   }
 ]
