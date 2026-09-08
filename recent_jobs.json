@@ -1,90 +1,46 @@
 [
   {
-    "id": "gh_8171205",
-    "title": "Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8171205",
+    "id": "gh_7737233002",
+    "title": "Software Engineer - Backend",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Aarhus, Denmark",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T01:28:39-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
+    "posted_at": "2026-09-08T07:51:39-04:00",
+    "detected_at": "2026-09-08T14:00:23.552400+00:00"
   },
   {
-    "id": "gh_8171197",
-    "title": "Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8171197",
+    "id": "gh_8143733",
+    "title": "Senior Solutions Engineer,Auth0",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "London, United Kingdom",
+    "url": "https://www.okta.com/company/careers/opportunity/8143733?gh_jid=8143733",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T01:22:05-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
+    "posted_at": "2026-09-08T08:34:37-04:00",
+    "detected_at": "2026-09-08T14:00:23.552400+00:00"
   },
   {
-    "id": "gh_7766958003",
-    "title": "Senior Software Engineer, Client Platform",
-    "company_slug": "postman",
-    "company": "Postman",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://job-boards.greenhouse.io/postman/jobs/7766958003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-08T02:52:15-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
-  },
-  {
-    "id": "gh_8185374",
-    "title": "Principal Software Engineer, Data Platform",
+    "id": "gh_8164572",
+    "title": "Senior Software Engineer - Android ",
     "company_slug": "toast",
     "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8185374",
+    "location": "Dublin, Ireland ",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8164572",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T03:32:41-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
+    "posted_at": "2026-09-08T09:53:39-04:00",
+    "detected_at": "2026-09-08T14:00:23.552400+00:00"
   },
   {
-    "id": "gh_8185372",
-    "title": "Senior Software Engineer, Analytics & Search ",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8185372",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-08T03:32:12-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
-  },
-  {
-    "id": "gh_8185448",
-    "title": "Senior Software Engineer, IQ Grow",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8185448",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-08T05:09:43-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
-  },
-  {
-    "id": "gh_8185446",
-    "title": "Software Engineer II, IQ Grow",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8185446",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-08T05:08:07-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
-  },
-  {
-    "id": "gh_8185438",
-    "title": "Software Engineer I, IQ Grow",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8185438",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-08T05:05:00-04:00",
-    "detected_at": "2026-09-08T09:53:34.907911+00:00"
+    "id": "ab_da6f6da1-eabf-4647-ab1c-6e138b14a6fe",
+    "title": "Sr. Frontend Software Engineer - Growth",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/clickhouse/da6f6da1-eabf-4647-ab1c-6e138b14a6fe",
+    "ats": "Ashby",
+    "posted_at": "2026-09-08T13:48:47.742+00:00",
+    "detected_at": "2026-09-08T14:00:23.552400+00:00"
   }
 ]
