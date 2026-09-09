@@ -1,35 +1,24 @@
 [
   {
-    "id": "gh_5232805007",
-    "title": "Senior Mission Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232805007?gh_jid=5232805007",
+    "id": "gh_8785285002",
+    "title": "Senior Software Engineer, NLP",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8785285002",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T16:52:17-04:00",
-    "detected_at": "2026-09-09T00:59:15.779492+00:00"
+    "posted_at": "2026-09-09T01:43:17-04:00",
+    "detected_at": "2026-09-09T05:47:16.874385+00:00"
   },
   {
-    "id": "gh_5229930007",
-    "title": "Senior Robotics Software Engineer, Omen",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229930007?gh_jid=5229930007",
+    "id": "gh_7849955",
+    "title": "Principal Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T19:35:32-04:00",
-    "detected_at": "2026-09-09T00:59:15.779492+00:00"
-  },
-  {
-    "id": "ab_56d541d3-02b5-44d8-b40b-4df72cdd0405",
-    "title": "Software Engineer, AI for Chip Design",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
-    "ats": "Ashby",
-    "posted_at": "2026-09-08T23:43:33.720+00:00",
-    "detected_at": "2026-09-09T00:59:15.779492+00:00"
+    "posted_at": "2026-09-08T23:11:24-04:00",
+    "detected_at": "2026-09-09T05:47:16.874385+00:00"
   }
 ]
