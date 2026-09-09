@@ -1,24 +1,46 @@
 [
   {
-    "id": "gh_8785285002",
-    "title": "Senior Software Engineer, NLP",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8785285002",
+    "id": "gh_8188028",
+    "title": "Senior AI Engineer \u2013 Notebooks",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "France, Remote; Germany, Remote; Spain, Remote",
+    "url": "https://careers.datadoghq.com/detail/8188028/?gh_jid=8188028",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-09T01:43:17-04:00",
-    "detected_at": "2026-09-09T05:47:16.874385+00:00"
+    "posted_at": "2026-09-09T04:20:09-04:00",
+    "detected_at": "2026-09-09T10:08:38.748529+00:00"
   },
   {
-    "id": "gh_7849955",
-    "title": "Principal Software Engineer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955",
+    "id": "gh_8188027",
+    "title": "Senior AI Engineer \u2013 Notebooks",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-08T23:11:24-04:00",
-    "detected_at": "2026-09-09T05:47:16.874385+00:00"
+    "posted_at": "2026-09-09T04:18:17-04:00",
+    "detected_at": "2026-09-09T10:08:38.748529+00:00"
+  },
+  {
+    "id": "gh_8171203",
+    "title": "Staff Software Engineer",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8171203",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T02:50:00-04:00",
+    "detected_at": "2026-09-09T10:08:38.748529+00:00"
+  },
+  {
+    "id": "gh_8187912",
+    "title": "Staff Security Software Engineer",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Bengaluru",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8187912",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T05:25:12-04:00",
+    "detected_at": "2026-09-09T10:08:38.748529+00:00"
   }
 ]
