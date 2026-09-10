@@ -1,5 +1,49 @@
 [
   {
+    "id": "gh_5232810007",
+    "title": "Senior Software Platform Engineer, Intelligence Systems",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Reston, Virginia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232810007?gh_jid=5232810007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T19:04:26-04:00",
+    "detected_at": "2026-09-10T00:34:26.925151+00:00"
+  },
+  {
+    "id": "gh_8155366",
+    "title": "Senior Staff Software Engineer, Platform - IAM",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T20:23:49-04:00",
+    "detected_at": "2026-09-10T00:34:26.925151+00:00"
+  },
+  {
+    "id": "gh_7991839",
+    "title": "Software Engineer, Developer Infrastructure",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T18:51:43-04:00",
+    "detected_at": "2026-09-10T00:34:26.925151+00:00"
+  },
+  {
+    "id": "gh_8187654",
+    "title": "Software Engineering Intern",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Dublin, Ireland",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-09T19:56:57-04:00",
+    "detected_at": "2026-09-10T00:34:26.925151+00:00"
+  },
+  {
     "id": "gh_8189374",
     "title": "Mobile Software Engineer, Quality Platform",
     "company_slug": "airbnb",
