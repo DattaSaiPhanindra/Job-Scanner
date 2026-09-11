@@ -1,5 +1,60 @@
 [
   {
+    "id": "gh_8193518",
+    "title": "Senior Software Engineer - Husky Storage",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8193518/?gh_jid=8193518",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-10T18:12:53-04:00",
+    "detected_at": "2026-09-11T00:04:14.933968+00:00"
+  },
+  {
+    "id": "gh_8193516",
+    "title": "Staff Site Reliability Engineer",
+    "company_slug": "earnin",
+    "company": "Earnin",
+    "location": "Mountain View, US",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8193516",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-10T18:18:49-04:00",
+    "detected_at": "2026-09-11T00:04:14.933968+00:00"
+  },
+  {
+    "id": "gh_7984714003",
+    "title": "Senior Software Engineer, Frontend (Auth Experiences)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984714003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-10T19:20:04-04:00",
+    "detected_at": "2026-09-11T00:04:14.933968+00:00"
+  },
+  {
+    "id": "gh_8797381002",
+    "title": "Software Engineer, Operations",
+    "company_slug": "relativity",
+    "company": "Relativity",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8797381002?gh_jid=8797381002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-10T19:27:01-04:00",
+    "detected_at": "2026-09-11T00:04:14.933968+00:00"
+  },
+  {
+    "id": "gh_7892026",
+    "title": "Senior Software Engineer - Commercial Navigation",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-10T18:49:05-04:00",
+    "detected_at": "2026-09-11T00:04:14.933968+00:00"
+  },
+  {
     "id": "gh_5234791007",
     "title": "Software Engineer, Strategic Defense",
     "company_slug": "andurilindustries",
