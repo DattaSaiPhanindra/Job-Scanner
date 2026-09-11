@@ -1,5 +1,60 @@
 [
   {
+    "id": "gh_5422684008",
+    "title": "Staff Software Engineer, Search",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422684008",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T19:13:18-04:00",
+    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+  },
+  {
+    "id": "gh_8369347002",
+    "title": "Senior Software Engineer, Machine Learning (Safety)",
+    "company_slug": "discord",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8369347002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T19:25:24-04:00",
+    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+  },
+  {
+    "id": "gh_8197807",
+    "title": "Senior Staff Software Engineer, Onboarding and Activation",
+    "company_slug": "gusto",
+    "company": "Gusto",
+    "location": "San Francisco, CA - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8197807",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T18:26:59-04:00",
+    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+  },
+  {
+    "id": "gh_8198102",
+    "title": "Front End Software Engineer, Media Player",
+    "company_slug": "reddit",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8198102",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T18:27:39-04:00",
+    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+  },
+  {
+    "id": "gh_8192057",
+    "title": "Senior Software Engineer, Community Builders",
+    "company_slug": "reddit",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T18:47:26-04:00",
+    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+  },
+  {
     "id": "gh_7985907003",
     "title": "Software Engineer I, Frontend (Upfunnel)",
     "company_slug": "affirm",
