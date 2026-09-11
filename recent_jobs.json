@@ -1,57 +1,35 @@
 [
   {
-    "id": "gh_7650293",
-    "title": "Senior Software Engineer - Observability ",
-    "company_slug": "adyen",
-    "company": "Adyen",
-    "location": "Amsterdam",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7650293",
+    "id": "gh_7922676",
+    "title": "Software Engineer 2",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Gurugram",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T03:40:48-04:00",
-    "detected_at": "2026-09-11T09:01:56.912444+00:00"
+    "posted_at": "2026-09-11T07:08:08-04:00",
+    "detected_at": "2026-09-11T13:29:27.423558+00:00"
   },
   {
-    "id": "gh_7908331",
-    "title": "Staff Full stack Engineer [CONSUMER]",
-    "company_slug": "hellofresh",
-    "company": "Hellofresh",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://careers.hellofresh.com/global/en/job/7908331?gh_jid=7908331",
+    "id": "gh_8127772",
+    "title": "Software Engineer 3, AI Framework Integrations",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Gurugram",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T03:28:02-04:00",
-    "detected_at": "2026-09-11T09:01:56.912444+00:00"
+    "posted_at": "2026-09-11T07:31:43-04:00",
+    "detected_at": "2026-09-11T13:29:27.423558+00:00"
   },
   {
-    "id": "gh_7744555",
-    "title": " Senior Software Engineer in Test",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T00:35:43-04:00",
-    "detected_at": "2026-09-11T09:01:56.912444+00:00"
-  },
-  {
-    "id": "ab_32425ea6-a64b-408d-ae54-38342b83c875",
-    "title": "Applied AI Engineer, Codex",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
+    "id": "ab_5bf2c59d-84bd-4d41-a156-99bfc803d6a7",
+    "title": "Software Engineer, Backend (BI Platform)",
+    "company_slug": "deliveroo",
+    "company": "Deliveroo",
+    "location": "London - The River Building HQ",
+    "url": "https://jobs.ashbyhq.com/deliveroo/5bf2c59d-84bd-4d41-a156-99bfc803d6a7",
     "ats": "Ashby",
-    "posted_at": "2026-09-11T07:44:32.667+00:00",
-    "detected_at": "2026-09-11T09:01:56.912444+00:00"
-  },
-  {
-    "id": "ab_d576a5a4-1409-45fa-b710-db8d52041551",
-    "title": "Software Engineer",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "PL-Warsaw-Lixa C",
-    "url": "https://jobs.ashbyhq.com/snowflake/d576a5a4-1409-45fa-b710-db8d52041551",
-    "ats": "Ashby",
-    "posted_at": "2026-09-11T08:09:04.467+00:00",
-    "detected_at": "2026-09-11T09:01:56.912444+00:00"
+    "posted_at": "2026-09-11T11:15:14.176+00:00",
+    "detected_at": "2026-09-11T13:29:27.423558+00:00"
   }
 ]
