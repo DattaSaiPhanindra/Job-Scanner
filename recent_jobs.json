@@ -1,79 +1,57 @@
 [
   {
-    "id": "gh_5235253007",
-    "title": "Software Engineer, Sensor Integration",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Irvine, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235253007?gh_jid=5235253007",
+    "id": "gh_7650293",
+    "title": "Senior Software Engineer - Observability ",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/7650293",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-10T19:26:08-04:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
+    "posted_at": "2026-09-11T03:40:48-04:00",
+    "detected_at": "2026-09-11T09:01:56.912444+00:00"
   },
   {
-    "id": "gh_8193862",
-    "title": "Senior Software Engineer, Backend (Institutional - ",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
+    "id": "gh_7908331",
+    "title": "Staff Full stack Engineer [CONSUMER]",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://careers.hellofresh.com/global/en/job/7908331?gh_jid=7908331",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-10T20:20:55-04:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
+    "posted_at": "2026-09-11T03:28:02-04:00",
+    "detected_at": "2026-09-11T09:01:56.912444+00:00"
   },
   {
-    "id": "gh_8798198002",
-    "title": "Staff Software Engineer, Lakeflow Pipelines DR",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002",
+    "id": "gh_7744555",
+    "title": " Senior Software Engineer in Test",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-10T21:50:04-04:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
+    "posted_at": "2026-09-11T00:35:43-04:00",
+    "detected_at": "2026-09-11T09:01:56.912444+00:00"
   },
   {
-    "id": "gh_8194328",
-    "title": "Senior Software Engineer, Product Velocity",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "url": "https://stripe.com/jobs/search?gh_jid=8194328",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-10T20:19:20-04:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
-  },
-  {
-    "id": "ab_70313283-6532-450a-8cae-18f9e05a7673",
-    "title": "Software Engineer, Data Infrastructure",
-    "company_slug": "cohere",
-    "company": "Cohere",
-    "location": "United States",
-    "url": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
-    "ats": "Ashby",
-    "posted_at": "2026-09-11T02:02:46.540+00:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
-  },
-  {
-    "id": "ab_f0396971-39fa-4d40-9af8-60e529bb6c86",
-    "title": "Software Engineering Manager, AI Observability & Evals Platform",
-    "company_slug": "langchain",
-    "company": "Langchain",
-    "location": "Boston, MA",
-    "url": "https://jobs.ashbyhq.com/langchain/f0396971-39fa-4d40-9af8-60e529bb6c86",
-    "ats": "Ashby",
-    "posted_at": "2026-09-11T03:09:29.305+00:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
-  },
-  {
-    "id": "ab_b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
-    "title": "Software Engineer, API Frontiers",
+    "id": "ab_32425ea6-a64b-408d-ae54-38342b83c875",
+    "title": "Applied AI Engineer, Codex",
     "company_slug": "openai",
     "company": "Openai",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
     "ats": "Ashby",
-    "posted_at": "2026-09-11T01:36:02.480+00:00",
-    "detected_at": "2026-09-11T04:31:09.492013+00:00"
+    "posted_at": "2026-09-11T07:44:32.667+00:00",
+    "detected_at": "2026-09-11T09:01:56.912444+00:00"
+  },
+  {
+    "id": "ab_d576a5a4-1409-45fa-b710-db8d52041551",
+    "title": "Software Engineer",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "PL-Warsaw-Lixa C",
+    "url": "https://jobs.ashbyhq.com/snowflake/d576a5a4-1409-45fa-b710-db8d52041551",
+    "ats": "Ashby",
+    "posted_at": "2026-09-11T08:09:04.467+00:00",
+    "detected_at": "2026-09-11T09:01:56.912444+00:00"
   }
 ]
