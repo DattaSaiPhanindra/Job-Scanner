@@ -1,79 +1,46 @@
 [
   {
-    "id": "gh_5189514007",
-    "title": "Production Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007",
+    "id": "gh_8198519",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Poland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8198519&gh_jid=8198519",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T19:09:44-04:00",
-    "detected_at": "2026-09-12T01:35:35.400376+00:00"
+    "posted_at": "2026-09-12T00:41:30-04:00",
+    "detected_at": "2026-09-12T06:26:53.398688+00:00"
   },
   {
-    "id": "gh_5234802007",
-    "title": "Senior Manager, Software Engineering, Intelligence Systems ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Reston, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234802007?gh_jid=5234802007",
+    "id": "gh_8174098",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Greece",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8174098&gh_jid=8174098",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T15:21:55-04:00",
-    "detected_at": "2026-09-12T01:35:35.400376+00:00"
+    "posted_at": "2026-09-12T00:41:23-04:00",
+    "detected_at": "2026-09-12T06:26:53.398688+00:00"
   },
   {
-    "id": "gh_5422684008",
-    "title": "Staff Software Engineer, Search",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422684008",
+    "id": "gh_8198517",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8198517&gh_jid=8198517",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T19:13:18-04:00",
-    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+    "posted_at": "2026-09-12T00:41:25-04:00",
+    "detected_at": "2026-09-12T06:26:53.398688+00:00"
   },
   {
-    "id": "gh_8369347002",
-    "title": "Senior Software Engineer, Machine Learning (Safety)",
-    "company_slug": "discord",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8369347002",
+    "id": "gh_8198518",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8198518&gh_jid=8198518",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-11T19:25:24-04:00",
-    "detected_at": "2026-09-11T23:42:27.084935+00:00"
-  },
-  {
-    "id": "gh_8197807",
-    "title": "Senior Staff Software Engineer, Onboarding and Activation",
-    "company_slug": "gusto",
-    "company": "Gusto",
-    "location": "San Francisco, CA - Hybrid",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8197807",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T18:26:59-04:00",
-    "detected_at": "2026-09-11T23:42:27.084935+00:00"
-  },
-  {
-    "id": "gh_8198102",
-    "title": "Front End Software Engineer, Media Player",
-    "company_slug": "reddit",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8198102",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T18:27:39-04:00",
-    "detected_at": "2026-09-11T23:42:27.084935+00:00"
-  },
-  {
-    "id": "gh_8192057",
-    "title": "Senior Software Engineer, Community Builders",
-    "company_slug": "reddit",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T18:47:26-04:00",
-    "detected_at": "2026-09-11T23:42:27.084935+00:00"
+    "posted_at": "2026-09-12T00:41:28-04:00",
+    "detected_at": "2026-09-12T06:26:53.398688+00:00"
   }
 ]
