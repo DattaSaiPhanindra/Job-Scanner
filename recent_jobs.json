@@ -1,5 +1,27 @@
 [
   {
+    "id": "gh_5189514007",
+    "title": "Production Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T19:09:44-04:00",
+    "detected_at": "2026-09-12T01:35:35.400376+00:00"
+  },
+  {
+    "id": "gh_5234802007",
+    "title": "Senior Manager, Software Engineering, Intelligence Systems ",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Reston, Virginia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234802007?gh_jid=5234802007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-11T15:21:55-04:00",
+    "detected_at": "2026-09-12T01:35:35.400376+00:00"
+  },
+  {
     "id": "gh_5422684008",
     "title": "Staff Software Engineer, Search",
     "company_slug": "anthropic",
@@ -53,71 +75,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-09-11T18:47:26-04:00",
     "detected_at": "2026-09-11T23:42:27.084935+00:00"
-  },
-  {
-    "id": "gh_7985907003",
-    "title": "Software Engineer I, Frontend (Upfunnel)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T17:47:40-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
-  },
-  {
-    "id": "gh_8197715",
-    "title": "Staff Software Engineer, Data Warehouse",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "USA",
-    "url": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T16:29:55-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
-  },
-  {
-    "id": "gh_7990752003",
-    "title": "Senior Staff Site Reliability Engineer",
-    "company_slug": "fivetran",
-    "company": "Fivetran",
-    "location": "Oakland, California, United States, AMER",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7990752003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T17:39:52-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
-  },
-  {
-    "id": "gh_8197895",
-    "title": "Backend Engineer, Consumer",
-    "company_slug": "hellofresh",
-    "company": "Hellofresh",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T16:59:17-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
-  },
-  {
-    "id": "gh_8802332002",
-    "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
-    "company_slug": "lyft",
-    "company": "Lyft",
-    "location": "Toronto, Canada",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T15:58:05-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
-  },
-  {
-    "id": "gh_8197891",
-    "title": "Software Engineer, Online Database Infrastructure",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "url": "https://stripe.com/jobs/search?gh_jid=8197891",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-11T16:59:16-04:00",
-    "detected_at": "2026-09-11T21:53:18.603102+00:00"
   }
 ]
