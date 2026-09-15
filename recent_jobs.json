@@ -1,101 +1,35 @@
 [
   {
-    "id": "gh_8165656",
-    "title": "Senior Software Engineer, Storage",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8165656?gh_jid=8165656",
+    "id": "gh_8161278",
+    "title": "Staff Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-14T18:42:19-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
+    "posted_at": "2026-09-15T01:19:57-04:00",
+    "detected_at": "2026-09-15T05:20:18.764382+00:00"
   },
   {
-    "id": "gh_5102222007",
-    "title": "Senior Flight Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Atlanta, Georgia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102222007?gh_jid=5102222007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T14:53:35-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_5238276007",
-    "title": "Senior Front End Software Engineer, React",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Arlington, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238276007?gh_jid=5238276007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T19:11:24-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_5118980007",
-    "title": "Senior Software Engineer, Tactical Networking",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5118980007?gh_jid=5118980007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T16:06:01-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_5237960007",
-    "title": "Senior Software Engineer, Tactical Networking",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Seattle, Washington, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237960007?gh_jid=5237960007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T16:06:25-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_6191900004",
-    "title": "Manager, Solutions Engineering | West Coast | Remote",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "United States (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6191900004",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T18:46:02-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_8186640",
-    "title": "Senior Software Engineer (Backend), Co-Experience",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8186640?gh_jid=8186640",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T18:25:32-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "gh_7844201",
-    "title": "Senior Software Engineer (Full Stack), Ads User Experience ",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/7844201?gh_jid=7844201",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-14T19:57:02-04:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
-  },
-  {
-    "id": "ab_55150071-fce8-48f5-aea4-14ed78b83511",
-    "title": "Software Engineer, Applied Emerging Talent (2027)",
+    "id": "ab_4923fd3e-acf2-4551-91ad-5a92ca81455b",
+    "title": "Software Engineer, Healthcare",
     "company_slug": "openai",
     "company": "Openai",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+    "url": "https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b",
     "ats": "Ashby",
-    "posted_at": "2026-09-14T22:37:58.189+00:00",
-    "detected_at": "2026-09-15T00:39:55.178422+00:00"
+    "posted_at": "2026-09-15T04:42:58.212+00:00",
+    "detected_at": "2026-09-15T05:20:18.764382+00:00"
+  },
+  {
+    "id": "ab_d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
+    "title": "Software Engineer",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "IN-Pune",
+    "url": "https://jobs.ashbyhq.com/snowflake/d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
+    "ats": "Ashby",
+    "posted_at": "2026-09-15T04:08:55.285+00:00",
+    "detected_at": "2026-09-15T05:20:18.764382+00:00"
   }
 ]
