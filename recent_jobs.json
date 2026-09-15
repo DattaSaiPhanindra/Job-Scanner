@@ -1,35 +1,57 @@
 [
   {
-    "id": "gh_8161278",
-    "title": "Staff Software Engineer",
+    "id": "gh_8179196",
+    "title": "Senior Linux Infrastructure Engineer ",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8179196",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T04:14:11-04:00",
+    "detected_at": "2026-09-15T10:14:21.481475+00:00"
+  },
+  {
+    "id": "gh_8203172",
+    "title": "Staff AI Engineer (Security)",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203172",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T04:22:22-04:00",
+    "detected_at": "2026-09-15T10:14:21.481475+00:00"
+  },
+  {
+    "id": "gh_8806552002",
+    "title": "Software Engineer, Identity",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T04:17:17-04:00",
+    "detected_at": "2026-09-15T10:14:21.481475+00:00"
+  },
+  {
+    "id": "gh_8003315",
+    "title": "Cloud Engineer ",
     "company_slug": "okta",
     "company": "Okta",
     "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278",
+    "url": "https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-15T01:19:57-04:00",
-    "detected_at": "2026-09-15T05:20:18.764382+00:00"
+    "posted_at": "2026-09-15T04:41:30-04:00",
+    "detected_at": "2026-09-15T10:14:21.481475+00:00"
   },
   {
-    "id": "ab_4923fd3e-acf2-4551-91ad-5a92ca81455b",
-    "title": "Software Engineer, Healthcare",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b",
-    "ats": "Ashby",
-    "posted_at": "2026-09-15T04:42:58.212+00:00",
-    "detected_at": "2026-09-15T05:20:18.764382+00:00"
-  },
-  {
-    "id": "ab_d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
-    "title": "Software Engineer",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "IN-Pune",
-    "url": "https://jobs.ashbyhq.com/snowflake/d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
-    "ats": "Ashby",
-    "posted_at": "2026-09-15T04:08:55.285+00:00",
-    "detected_at": "2026-09-15T05:20:18.764382+00:00"
+    "id": "gh_8047833",
+    "title": "Senior/Principal Platform Engineer, ML Platform ",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8047833?gh_jid=8047833",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T02:39:13-04:00",
+    "detected_at": "2026-09-15T10:14:21.481475+00:00"
   }
 ]
