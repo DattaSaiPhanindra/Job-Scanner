@@ -1,5 +1,71 @@
 [
   {
+    "id": "gh_5238774007",
+    "title": "Principal Technical Program Manager, Infrastructure Engineering",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238774007?gh_jid=5238774007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T19:02:28-04:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
+    "id": "gh_5239442007",
+    "title": "Principal Technical Program Manager, Infrastructure Engineering",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Seattle, Washington, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239442007?gh_jid=5239442007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T19:02:31-04:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
+    "id": "gh_8203429",
+    "title": "Senior Software Engineer, Backend (Institutional - Exchange)",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8203429?gh_jid=8203429",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T15:55:25-04:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
+    "id": "gh_8205702",
+    "title": "Staff Software Engineer, Consumer Engineering",
+    "company_slug": "reddit",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T19:41:34-04:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
+    "id": "gh_7988264",
+    "title": "Backend Engineer, Intelligent Commerce",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-15T19:32:22-04:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
+    "id": "ab_6c70c3bb-e722-4689-bc9d-cc44136358b5",
+    "title": "Full Stack Software Engineer - Enterprise",
+    "company_slug": "substack",
+    "company": "Substack",
+    "location": "San Francisco (HQ)",
+    "url": "https://jobs.ashbyhq.com/substack/6c70c3bb-e722-4689-bc9d-cc44136358b5",
+    "ats": "Ashby",
+    "posted_at": "2026-09-15T23:14:26.862+00:00",
+    "detected_at": "2026-09-15T23:50:22.536700+00:00"
+  },
+  {
     "id": "gh_5239083007",
     "title": "2027 Flight Software Engineer Intern",
     "company_slug": "andurilindustries",
