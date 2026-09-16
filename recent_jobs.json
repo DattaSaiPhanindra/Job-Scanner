@@ -1,57 +1,90 @@
 [
   {
-    "id": "gh_8205728",
-    "title": "Senior Staff Cloud Backend Engineer",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8205728",
+    "id": "gh_5422135004",
+    "title": "Senior Site Reliability Engineer, IaaS",
+    "company_slug": "algolia",
+    "company": "Algolia",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/algolia/jobs/5422135004",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-16T00:09:22-04:00",
-    "detected_at": "2026-09-16T07:52:46.235315+00:00"
+    "posted_at": "2026-09-16T06:00:08-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
   },
   {
-    "id": "gh_6191204004",
-    "title": "Senior Solutions Engineer | Preference for Mumbai, India",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "India (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6191204004",
+    "id": "gh_6194397004",
+    "title": "Site Reliability Engineer, IaaS",
+    "company_slug": "algolia",
+    "company": "Algolia",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/algolia/jobs/6194397004",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-15T23:31:33-04:00",
-    "detected_at": "2026-09-16T07:52:46.235315+00:00"
+    "posted_at": "2026-09-16T06:08:03-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
   },
   {
-    "id": "gh_8161283",
-    "title": "Manager II, Software Engineering",
+    "id": "gh_8075150",
+    "title": "Software Engineer (Kotlin)",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Bengaluru",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8075150",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-16T04:25:53-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
+  },
+  {
+    "id": "gh_5239687007",
+    "title": "Mission Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Lexington, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239687007?gh_jid=5239687007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-16T08:41:37-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
+  },
+  {
+    "id": "gh_8207374",
+    "title": "Software Engineer",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-16T05:53:17-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
+  },
+  {
+    "id": "gh_8813515002",
+    "title": "AI Forward Deployed Engineer - Sweden",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Stockholm, Sweden",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-16T08:05:46-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
+  },
+  {
+    "id": "gh_7992270003",
+    "title": "Staff Site Reliability Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7992270003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-16T08:51:45-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
+  },
+  {
+    "id": "gh_8185922",
+    "title": "Senior Software Engineer, International Mid Market",
     "company_slug": "toast",
     "company": "Toast",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8161283",
+    "location": "Dublin",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8185922",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-15T23:10:48-04:00",
-    "detected_at": "2026-09-16T07:52:46.235315+00:00"
-  },
-  {
-    "id": "gh_8172579",
-    "title": "Staff Software Engineer",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Chennai",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8172579",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-16T00:25:27-04:00",
-    "detected_at": "2026-09-16T07:52:46.235315+00:00"
-  },
-  {
-    "id": "ab_8d76dce2-97f7-413e-a93e-9e3f0ba8d259",
-    "title": "Software Engineer (Enterprise Experience, Backend)",
-    "company_slug": "coder",
-    "company": "Coder",
-    "location": "Europe",
-    "url": "https://jobs.ashbyhq.com/coder/8d76dce2-97f7-413e-a93e-9e3f0ba8d259",
-    "ats": "Ashby",
-    "posted_at": "2026-09-16T03:35:13.090+00:00",
-    "detected_at": "2026-09-16T07:52:46.235315+00:00"
+    "posted_at": "2026-09-16T07:07:22-04:00",
+    "detected_at": "2026-09-16T12:57:36.568861+00:00"
   }
 ]
