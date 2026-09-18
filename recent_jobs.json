@@ -1,5 +1,104 @@
 [
   {
+    "id": "gh_8806570002",
+    "title": "Backend Software Engineer, Airports",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:40:33-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8806560002",
+    "title": "Backend Software Engineer, Airports",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "Mexico City, Mexico",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806560002?gh_jid=8806560002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:40:18-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_4714843006",
+    "title": "Senior Software Engineer, Fullstack",
+    "company_slug": "outschool",
+    "company": "Outschool",
+    "location": "Remote (U.S. & Canada)",
+    "url": "https://job-boards.greenhouse.io/outschool/jobs/4714843006",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:21:08-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8214910",
+    "title": "Software Engineer, Ingestion Platform",
+    "company_slug": "reddit",
+    "company": "Reddit",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8214910",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T19:38:05-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8214519",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+    "company_slug": "waymo",
+    "company": "Waymo",
+    "location": "Mountain View, California, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T19:01:38-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8214729",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+    "company_slug": "waymo",
+    "company": "Waymo",
+    "location": "Warsaw, Poland",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:07:50-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8209835",
+    "title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
+    "company_slug": "waymo",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8209835",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T19:25:20-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8212475",
+    "title": "Lead Solutions Engineer - Central / East",
+    "company_slug": "webflow",
+    "company": "Webflow",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8212475",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:41:16-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
+    "id": "gh_8212483",
+    "title": "Senior Solutions Engineer - Central / East",
+    "company_slug": "webflow",
+    "company": "Webflow",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8212483",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T18:41:11-04:00",
+    "detected_at": "2026-09-18T23:46:08.808107+00:00"
+  },
+  {
     "id": "gh_8822305002",
     "title": "Senior Salesforce Platform Engineer",
     "company_slug": "amplitude",
