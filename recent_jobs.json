@@ -1,79 +1,68 @@
 [
   {
-    "id": "gh_8154749",
-    "title": "Early Career Software Engineer, Quality Engineering",
+    "id": "gh_8822305002",
+    "title": "Senior Salesforce Platform Engineer",
+    "company_slug": "amplitude",
+    "company": "Amplitude",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8822305002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T16:04:41-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
+  },
+  {
+    "id": "gh_8187190",
+    "title": "Senior Staff Software Engineer, Tech Foundations",
     "company_slug": "airbnb",
     "company": "Airbnb",
-    "location": "Brazil",
-    "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
+    "location": "Remote",
+    "url": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-18T14:36:40-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
+    "posted_at": "2026-09-18T17:34:41-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   },
   {
-    "id": "gh_8756686002",
-    "title": "Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002",
+    "id": "gh_5242647007",
+    "title": "Senior Software Engineer, Embedded Product Security",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Irvine, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242647007?gh_jid=5242647007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-18T14:18:10-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
+    "posted_at": "2026-09-18T15:59:02-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   },
   {
-    "id": "gh_8817776002",
-    "title": "Senior Software Engineer - Safety Experience",
-    "company_slug": "discord",
-    "company": "Discord",
-    "location": "San Francisco Bay Area or Remote (U.S.)",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8817776002",
+    "id": "gh_5428950008",
+    "title": "Staff+ Software Engineer, Storage + Transfer",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428950008",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-18T14:26:37-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
+    "posted_at": "2026-09-18T15:41:44-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   },
   {
-    "id": "gh_8750842002",
-    "title": "Senior Backend Engineer, Platform Enablement",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, United States",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8750842002",
+    "id": "gh_7408822",
+    "title": "Backend Engineer, Consumer",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-18T13:32:42-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
+    "posted_at": "2026-09-18T16:33:39-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   },
   {
-    "id": "gh_6200798004",
-    "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "Sweden (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200798004",
+    "id": "gh_8209010",
+    "title": "Senior Software Engineer -  Account Infrastructure",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8209010?gh_jid=8209010",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-18T13:59:13-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
-  },
-  {
-    "id": "gh_8191751",
-    "title": "Software Engineer I, Websites",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote - USA",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8191751",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T14:29:41-04:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
-  },
-  {
-    "id": "ab_e47d5736-b86b-4c10-a487-4cc3a012096e",
-    "title": "Senior Software Engineer - Billing Platform ",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/e47d5736-b86b-4c10-a487-4cc3a012096e",
-    "ats": "Ashby",
-    "posted_at": "2026-09-18T18:26:06.385+00:00",
-    "detected_at": "2026-09-18T19:38:29.924323+00:00"
+    "posted_at": "2026-09-18T17:14:55-04:00",
+    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   }
 ]
