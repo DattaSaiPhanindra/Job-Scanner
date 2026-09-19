@@ -1,5 +1,27 @@
 [
   {
+    "id": "gh_8213988",
+    "title": "Software Engineer II, Data Analytics & Engineering",
+    "company_slug": "pinterest",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T20:32:32-04:00",
+    "detected_at": "2026-09-19T01:39:09.228675+00:00"
+  },
+  {
+    "id": "gh_8148638",
+    "title": "Manager II, Software Engineering, Infrastructure",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - SF Bay Area",
+    "url": "https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-18T20:22:58-04:00",
+    "detected_at": "2026-09-19T01:39:09.228675+00:00"
+  },
+  {
     "id": "gh_8806570002",
     "title": "Backend Software Engineer, Airports",
     "company_slug": "lyft",
@@ -97,71 +119,5 @@
     "ats": "Greenhouse",
     "posted_at": "2026-09-18T18:41:11-04:00",
     "detected_at": "2026-09-18T23:46:08.808107+00:00"
-  },
-  {
-    "id": "gh_8822305002",
-    "title": "Senior Salesforce Platform Engineer",
-    "company_slug": "amplitude",
-    "company": "Amplitude",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8822305002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T16:04:41-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
-  },
-  {
-    "id": "gh_8187190",
-    "title": "Senior Staff Software Engineer, Tech Foundations",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "Remote",
-    "url": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T17:34:41-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
-  },
-  {
-    "id": "gh_5242647007",
-    "title": "Senior Software Engineer, Embedded Product Security",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Irvine, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242647007?gh_jid=5242647007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T15:59:02-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
-  },
-  {
-    "id": "gh_5428950008",
-    "title": "Staff+ Software Engineer, Storage + Transfer",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428950008",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T15:41:44-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
-  },
-  {
-    "id": "gh_7408822",
-    "title": "Backend Engineer, Consumer",
-    "company_slug": "hellofresh",
-    "company": "Hellofresh",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T16:33:39-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
-  },
-  {
-    "id": "gh_8209010",
-    "title": "Senior Software Engineer -  Account Infrastructure",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8209010?gh_jid=8209010",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-18T17:14:55-04:00",
-    "detected_at": "2026-09-18T21:50:33.467766+00:00"
   }
 ]
