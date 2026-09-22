@@ -1,35 +1,68 @@
 [
   {
-    "id": "gh_8802354002",
-    "title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
-    "company_slug": "discord",
-    "company": "Discord",
-    "location": "San Francisco Bay Area or Remote (U.S.)",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
+    "id": "gh_5244795007",
+    "title": "Senior Scientific Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244795007?gh_jid=5244795007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-21T20:35:05-04:00",
-    "detected_at": "2026-09-22T01:14:41.890279+00:00"
+    "posted_at": "2026-09-21T21:54:06-04:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
   },
   {
-    "id": "gh_8221963",
-    "title": "Principal Software Engineer - League of Legends , UI Tooling",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8221963?gh_jid=8221963",
+    "id": "gh_5244797007",
+    "title": "Senior Software Engineer, Battlespace Awareness",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244797007?gh_jid=5244797007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-21T20:00:16-04:00",
-    "detected_at": "2026-09-22T01:14:41.890279+00:00"
+    "posted_at": "2026-09-21T21:54:04-04:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
   },
   {
-    "id": "gh_8221198",
-    "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+    "id": "gh_5244796007",
+    "title": "Senior Software Engineer, C++",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244796007?gh_jid=5244796007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-21T18:47:14-04:00",
-    "detected_at": "2026-09-22T01:14:41.890279+00:00"
+    "posted_at": "2026-09-21T21:54:08-04:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
+  },
+  {
+    "id": "gh_5244798007",
+    "title": "Senior Software Engineer, Target Tracking",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244798007?gh_jid=5244798007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-21T21:54:13-04:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
+  },
+  {
+    "id": "gh_8071502",
+    "title": "Staff Software Engineer ",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-22T01:03:48-04:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
+  },
+  {
+    "id": "lv_24144e44-633a-47ea-b363-61ca70eaf956",
+    "title": "Lead Software Engineer - . Net with Kafka and Gurobi - 11767",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/24144e44-633a-47ea-b363-61ca70eaf956",
+    "ats": "Lever",
+    "posted_at": "2026-07-30T09:56:02.897000+00:00",
+    "detected_at": "2026-09-22T06:17:05.790305+00:00"
   }
 ]
