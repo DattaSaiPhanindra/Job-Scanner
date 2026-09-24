@@ -1,35 +1,79 @@
 [
   {
-    "id": "gh_5217318007",
-    "title": "Senior Software Engineer, Simulation Infrastructure",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217318007?gh_jid=5217318007",
+    "id": "gh_8210299",
+    "title": "Manager, Software Engineering - League of Legends, Alternate Play Modes",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8210299?gh_jid=8210299",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-23T18:04:32-04:00",
-    "detected_at": "2026-09-23T23:59:15.868716+00:00"
+    "posted_at": "2026-09-23T21:33:52-04:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
   },
   {
-    "id": "gh_5075877007",
-    "title": "Site Reliability Engineer, Space",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5075877007?gh_jid=5075877007",
+    "id": "gh_8225544",
+    "title": "Staff Software Engineer - Teamfight Tactics, Mobile",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8225544?gh_jid=8225544",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-23T19:10:38-04:00",
-    "detected_at": "2026-09-23T23:59:15.868716+00:00"
+    "posted_at": "2026-09-23T21:35:04-04:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
   },
   {
-    "id": "ab_ab383335-1dd5-4d6a-971f-439cebf48a9d",
-    "title": "Software Engineer, Model Capabilities",
-    "company_slug": "notion",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/ab383335-1dd5-4d6a-971f-439cebf48a9d",
+    "id": "gh_8168881",
+    "title": "Software Engineer, Data Access",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-23T21:20:58-04:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
+  },
+  {
+    "id": "ab_a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "title": "Software Engineer Internship, Frontend",
+    "company_slug": "ramp",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
     "ats": "Ashby",
-    "posted_at": "2026-09-23T23:30:04.563+00:00",
-    "detected_at": "2026-09-23T23:59:15.868716+00:00"
+    "posted_at": "2026-09-24T00:40:15.975+00:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
+  },
+  {
+    "id": "ab_acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "title": "Software Engineering Intern, Backend",
+    "company_slug": "ramp",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "ats": "Ashby",
+    "posted_at": "2026-04-09T01:01:29.953+00:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
+  },
+  {
+    "id": "ab_fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "title": "Software Engineering Intern, Android",
+    "company_slug": "ramp",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "ats": "Ashby",
+    "posted_at": "2026-09-24T00:55:33.807+00:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
+  },
+  {
+    "id": "ab_b66be397-240b-41a6-9b05-493299b270a9",
+    "title": "Software Engineering Intern, iOS",
+    "company_slug": "ramp",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+    "ats": "Ashby",
+    "posted_at": "2026-09-24T01:01:49.394+00:00",
+    "detected_at": "2026-09-24T03:45:48.800653+00:00"
   }
 ]
