@@ -1,57 +1,24 @@
 [
   {
-    "id": "gh_5246665007",
-    "title": "Senior Software Engineer, Greenfield Product ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246665007?gh_jid=5246665007",
+    "id": "gh_8229910",
+    "title": "Principal UI Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8229910?gh_jid=8229910",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-23T20:40:26-04:00",
-    "detected_at": "2026-09-24T08:46:16.752337+00:00"
+    "posted_at": "2026-09-24T04:53:21-04:00",
+    "detected_at": "2026-09-24T13:49:13.720563+00:00"
   },
   {
-    "id": "gh_5433814008",
-    "title": "Staff+ Software Engineer, Access Programs",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008",
+    "id": "gh_8192398",
+    "title": "Staff Software Engineer",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192398",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-24T01:54:13-04:00",
-    "detected_at": "2026-09-24T08:46:16.752337+00:00"
-  },
-  {
-    "id": "gh_5433813008",
-    "title": "Staff+ Software Engineer, Account Creation",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433813008",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-24T01:57:12-04:00",
-    "detected_at": "2026-09-24T08:46:16.752337+00:00"
-  },
-  {
-    "id": "gh_8781299002",
-    "title": "Staff Software Engineer - NLP",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8781299002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-24T02:04:48-04:00",
-    "detected_at": "2026-09-24T08:46:16.752337+00:00"
-  },
-  {
-    "id": "gh_4737102005",
-    "title": "Senior Cloud Infrastructure Engineer",
-    "company_slug": "scaleai",
-    "company": "Scaleai",
-    "location": "San Francisco, CA; New York, NY",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4737102005",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-24T00:39:25-04:00",
-    "detected_at": "2026-09-24T08:46:16.752337+00:00"
+    "posted_at": "2026-09-24T06:47:09-04:00",
+    "detected_at": "2026-09-24T13:49:13.720563+00:00"
   }
 ]
