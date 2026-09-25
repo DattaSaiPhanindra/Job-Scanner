@@ -1,68 +1,24 @@
 [
   {
-    "id": "gh_5248872007",
-    "title": "Software Engineer- Infrastructure ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248872007?gh_jid=5248872007",
+    "id": "gh_8770314002",
+    "title": "Senior Software Engineer, Cards",
+    "company_slug": "chime",
+    "company": "Chime",
+    "location": "San Francisco, CA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8770314002?gh_jid=8770314002",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-24T20:40:34-04:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
+    "posted_at": "2026-09-25T03:51:09-04:00",
+    "detected_at": "2026-09-25T08:09:46.344120+00:00"
   },
   {
-    "id": "gh_5248869007",
-    "title": "Software Engineer- Machine Learning",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-09-24T20:41:23-04:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
-  },
-  {
-    "id": "ab_7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
-    "title": "Software Engineer, Search Infrastructure",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
-    "ats": "Ashby",
-    "posted_at": "2026-09-25T01:05:08.971+00:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
-  },
-  {
-    "id": "ab_7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+    "id": "ab_3e9ea665-ca48-4c87-9d1b-27ea8e2f7daf",
+    "title": "Staff Software Engineer, Frontier Security Team",
     "company_slug": "snowflake",
     "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+    "location": "IN-Bangalore-MSO",
+    "url": "https://jobs.ashbyhq.com/snowflake/3e9ea665-ca48-4c87-9d1b-27ea8e2f7daf",
     "ats": "Ashby",
-    "posted_at": "2026-09-25T01:04:54.726+00:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
-  },
-  {
-    "id": "ab_5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-    "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-    "ats": "Ashby",
-    "posted_at": "2026-09-25T01:03:02.890+00:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
-  },
-  {
-    "id": "ab_4be290ae-dd9d-488c-9d90-56fcd69101ca",
-    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-    "ats": "Ashby",
-    "posted_at": "2026-09-25T01:05:50.921+00:00",
-    "detected_at": "2026-09-25T02:38:05.550198+00:00"
+    "posted_at": "2026-09-25T07:22:33.557+00:00",
+    "detected_at": "2026-09-25T08:09:46.344120+00:00"
   }
 ]
