@@ -1,24 +1,68 @@
 [
   {
-    "id": "gh_8770314002",
-    "title": "Senior Software Engineer, Cards",
-    "company_slug": "chime",
-    "company": "Chime",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8770314002?gh_jid=8770314002",
+    "id": "gh_5247821007",
+    "title": "Senior Forward Deployed Software Engineer, Strategic Defense",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T03:51:09-04:00",
-    "detected_at": "2026-09-25T08:09:46.344120+00:00"
+    "posted_at": "2026-09-25T09:27:54-04:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
   },
   {
-    "id": "ab_3e9ea665-ca48-4c87-9d1b-27ea8e2f7daf",
-    "title": "Staff Software Engineer, Frontier Security Team",
+    "id": "gh_8212003",
+    "title": "Senior Engineering Manager, SDET  - Okta Identity Governance (OIG)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.okta.com/company/careers/opportunity/8212003?gh_jid=8212003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T08:28:18-04:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+  },
+  {
+    "id": "gh_8220649",
+    "title": "Staff Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8220649?gh_jid=8220649",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T07:08:43-04:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+  },
+  {
+    "id": "gh_8213320",
+    "title": "Senior Staff Software Engineer- Ai Governance",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8213320",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T08:18:56-04:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+  },
+  {
+    "id": "gh_8227563",
+    "title": "Partner Solutions Engineer, Operational Excellence",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T06:52:34-04:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+  },
+  {
+    "id": "ab_23c94498-23c8-4d6e-a1d8-4355bf605663",
+    "title": "Software Engineer - Java Platform",
     "company_slug": "snowflake",
     "company": "Snowflake",
-    "location": "IN-Bangalore-MSO",
-    "url": "https://jobs.ashbyhq.com/snowflake/3e9ea665-ca48-4c87-9d1b-27ea8e2f7daf",
+    "location": "DE-Berlin-Trion Building",
+    "url": "https://jobs.ashbyhq.com/snowflake/23c94498-23c8-4d6e-a1d8-4355bf605663",
     "ats": "Ashby",
-    "posted_at": "2026-09-25T07:22:33.557+00:00",
-    "detected_at": "2026-09-25T08:09:46.344120+00:00"
+    "posted_at": "2026-09-25T08:31:38.621+00:00",
+    "detected_at": "2026-09-25T13:42:29.827382+00:00"
   }
 ]
