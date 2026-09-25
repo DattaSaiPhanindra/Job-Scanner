@@ -1,68 +1,134 @@
 [
   {
-    "id": "gh_5247821007",
-    "title": "Senior Forward Deployed Software Engineer, Strategic Defense",
+    "id": "gh_8210671",
+    "title": "Software Engineer II (Kotlin) - Core Experience",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8210671",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T11:15:54-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_5249183007",
+    "title": "Staff Software Engineer, Discovery",
     "company_slug": "andurilindustries",
     "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007",
+    "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249183007?gh_jid=5249183007",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T09:27:54-04:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+    "posted_at": "2026-09-25T10:49:56-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
   },
   {
-    "id": "gh_8212003",
-    "title": "Senior Engineering Manager, SDET  - Okta Identity Governance (OIG)",
+    "id": "gh_8232097",
+    "title": "Senior Software Engineer II, Data Lakehouse",
+    "company_slug": "braze",
+    "company": "Braze",
+    "location": "Toronto",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8232097",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T10:27:58-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_8222294",
+    "title": "Software Engineer II, Data Lakehouse",
+    "company_slug": "braze",
+    "company": "Braze",
+    "location": "Toronto",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8222294",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T10:28:03-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_8233486",
+    "title": "Software Engineer, Applied AI Solutions",
+    "company_slug": "contentful",
+    "company": "Contentful",
+    "location": "Denver, Colorado, United States",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/8233486",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T13:47:38-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_6200780004",
+    "title": "Principal AI Engineer, Unreal Assistant",
+    "company_slug": "epicgames",
+    "company": "Epicgames",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6200780004?gh_jid=6200780004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T09:51:16-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_8233716",
+    "title": "Software Engineer II, Advertiser Optimization",
+    "company_slug": "instacart",
+    "company": "Instacart",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=8233716",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T13:57:51-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_8233207",
+    "title": "Solutions Engineer",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Atlanta, Georgia",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8233207",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-25T11:08:53-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
+  },
+  {
+    "id": "gh_8223817",
+    "title": "Senior Software Engineer Salesforce",
     "company_slug": "okta",
     "company": "Okta",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://www.okta.com/company/careers/opportunity/8212003?gh_jid=8212003",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T08:28:18-04:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+    "posted_at": "2026-09-25T10:38:31-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
   },
   {
-    "id": "gh_8220649",
+    "id": "gh_8232905",
     "title": "Staff Software Engineer",
     "company_slug": "okta",
     "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8220649?gh_jid=8220649",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.okta.com/company/careers/opportunity/8232905?gh_jid=8232905",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T07:08:43-04:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+    "posted_at": "2026-09-25T10:42:28-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
   },
   {
-    "id": "gh_8213320",
-    "title": "Senior Staff Software Engineer- Ai Governance",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8213320",
+    "id": "gh_8213903",
+    "title": "Senior Software Engineer, Creator Services Translation ",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8213903?gh_jid=8213903",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T08:18:56-04:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+    "posted_at": "2026-09-25T12:05:24-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
   },
   {
-    "id": "gh_8227563",
-    "title": "Partner Solutions Engineer, Operational Excellence",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
+    "id": "gh_7347335",
+    "title": "Senior Backend Engineer, Security",
+    "company_slug": "waymo",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA ; San Francsico, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7347335",
     "ats": "Greenhouse",
-    "posted_at": "2026-09-25T06:52:34-04:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
-  },
-  {
-    "id": "ab_23c94498-23c8-4d6e-a1d8-4355bf605663",
-    "title": "Software Engineer - Java Platform",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "DE-Berlin-Trion Building",
-    "url": "https://jobs.ashbyhq.com/snowflake/23c94498-23c8-4d6e-a1d8-4355bf605663",
-    "ats": "Ashby",
-    "posted_at": "2026-09-25T08:31:38.621+00:00",
-    "detected_at": "2026-09-25T13:42:29.827382+00:00"
+    "posted_at": "2026-09-25T13:42:10-04:00",
+    "detected_at": "2026-09-25T18:05:24.937496+00:00"
   }
 ]
