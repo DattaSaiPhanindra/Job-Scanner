@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "gh_6126490004",
+    "title": "Senior Software Engineer, Backend & Infrastructure",
+    "company_slug": "coursera",
+    "company": "Coursera",
+    "location": "India",
+    "url": "https://job-boards.greenhouse.io/coursera/jobs/6126490004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-28T02:38:44-04:00",
+    "detected_at": "2026-09-28T06:47:36.917928+00:00"
+  },
+  {
+    "id": "gh_8015848002",
+    "title": "AI Engineer, FDE (Forward Deployed Engineer)",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Bengaluru, India; Delhi, India; Mumbai, India; Pune, India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-28T01:46:37-04:00",
+    "detected_at": "2026-09-28T06:47:36.917928+00:00"
+  },
+  {
+    "id": "gh_8221290",
+    "title": "Software Engineer 3 - Enterprise Architecture",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Gurugram",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
+    "ats": "Greenhouse",
+    "posted_at": "2026-09-28T01:07:13-04:00",
+    "detected_at": "2026-09-28T06:47:36.917928+00:00"
+  }
+]
