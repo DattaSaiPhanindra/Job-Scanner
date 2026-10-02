@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "gh_8245817",
+    "title": "Principal Software Engineer I - Platform Billing Core",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-02T00:59:41-04:00",
+    "detected_at": "2026-10-02T08:45:05.683594+00:00"
+  },
+  {
+    "id": "gh_8860861002",
+    "title": "Software Engineer, Pricing",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8860861002?gh_jid=8860861002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-02T02:56:02-04:00",
+    "detected_at": "2026-10-02T08:45:05.683594+00:00"
+  },
+  {
+    "id": "lv_c30df081-4282-4b54-92f7-92f8a9225728",
+    "title": "Senior Site Reliability Engineer - India",
+    "company_slug": "jumpcloud",
+    "company": "Jumpcloud",
+    "location": "Bangalore, India - Remote",
+    "url": "https://jobs.lever.co/jumpcloud/c30df081-4282-4b54-92f7-92f8a9225728",
+    "ats": "Lever",
+    "posted_at": "2026-09-29T17:53:11.633000+00:00",
+    "detected_at": "2026-10-02T08:45:05.683594+00:00"
+  },
+  {
+    "id": "lv_9bfc9bfb-15f0-4984-85dc-d1adc90a415c",
+    "title": "Site Reliability Engineer - India",
+    "company_slug": "jumpcloud",
+    "company": "Jumpcloud",
+    "location": "Bangalore, India - Remote",
+    "url": "https://jobs.lever.co/jumpcloud/9bfc9bfb-15f0-4984-85dc-d1adc90a415c",
+    "ats": "Lever",
+    "posted_at": "2026-09-29T19:45:42.451000+00:00",
+    "detected_at": "2026-10-02T08:45:05.683594+00:00"
+  }
+]
