@@ -1,13 +1,24 @@
 [
   {
-    "id": "gh_5256305007",
-    "title": "Platform Engineer, Radar",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-02T21:48:33-04:00",
-    "detected_at": "2026-10-03T02:11:05.977834+00:00"
+    "id": "ab_b94099f6-8418-48b0-82b5-5953a27d636f",
+    "title": "Software Engineer, OpenAI Presence",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
+    "ats": "Ashby",
+    "posted_at": "2026-10-03T05:27:10.756+00:00",
+    "detected_at": "2026-10-03T08:09:34.988286+00:00"
+  },
+  {
+    "id": "ab_88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+    "title": "Software Engineer, Enterprise Controls",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+    "ats": "Ashby",
+    "posted_at": "2026-10-03T05:27:16.161+00:00",
+    "detected_at": "2026-10-03T08:09:34.988286+00:00"
   }
 ]
