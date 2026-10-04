@@ -1,13 +1,123 @@
 [
   {
-    "id": "lv_5ce9eff4-4174-4046-b92c-cf40d4ea5a15",
-    "title": "Sr Director, AI Platform Engineering - 11309",
-    "company_slug": "coupa",
-    "company": "Coupa",
-    "location": "Foster City, CA, United States",
-    "url": "https://jobs.lever.co/coupa/5ce9eff4-4174-4046-b92c-cf40d4ea5a15",
-    "ats": "Lever",
-    "posted_at": "2026-03-17T22:46:59.145000+00:00",
-    "detected_at": "2026-10-04T18:11:37.596782+00:00"
+    "id": "gh_8229992",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T14:18:41-04:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "gh_8255438",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Poland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8255438&gh_jid=8255438",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T14:18:47-04:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "gh_8255435",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Greece",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8255435&gh_jid=8255435",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T14:18:43-04:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "gh_8255436",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8255436&gh_jid=8255436",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T14:18:45-04:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
+    "title": "Forward Deployed Engineer - Software Engineer - United Kingdom",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T18:43:04.787+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_1f7a2786-46d3-46c9-81f3-c3849b412988",
+    "title": "Forward Deployed Engineer - Software Engineer - Argentina",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Argentina",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T18:56:49.588+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_d05779a0-51da-417f-9921-39be5271402a",
+    "title": "Enterprise Solutions Engineer - Greece",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Europe",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/d05779a0-51da-417f-9921-39be5271402a",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T19:22:46.743+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_73ba8a21-bf66-4f37-8e94-05143a481fb8",
+    "title": "Forward Deployed Engineer - Software Engineer - Turkey",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Turkey",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/73ba8a21-bf66-4f37-8e94-05143a481fb8",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T19:25:54.643+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_ec04799b-6567-4032-8d6c-3c27261618e1",
+    "title": "Enterprise Solutions Engineer - Colombia",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Colombia",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/ec04799b-6567-4032-8d6c-3c27261618e1",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T19:05:12.931+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_8a587dcd-f3ff-4768-82d4-5f5e952edf6b",
+    "title": "Enterprise Solutions Engineer - Mexico",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Mexico",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T19:07:12.703+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
+  },
+  {
+    "id": "ab_8a573932-b1fb-4df7-9023-e13a6cecbbbb",
+    "title": "Forward Deployed Engineer - Software Engineer - Mexico",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Mexico",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb",
+    "ats": "Ashby",
+    "posted_at": "2026-10-04T19:10:53.903+00:00",
+    "detected_at": "2026-10-04T21:29:32.094759+00:00"
   }
 ]
