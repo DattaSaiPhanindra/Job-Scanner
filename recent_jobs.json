@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "gh_8242557",
+    "title": "Senior Software engineer - Advanced Threat Protection",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T22:58:50-04:00",
+    "detected_at": "2026-10-05T05:26:30.742156+00:00"
+  },
+  {
+    "id": "gh_8221981",
+    "title": "Senior Manager, Software Engineering - Teamfight Tactics - Store & Cosmetics",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Singapore",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8221981?gh_jid=8221981",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-04T21:26:51-04:00",
+    "detected_at": "2026-10-05T05:26:30.742156+00:00"
+  }
+]
