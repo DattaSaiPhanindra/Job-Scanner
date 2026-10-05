@@ -1,24 +1,90 @@
 [
   {
-    "id": "gh_8242557",
-    "title": "Senior Software engineer - Advanced Threat Protection",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557",
+    "id": "gh_8255817",
+    "title": "AI Engineer, Knowledge Infrastructure",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8255817",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-04T22:58:50-04:00",
-    "detected_at": "2026-10-05T05:26:30.742156+00:00"
+    "posted_at": "2026-10-05T06:55:12-04:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
   },
   {
-    "id": "gh_8221981",
-    "title": "Senior Manager, Software Engineering - Teamfight Tactics - Store & Cosmetics",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Singapore",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8221981?gh_jid=8221981",
+    "id": "gh_8163866",
+    "title": "GenAI Platform Engineer - Madrid OR Amsterdam",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam; Madrid",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8163866",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-04T21:26:51-04:00",
-    "detected_at": "2026-10-05T05:26:30.742156+00:00"
+    "posted_at": "2026-10-05T05:23:05-04:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "gh_6972536",
+    "title": "Software Engineer - Platforms & Productivity",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-05T01:51:20-04:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "gh_7477627002",
+    "title": "Sr. Software Engineer (L5) - Distributed Data Systems",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-05T02:39:11-04:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "gh_7477633002",
+    "title": "Staff Software Engineer (L6) - Distributed Data Systems",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-05T02:42:49-04:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "lv_ba646b64-bfbd-450c-9a5a-d5b5b6dd9044",
+    "title": "Lead Software Engineer - . Net with Kafka and Gurobi  - 11769",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/ba646b64-bfbd-450c-9a5a-d5b5b6dd9044",
+    "ats": "Lever",
+    "posted_at": "2026-07-30T10:25:18.333000+00:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "lv_edfa0a2e-097d-40cd-a52e-767809b2df78",
+    "title": "Sr Manager, Software Engineering - 11790",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/edfa0a2e-097d-40cd-a52e-767809b2df78",
+    "ats": "Lever",
+    "posted_at": "2026-07-31T19:08:47.636000+00:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
+  },
+  {
+    "id": "ab_b98ea21b-693c-4a70-9d25-081ed3de92d2",
+    "title": "Staff Software Engineer, Infrastructure",
+    "company_slug": "stream",
+    "company": "Stream",
+    "location": "Amsterdam office",
+    "url": "https://jobs.ashbyhq.com/stream/b98ea21b-693c-4a70-9d25-081ed3de92d2",
+    "ats": "Ashby",
+    "posted_at": "2026-10-05T10:09:31.413+00:00",
+    "detected_at": "2026-10-05T12:27:51.296302+00:00"
   }
 ]
