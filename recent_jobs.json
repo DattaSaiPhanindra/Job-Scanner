@@ -1,35 +1,123 @@
 [
   {
-    "id": "gh_5445410008",
-    "title": "Applied AI Engineer, Public Sector ",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
+    "id": "gh_6217587004",
+    "title": "Senior Software Engineer, Applied AI & Customer Solutions",
+    "company_slug": "coursera",
+    "company": "Coursera",
+    "location": "Toronto, Canada",
+    "url": "https://job-boards.greenhouse.io/coursera/jobs/6217587004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-06T20:01:31-04:00",
-    "detected_at": "2026-10-07T02:27:28.218596+00:00"
+    "posted_at": "2026-10-06T23:14:27-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
   },
   {
-    "id": "gh_8250243",
-    "title": "Staff Software Engineer, Cloud Infrastructure",
-    "company_slug": "gusto",
-    "company": "Gusto",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8250243",
+    "id": "gh_8260870",
+    "title": "Principal Software Engineer (Java) - Security - Elasticsearch",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "United Kingdom",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8260870&gh_jid=8260870",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-06T20:15:37-04:00",
-    "detected_at": "2026-10-07T02:27:28.218596+00:00"
+    "posted_at": "2026-10-07T04:36:27-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
   },
   {
-    "id": "ab_4f0d64b8-bfa7-4c30-9972-a10d74b49075",
-    "title": "Software Engineer, Life Sciences",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
-    "ats": "Ashby",
-    "posted_at": "2026-10-06T23:58:11.643+00:00",
-    "detected_at": "2026-10-07T02:27:28.218596+00:00"
+    "id": "gh_8138565",
+    "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Ireland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8138565&gh_jid=8138565",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T04:37:11-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8138572",
+    "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8138572&gh_jid=8138572",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T04:36:58-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8138579",
+    "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Poland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8138579&gh_jid=8138579",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T04:36:55-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8260766",
+    "title": "Software Engineer I - AI Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Greece",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8260766&gh_jid=8260766",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T02:41:12-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8260767",
+    "title": "Software Engineer I - AI Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8260767&gh_jid=8260767",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T02:41:14-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8245844",
+    "title": "Software Engineer I - AI Observability",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T02:41:10-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8258803",
+    "title": "Staff Software Engineer, Platform & Infrastructure",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8258803?gh_jid=8258803",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T01:50:03-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8258307",
+    "title": "Software Engineer, Web3 Backend",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T04:41:09-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
+  },
+  {
+    "id": "gh_8258305",
+    "title": "Software Engineer, Web3 Backend",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-07T04:27:58-04:00",
+    "detected_at": "2026-10-07T09:02:48.600879+00:00"
   }
 ]
