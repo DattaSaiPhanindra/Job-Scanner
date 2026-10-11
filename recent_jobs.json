@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": "gh_5262987007",
+    "title": "Senior Front End Software Engineer, React",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-10T20:45:57-04:00",
+    "detected_at": "2026-10-11T00:53:29.244050+00:00"
+  },
+  {
+    "id": "gh_5261122007",
+    "title": "Senior Software Engineer, Strategic Defense ",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-10T20:27:15-04:00",
+    "detected_at": "2026-10-11T00:53:29.244050+00:00"
+  },
+  {
+    "id": "gh_5249697007",
+    "title": "Senior Software Engineer, Strategic Defense (Active Clearance)",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Aberdeen, Maryland, United States; Colorado Springs, Colorado, United States; San Antonio, Texas, United States; Tampa, Florida, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-10T20:31:43-04:00",
+    "detected_at": "2026-10-11T00:53:29.244050+00:00"
+  },
+  {
+    "id": "gh_5260733007",
+    "title": "Software Engineer, Strategic Defense",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-10T20:27:57-04:00",
+    "detected_at": "2026-10-11T00:53:29.244050+00:00"
+  },
+  {
+    "id": "ab_f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
+    "title": "Staff Software Engineer \u2013 Engineering Systems, Continuous Integration Team",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "US-WA-Bellevue",
+    "url": "https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
+    "ats": "Ashby",
+    "posted_at": "2026-10-11T00:42:47.064+00:00",
+    "detected_at": "2026-10-11T00:53:29.244050+00:00"
+  }
+]
