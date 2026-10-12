@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "gh_8516112002",
+    "title": "Sr. AI Engineer, AI FDE",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Remote - India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T03:17:33-04:00",
+    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+  },
+  {
+    "id": "gh_7840417",
+    "title": "Senior Software Engineer in Test",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T00:09:15-04:00",
+    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+  },
+  {
+    "id": "gh_7703330",
+    "title": "Staff Software Engineer, Developer Experience",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T02:30:27-04:00",
+    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+  },
+  {
+    "id": "ab_1a751b80-26d5-4305-81ff-04ed9136f195",
+    "title": "Senior Software Engineer, Enterprise",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "CH-Zurich-Observe",
+    "url": "https://jobs.ashbyhq.com/snowflake/1a751b80-26d5-4305-81ff-04ed9136f195",
+    "ats": "Ashby",
+    "posted_at": "2026-10-07T01:24:29.318+00:00",
+    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+  }
+]
