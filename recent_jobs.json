@@ -1,46 +1,90 @@
 [
   {
-    "id": "gh_8516112002",
-    "title": "Sr. AI Engineer, AI FDE",
+    "id": "gh_6982487",
+    "title": "Staff Site Reliability Engineer, Infrastructure Security",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "New York",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6982487",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T12:24:31-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_7894436",
+    "title": "Senior Software Engineer (Core Frontier)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7894436?gh_jid=7894436",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T06:34:38-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_8154916",
+    "title": "Senior Software Engineer (NetSuite Developer)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T08:50:30-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_8247320",
+    "title": "Senior Software Engineer - Network Transport",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8247320?gh_jid=8247320",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T12:52:52-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_8878851002",
+    "title": "Software Engineer - AI & Productivity Solutions",
+    "company_slug": "trivago",
+    "company": "Trivago",
+    "location": "D\u00fcsseldorf",
+    "url": "https://careers.trivago.com/apply/8878851002.?gh_jid=8878851002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T09:24:10-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_8067027",
+    "title": "Staff Mobile Software Engineer (P4)",
+    "company_slug": "twilio",
+    "company": "Twilio",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-12T12:01:36-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
+  },
+  {
+    "id": "gh_6865687002",
+    "title": "Software Engineering Intern (2027)",
     "company_slug": "databricks",
     "company": "Databricks",
-    "location": "Remote - India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-12T03:17:33-04:00",
-    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+    "posted_at": "2026-10-12T12:34:54-04:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
   },
   {
-    "id": "gh_7840417",
-    "title": "Senior Software Engineer in Test",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-12T00:09:15-04:00",
-    "detected_at": "2026-10-12T07:36:18.231146+00:00"
-  },
-  {
-    "id": "gh_7703330",
-    "title": "Staff Software Engineer, Developer Experience",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-12T02:30:27-04:00",
-    "detected_at": "2026-10-12T07:36:18.231146+00:00"
-  },
-  {
-    "id": "ab_1a751b80-26d5-4305-81ff-04ed9136f195",
-    "title": "Senior Software Engineer, Enterprise",
+    "id": "ab_26a0ae52-97a6-4a46-9216-3c382570d89b",
+    "title": "Software Engineer Intern - Zurich (2026)",
     "company_slug": "snowflake",
     "company": "Snowflake",
     "location": "CH-Zurich-Observe",
-    "url": "https://jobs.ashbyhq.com/snowflake/1a751b80-26d5-4305-81ff-04ed9136f195",
+    "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
     "ats": "Ashby",
-    "posted_at": "2026-10-07T01:24:29.318+00:00",
-    "detected_at": "2026-10-12T07:36:18.231146+00:00"
+    "posted_at": "2026-10-12T13:22:57.098+00:00",
+    "detected_at": "2026-10-12T16:58:13.783620+00:00"
   }
 ]
