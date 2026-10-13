@@ -1,57 +1,68 @@
 [
   {
-    "id": "gh_8612865002",
-    "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Remote - California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002",
+    "id": "gh_8259402",
+    "title": "Software Engineer, AI Agents",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-12T20:46:53-04:00",
-    "detected_at": "2026-10-13T03:48:16.793442+00:00"
+    "posted_at": "2026-10-13T03:36:36-04:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
   },
   {
-    "id": "gh_8274571",
-    "title": "Principal Software Engineer, Engine & Tools - League of Legends",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8274571?gh_jid=8274571",
+    "id": "gh_8275808",
+    "title": "Senior Software Engineer",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Bengaluru",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275808",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-12T19:41:59-04:00",
-    "detected_at": "2026-10-13T03:48:16.793442+00:00"
+    "posted_at": "2026-10-13T03:05:42-04:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
   },
   {
-    "id": "gh_8259270",
-    "title": "Principal Software Engineer, Agent Infrastructure ",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8259270?gh_jid=8259270",
+    "id": "gh_8263918",
+    "title": "Senior Software Engineer - SRE",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-12T21:36:59-04:00",
-    "detected_at": "2026-10-13T03:48:16.793442+00:00"
+    "posted_at": "2026-10-13T03:55:01-04:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
   },
   {
-    "id": "gh_8268204",
-    "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Warsaw, Poland",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
+    "id": "gh_8263916",
+    "title": "Senior Software Engineer - SRE",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-12T19:38:26-04:00",
-    "detected_at": "2026-10-13T03:48:16.793442+00:00"
+    "posted_at": "2026-10-13T03:46:25-04:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
   },
   {
-    "id": "ab_628f36e0-8554-4d5f-8d5e-a017a761ca54",
-    "title": "AI Software Engineer",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "CA-Ontario-Toronto",
-    "url": "https://jobs.ashbyhq.com/snowflake/628f36e0-8554-4d5f-8d5e-a017a761ca54",
+    "id": "lv_4af6a0d8-c825-4eb4-889a-87109772d6ed",
+    "title": "Lead Software Engineer - React -  11768",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Hyderabad, India",
+    "url": "https://jobs.lever.co/coupa/4af6a0d8-c825-4eb4-889a-87109772d6ed",
+    "ats": "Lever",
+    "posted_at": "2026-07-30T10:10:59.303000+00:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
+  },
+  {
+    "id": "ab_2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
+    "title": "Site Reliability Engineer",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
     "ats": "Ashby",
-    "posted_at": "2026-10-13T00:00:58.144+00:00",
-    "detected_at": "2026-10-13T03:48:16.793442+00:00"
+    "posted_at": "2026-10-13T09:53:19.313+00:00",
+    "detected_at": "2026-10-13T11:10:45.712844+00:00"
   }
 ]
