@@ -1,46 +1,90 @@
 [
   {
-    "id": "gh_5265279007",
-    "title": "Software Engineer, Interfaces ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007",
+    "id": "gh_6222842004",
+    "title": "Enterprise Account Executive, Growth | Remote | Sweden",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "Sweden (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222842004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T21:46:48-04:00",
-    "detected_at": "2026-10-14T06:32:58.809242+00:00"
+    "posted_at": "2026-10-14T03:25:59-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
   },
   {
-    "id": "gh_5451889008",
-    "title": "Staff+ Software Engineer, Platform Acceleration ",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008",
+    "id": "gh_6223410004",
+    "title": "Senior Backend Engineer - Databases Tempo | Canada | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "Canada (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6223410004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T23:02:38-04:00",
-    "detected_at": "2026-10-14T06:32:58.809242+00:00"
+    "posted_at": "2026-10-14T07:08:45-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
   },
   {
-    "id": "gh_8265123",
-    "title": "Marketing AI Engineer",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Bangalore, India",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123",
+    "id": "gh_6223411004",
+    "title": "Senior Backend Engineer - Databases Tempo | US | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6223411004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-14T00:13:45-04:00",
-    "detected_at": "2026-10-14T06:32:58.809242+00:00"
+    "posted_at": "2026-10-14T07:08:47-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
   },
   {
-    "id": "gh_8278877",
-    "title": "Staff Software Engineer, Care Experience",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote, US",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8278877",
+    "id": "gh_8280948",
+    "title": "Senior Software Engineer, Atlas API Experience - Integrations",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Dublin, Ireland",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8280948",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T21:55:28-04:00",
-    "detected_at": "2026-10-14T06:32:58.809242+00:00"
+    "posted_at": "2026-10-14T06:04:51-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
+  },
+  {
+    "id": "gh_8126314",
+    "title": "Senior Software Engineer, International",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8126314?t=gh_src=&gh_jid=8126314",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-14T05:04:51-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
+  },
+  {
+    "id": "gh_8126312",
+    "title": "Senior Software Engineer, International ",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-14T04:57:55-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
+  },
+  {
+    "id": "gh_8231178",
+    "title": "Software Engineer, Storage Integrations",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231178",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-14T07:44:20-04:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
+  },
+  {
+    "id": "ab_ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+    "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+    "company_slug": "elevenlabs",
+    "company": "Elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+    "ats": "Ashby",
+    "posted_at": "2026-10-14T10:03:44.600+00:00",
+    "detected_at": "2026-10-14T12:18:07.174689+00:00"
   }
 ]
