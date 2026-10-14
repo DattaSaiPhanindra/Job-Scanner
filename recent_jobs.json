@@ -1,57 +1,46 @@
 [
   {
-    "id": "gh_8015283003",
-    "title": "Manager, Software Engineering (App Infrastructure)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8015283003",
+    "id": "gh_5265279007",
+    "title": "Software Engineer, Interfaces ",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Waltham, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T20:16:26-04:00",
-    "detected_at": "2026-10-14T01:29:06.277610+00:00"
+    "posted_at": "2026-10-13T21:46:48-04:00",
+    "detected_at": "2026-10-14T06:32:58.809242+00:00"
   },
   {
-    "id": "gh_8009657003",
-    "title": "Manager, Software Engineering (Marketing & Privacy Engineering)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8009657003",
+    "id": "gh_5451889008",
+    "title": "Staff+ Software Engineer, Platform Acceleration ",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T20:16:42-04:00",
-    "detected_at": "2026-10-14T01:29:06.277610+00:00"
+    "posted_at": "2026-10-13T23:02:38-04:00",
+    "detected_at": "2026-10-14T06:32:58.809242+00:00"
   },
   {
-    "id": "gh_8015279003",
-    "title": "Senior Staff Software Engineer, Backend (Cards)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
+    "id": "gh_8265123",
+    "title": "Marketing AI Engineer",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Bangalore, India",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T20:16:09-04:00",
-    "detected_at": "2026-10-14T01:29:06.277610+00:00"
+    "posted_at": "2026-10-14T00:13:45-04:00",
+    "detected_at": "2026-10-14T06:32:58.809242+00:00"
   },
   {
-    "id": "gh_8279903",
-    "title": "Senior Software Engineer, Agentic Test Systems",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
+    "id": "gh_8278877",
+    "title": "Staff Software Engineer, Care Experience",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Remote, US",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8278877",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T20:17:55-04:00",
-    "detected_at": "2026-10-14T01:29:06.277610+00:00"
-  },
-  {
-    "id": "ab_b6fed204-3317-43ba-b87b-f045e4cf8d68",
-    "title": "Software Engineer - Ingestion Execution Platform",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
-    "ats": "Ashby",
-    "posted_at": "2026-10-14T00:29:18.849+00:00",
-    "detected_at": "2026-10-14T01:29:06.277610+00:00"
+    "posted_at": "2026-10-13T21:55:28-04:00",
+    "detected_at": "2026-10-14T06:32:58.809242+00:00"
   }
 ]
