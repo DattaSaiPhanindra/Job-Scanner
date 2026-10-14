@@ -1,145 +1,57 @@
 [
   {
-    "id": "gh_8279422",
-    "title": "Senior Software Engineer, Payments Transaction Risk",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "San Francisco, CA",
-    "url": "https://careers.airbnb.com/positions/8279422?gh_jid=8279422",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-13T16:09:17-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "gh_8013442003",
-    "title": "Senior Software Engineer, Backend (Lakehouse Infra) ",
+    "id": "gh_8015283003",
+    "title": "Manager, Software Engineering (App Infrastructure)",
     "company_slug": "affirm",
     "company": "Affirm",
     "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8015283003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T15:47:31-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
+    "posted_at": "2026-10-13T20:16:26-04:00",
+    "detected_at": "2026-10-14T01:29:06.277610+00:00"
   },
   {
-    "id": "gh_8013444003",
-    "title": "Senior Software Engineer, Backend (Lakehouse Infra) ",
+    "id": "gh_8009657003",
+    "title": "Manager, Software Engineering (Marketing & Privacy Engineering)",
     "company_slug": "affirm",
     "company": "Affirm",
     "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8009657003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T15:47:33-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
+    "posted_at": "2026-10-13T20:16:42-04:00",
+    "detected_at": "2026-10-14T01:29:06.277610+00:00"
   },
   {
-    "id": "gh_8269100",
-    "title": "Senior Software Engineer, Distributed Databases",
-    "company_slug": "cloudflare",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
+    "id": "gh_8015279003",
+    "title": "Senior Staff Software Engineer, Backend (Cards)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T18:19:07-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
+    "posted_at": "2026-10-13T20:16:09-04:00",
+    "detected_at": "2026-10-14T01:29:06.277610+00:00"
   },
   {
-    "id": "gh_8279479",
-    "title": "Software Engineer, Enterprise Apps ",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - Brazil",
-    "url": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-13T17:33:04-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "gh_8275829",
-    "title": "Sr. Staff Backend Engineer",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Seattle, USA",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275829",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-13T16:26:29-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "gh_8265736",
-    "title": "Senior Software Engineer, Video Rendering",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8265736?gh_jid=8265736",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-13T15:07:20-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "gh_8247182",
-    "title": "Software Engineer (L2) Messaging Channels Team ",
-    "company_slug": "twilio",
-    "company": "Twilio",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-13T17:49:29-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "gh_8279506",
-    "title": "Senior Software Engineer, GPU",
+    "id": "gh_8279903",
+    "title": "Senior Software Engineer, Agentic Test Systems",
     "company_slug": "waymo",
     "company": "Waymo",
-    "location": "Mountain View, CA, USA; New York, NY, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8279506",
+    "location": "Mountain View, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-13T15:32:54-04:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
+    "posted_at": "2026-10-13T20:17:55-04:00",
+    "detected_at": "2026-10-14T01:29:06.277610+00:00"
   },
   {
-    "id": "ab_107da743-1253-4708-963a-b284c483cff8",
-    "title": "Senior Software Engineer - Infrastructure - ClickPipes Platform",
-    "company_slug": "clickhouse",
-    "company": "Clickhouse",
-    "location": "United States",
-    "url": "https://jobs.ashbyhq.com/clickhouse/107da743-1253-4708-963a-b284c483cff8",
-    "ats": "Ashby",
-    "posted_at": "2026-10-13T19:53:42.587+00:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "ab_87292639-c1ef-4674-b66c-2a960ad0c735",
-    "title": "Senior Software Engineer - Infrastructure - ClickPipes Platform",
-    "company_slug": "clickhouse",
-    "company": "Clickhouse",
-    "location": "Canada",
-    "url": "https://jobs.ashbyhq.com/clickhouse/87292639-c1ef-4674-b66c-2a960ad0c735",
-    "ats": "Ashby",
-    "posted_at": "2026-10-13T19:54:36.304+00:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "ab_5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0",
-    "title": "Software Engineer (Travel Heavy)",
-    "company_slug": "column",
-    "company": "Column",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0",
-    "ats": "Ashby",
-    "posted_at": "2026-10-13T20:53:58.484+00:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
-  },
-  {
-    "id": "ab_35dfd8bf-a458-4c9c-a5d2-0b5d487b9640",
-    "title": "Staff Software Engineer - Ingestion ",
+    "id": "ab_b6fed204-3317-43ba-b87b-f045e4cf8d68",
+    "title": "Software Engineer - Ingestion Execution Platform",
     "company_slug": "snowflake",
     "company": "Snowflake",
     "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/35dfd8bf-a458-4c9c-a5d2-0b5d487b9640",
+    "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
     "ats": "Ashby",
-    "posted_at": "2026-10-13T18:20:08.576+00:00",
-    "detected_at": "2026-10-13T22:54:48.518205+00:00"
+    "posted_at": "2026-10-14T00:29:18.849+00:00",
+    "detected_at": "2026-10-14T01:29:06.277610+00:00"
   }
 ]
