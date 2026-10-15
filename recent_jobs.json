@@ -1,68 +1,79 @@
 [
   {
-    "id": "gh_5250783007",
-    "title": "Senior Full-Stack Software Engineer (ArsenalOS Deployment)",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Santa Ana, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250783007?gh_jid=5250783007",
+    "id": "gh_8886944002",
+    "title": "Solutions Engineer",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Chicago, Illinois",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-14T19:30:30-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+    "posted_at": "2026-10-15T11:28:09-04:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
   },
   {
-    "id": "gh_5250775007",
-    "title": "Staff Full-Stack Software Engineer, Manufacturing Software (ArsenalOS Deployment)",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Santa Ana, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250775007?gh_jid=5250775007",
+    "id": "gh_6199317004",
+    "title": "Senior Solutions Engineer | Canada | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6199317004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-14T20:26:50-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+    "posted_at": "2026-10-15T10:20:06-04:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
   },
   {
-    "id": "gh_8031480003",
-    "title": "Senior Software Engineer - SaaS Google connectors",
-    "company_slug": "fivetran",
-    "company": "Fivetran",
-    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=8031480003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-15T04:44:35-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
-  },
-  {
-    "id": "gh_8878486002",
-    "title": "Senior Software Engineer, SSCS : Authentication",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8878486002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-15T07:35:28-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
-  },
-  {
-    "id": "gh_8284518",
-    "title": "Senior Software Engineer in Test",
+    "id": "gh_8093199",
+    "title": "Software Engineer, Globalization",
     "company_slug": "okta",
     "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8284518?gh_jid=8284518",
+    "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+    "url": "https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T05:31:55-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+    "posted_at": "2026-10-15T09:34:00-04:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
   },
   {
-    "id": "gh_8279634",
-    "title": "Staff Software Engineer, Gameply - Unpublished R&D Product",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Shanghai, China",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8279634?gh_jid=8279634",
+    "id": "gh_5354144008",
+    "title": "Software Engineer",
+    "company_slug": "scopely",
+    "company": "Scopely",
+    "location": "MX - Mexico City, Mexico",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5354144008?gh_jid=5354144008",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T05:32:38-04:00",
-    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+    "posted_at": "2026-10-15T10:27:50-04:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
+  },
+  {
+    "id": "lv_8f9fb4dd-d0d1-4361-82f9-d0892fd54809",
+    "title": "Lead Site Reliability Engineer - Active Directory - 11896",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Los Angeles, California, United States",
+    "url": "https://jobs.lever.co/coupa/8f9fb4dd-d0d1-4361-82f9-d0892fd54809",
+    "ats": "Lever",
+    "posted_at": "2026-09-25T19:01:58.531000+00:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
+  },
+  {
+    "id": "ab_8d7ef0a5-5a0a-4598-b39d-c4c0ac011547",
+    "title": "Full Stack Software Engineer - Postgres",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "India",
+    "url": "https://jobs.ashbyhq.com/clickhouse/8d7ef0a5-5a0a-4598-b39d-c4c0ac011547",
+    "ats": "Ashby",
+    "posted_at": "2026-10-06T19:40:21.969+00:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
+  },
+  {
+    "id": "ab_14aef6d9-763e-4f56-a498-206fb31dd0c6",
+    "title": "Senior/Staff Software Engineer (Back-End), Inference",
+    "company_slug": "cohere",
+    "company": "Cohere",
+    "location": "Canada",
+    "url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6",
+    "ats": "Ashby",
+    "posted_at": "2026-10-15T14:07:47.333+00:00",
+    "detected_at": "2026-10-15T16:08:50.659067+00:00"
   }
 ]
