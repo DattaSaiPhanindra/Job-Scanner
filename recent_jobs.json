@@ -1,35 +1,68 @@
 [
   {
-    "id": "gh_8245815",
-    "title": "Principal Software Engineer I - Platform Billing Experience",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815",
+    "id": "gh_5250783007",
+    "title": "Senior Full-Stack Software Engineer (ArsenalOS Deployment)",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250783007?gh_jid=5250783007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-14T23:00:43-04:00",
-    "detected_at": "2026-10-15T06:29:20.146151+00:00"
+    "posted_at": "2026-10-14T19:30:30-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
   },
   {
-    "id": "gh_8867756002",
-    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "id": "gh_5250775007",
+    "title": "Staff Full-Stack Software Engineer, Manufacturing Software (ArsenalOS Deployment)",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250775007?gh_jid=5250775007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-14T20:26:50-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+  },
+  {
+    "id": "gh_8031480003",
+    "title": "Senior Software Engineer - SaaS Google connectors",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8031480003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-15T04:44:35-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+  },
+  {
+    "id": "gh_8878486002",
+    "title": "Senior Software Engineer, SSCS : Authentication",
     "company_slug": "gitlab",
     "company": "Gitlab",
     "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8878486002",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T02:28:38-04:00",
-    "detected_at": "2026-10-15T06:29:20.146151+00:00"
+    "posted_at": "2026-10-15T07:35:28-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
   },
   {
-    "id": "ab_797cadbe-fad8-4f1d-a656-d14ca76d29b9",
-    "title": "Principal Software Engineer, Anti-Abuse",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/797cadbe-fad8-4f1d-a656-d14ca76d29b9",
-    "ats": "Ashby",
-    "posted_at": "2026-10-15T02:58:48.061+00:00",
-    "detected_at": "2026-10-15T06:29:20.146151+00:00"
+    "id": "gh_8284518",
+    "title": "Senior Software Engineer in Test",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8284518?gh_jid=8284518",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-15T05:31:55-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
+  },
+  {
+    "id": "gh_8279634",
+    "title": "Staff Software Engineer, Gameply - Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Shanghai, China",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8279634?gh_jid=8279634",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-15T05:32:38-04:00",
+    "detected_at": "2026-10-15T11:56:23.217371+00:00"
   }
 ]
