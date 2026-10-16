@@ -1,24 +1,57 @@
 [
   {
-    "id": "gh_5454673008",
-    "title": "Applied AI Engineer, Startups (Physical AI)",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+    "id": "gh_8032175003",
+    "title": "Software Engineer II, Mobile (Card Acquisition)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T18:50:02-04:00",
-    "detected_at": "2026-10-16T00:48:54.684829+00:00"
+    "posted_at": "2026-10-15T21:10:13-04:00",
+    "detected_at": "2026-10-16T05:09:02.991614+00:00"
   },
   {
-    "id": "gh_7655955003",
-    "title": "Senior Infrastructure Engineer",
-    "company_slug": "launchdarkly",
-    "company": "Launchdarkly",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7655955003",
+    "id": "gh_8032173003",
+    "title": "Software Engineer II, Mobile (Card Acquisition)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T19:58:06-04:00",
-    "detected_at": "2026-10-16T00:48:54.684829+00:00"
+    "posted_at": "2026-10-15T21:10:11-04:00",
+    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+  },
+  {
+    "id": "gh_5454882008",
+    "title": "Staff+ Software Engineer, Enterprise (Full Stack)",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-15T23:38:43-04:00",
+    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+  },
+  {
+    "id": "gh_8287413",
+    "title": "Software Engineer II, VALORANT, Personalization ",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8287413?gh_jid=8287413",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-15T23:59:13-04:00",
+    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+  },
+  {
+    "id": "ab_7a085d1a-9732-4322-a997-fb14dbce5a9c",
+    "title": "Staff Software Engineer \u2014 Engineering Systems, Continuous Integration",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "US-WA-Bellevue",
+    "url": "https://jobs.ashbyhq.com/snowflake/7a085d1a-9732-4322-a997-fb14dbce5a9c",
+    "ats": "Ashby",
+    "posted_at": "2026-10-16T04:39:11.918+00:00",
+    "detected_at": "2026-10-16T05:09:02.991614+00:00"
   }
 ]
