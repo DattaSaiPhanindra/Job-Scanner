@@ -1,35 +1,123 @@
 [
   {
-    "id": "gh_8287462",
-    "title": "Senior Software Engineer, Engine & Tools - Unpublished R&D Product",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Sydney, Australia",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8287462?gh_jid=8287462",
+    "id": "gh_8006331003",
+    "title": "Software Engineer II, Backend (Card)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006331003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-16T05:55:21-04:00",
-    "detected_at": "2026-10-16T14:18:53.779094+00:00"
+    "posted_at": "2026-10-16T10:21:55-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
   },
   {
-    "id": "gh_4897109008",
-    "title": "Senior Cloud Data Platform Engineer",
-    "company_slug": "scopely",
-    "company": "Scopely",
-    "location": "ES - Barcelona, Spain",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/4897109008?gh_jid=4897109008",
+    "id": "gh_8006329003",
+    "title": "Software Engineer II, Backend (Card) ",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-16T09:40:43-04:00",
-    "detected_at": "2026-10-16T14:18:53.779094+00:00"
+    "posted_at": "2026-10-16T10:21:57-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
   },
   {
-    "id": "ab_9fbe839e-6ccf-436d-8d83-7a0b3481bfc8",
-    "title": "Langfuse - Senior Backend Engineer (US-East)",
-    "company_slug": "clickhouse",
-    "company": "Clickhouse",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/clickhouse/9fbe839e-6ccf-436d-8d83-7a0b3481bfc8",
+    "id": "gh_8017412003",
+    "title": "Manager Software Engineering",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Oakland, California, United States, AMER",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8017412003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T13:13:43-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_8894531002",
+    "title": "Intermediate Backend Engineer - Code Security",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T10:54:01-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_8894909002",
+    "title": "Software Engineer, GovTech",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8894909002?gh_jid=8894909002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T12:48:37-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_6216876004",
+    "title": "Forward Deployed Engineer (SDEV)",
+    "company_slug": "pagerduty",
+    "company": "Pagerduty",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216876004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T11:33:16-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_6217049004",
+    "title": "Forward Deployed Engineer (SDEV)",
+    "company_slug": "pagerduty",
+    "company": "Pagerduty",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217049004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T11:43:02-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_6216870004",
+    "title": "Forward Deployed Engineer (SDEV)",
+    "company_slug": "pagerduty",
+    "company": "Pagerduty",
+    "location": "Remote (USA - New York City, NY)",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216870004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T11:37:27-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_8259606",
+    "title": "Senior Software Engineer, Foundation & Luau Platform",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8259606?gh_jid=8259606",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T13:27:03-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "gh_4717014006",
+    "title": "Senior Software Engineer",
+    "company_slug": "yugabyte",
+    "company": "Yugabyte",
+    "location": "Bengaluru",
+    "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4717014006",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-16T11:57:56-04:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
+  },
+  {
+    "id": "ab_a90e05b3-6f6a-42af-aa3b-32269b176b00",
+    "title": "Partner Solutions Engineer - VAR",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "FR-Paris",
+    "url": "https://jobs.ashbyhq.com/snowflake/a90e05b3-6f6a-42af-aa3b-32269b176b00",
     "ats": "Ashby",
-    "posted_at": "2026-10-16T14:13:18.064+00:00",
-    "detected_at": "2026-10-16T14:18:53.779094+00:00"
+    "posted_at": "2026-10-16T16:43:36.111+00:00",
+    "detected_at": "2026-10-16T18:09:37.830898+00:00"
   }
 ]
