@@ -1,46 +1,35 @@
 [
   {
-    "id": "gh_8281533",
-    "title": "Staff Software Engineer - Hosting Services",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "London, United Kingdom",
-    "url": "https://careers.airbnb.com/positions/8281533?gh_jid=8281533",
+    "id": "gh_8287462",
+    "title": "Senior Software Engineer, Engine & Tools - Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8287462?gh_jid=8287462",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-16T04:21:04-04:00",
-    "detected_at": "2026-10-16T09:43:19.967381+00:00"
+    "posted_at": "2026-10-16T05:55:21-04:00",
+    "detected_at": "2026-10-16T14:18:53.779094+00:00"
   },
   {
-    "id": "gh_8287662",
-    "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+    "id": "gh_4897109008",
+    "title": "Senior Cloud Data Platform Engineer",
+    "company_slug": "scopely",
+    "company": "Scopely",
+    "location": "ES - Barcelona, Spain",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/4897109008?gh_jid=4897109008",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-16T02:25:34-04:00",
-    "detected_at": "2026-10-16T09:43:19.967381+00:00"
+    "posted_at": "2026-10-16T09:40:43-04:00",
+    "detected_at": "2026-10-16T14:18:53.779094+00:00"
   },
   {
-    "id": "gh_8263827",
-    "title": "Senior Software Engineer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-16T01:55:55-04:00",
-    "detected_at": "2026-10-16T09:43:19.967381+00:00"
-  },
-  {
-    "id": "gh_8245420",
-    "title": "Staff Software Engineer- International ",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Dublin, Ireland",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8245420",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-16T05:37:54-04:00",
-    "detected_at": "2026-10-16T09:43:19.967381+00:00"
+    "id": "ab_9fbe839e-6ccf-436d-8d83-7a0b3481bfc8",
+    "title": "Langfuse - Senior Backend Engineer (US-East)",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/clickhouse/9fbe839e-6ccf-436d-8d83-7a0b3481bfc8",
+    "ats": "Ashby",
+    "posted_at": "2026-10-16T14:13:18.064+00:00",
+    "detected_at": "2026-10-16T14:18:53.779094+00:00"
   }
 ]
