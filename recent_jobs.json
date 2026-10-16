@@ -1,57 +1,46 @@
 [
   {
-    "id": "gh_8032175003",
-    "title": "Software Engineer II, Mobile (Card Acquisition)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
+    "id": "gh_8281533",
+    "title": "Staff Software Engineer - Hosting Services",
+    "company_slug": "airbnb",
+    "company": "Airbnb",
+    "location": "London, United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8281533?gh_jid=8281533",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T21:10:13-04:00",
-    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+    "posted_at": "2026-10-16T04:21:04-04:00",
+    "detected_at": "2026-10-16T09:43:19.967381+00:00"
   },
   {
-    "id": "gh_8032173003",
-    "title": "Software Engineer II, Mobile (Card Acquisition)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+    "id": "gh_8287662",
+    "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T21:10:11-04:00",
-    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+    "posted_at": "2026-10-16T02:25:34-04:00",
+    "detected_at": "2026-10-16T09:43:19.967381+00:00"
   },
   {
-    "id": "gh_5454882008",
-    "title": "Staff+ Software Engineer, Enterprise (Full Stack)",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
+    "id": "gh_8263827",
+    "title": "Senior Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T23:38:43-04:00",
-    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+    "posted_at": "2026-10-16T01:55:55-04:00",
+    "detected_at": "2026-10-16T09:43:19.967381+00:00"
   },
   {
-    "id": "gh_8287413",
-    "title": "Software Engineer II, VALORANT, Personalization ",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Sydney, Australia",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8287413?gh_jid=8287413",
+    "id": "gh_8245420",
+    "title": "Staff Software Engineer- International ",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Dublin, Ireland",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8245420",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-15T23:59:13-04:00",
-    "detected_at": "2026-10-16T05:09:02.991614+00:00"
-  },
-  {
-    "id": "ab_7a085d1a-9732-4322-a997-fb14dbce5a9c",
-    "title": "Staff Software Engineer \u2014 Engineering Systems, Continuous Integration",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-WA-Bellevue",
-    "url": "https://jobs.ashbyhq.com/snowflake/7a085d1a-9732-4322-a997-fb14dbce5a9c",
-    "ats": "Ashby",
-    "posted_at": "2026-10-16T04:39:11.918+00:00",
-    "detected_at": "2026-10-16T05:09:02.991614+00:00"
+    "posted_at": "2026-10-16T05:37:54-04:00",
+    "detected_at": "2026-10-16T09:43:19.967381+00:00"
   }
 ]
