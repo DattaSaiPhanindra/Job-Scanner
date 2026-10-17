@@ -1,79 +1,13 @@
 [
   {
-    "id": "ab_dbe79b89-e593-44b3-8aec-c667f7134445",
-    "title": "Software Engineer, Full Stack \u2014 Dots",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445",
-    "ats": "Ashby",
-    "posted_at": "2026-10-16T23:48:11.093+00:00",
-    "detected_at": "2026-10-17T01:26:48.938289+00:00"
-  },
-  {
-    "id": "ab_3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-    "title": "Software Engineer, Mobile Web \u2014 Dots",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-    "ats": "Ashby",
-    "posted_at": "2026-10-16T23:47:53.457+00:00",
-    "detected_at": "2026-10-17T01:26:48.938289+00:00"
-  },
-  {
-    "id": "gh_5267747007",
-    "title": "Classified Platform Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007",
+    "id": "gh_8896679002",
+    "title": "Software Engineer",
+    "company_slug": "lyft",
+    "company": "Lyft",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-16T18:10:09-04:00",
-    "detected_at": "2026-10-16T23:29:36.196823+00:00"
-  },
-  {
-    "id": "gh_7993664",
-    "title": "Staff Software Engineer, Benefit Renewals",
-    "company_slug": "gusto",
-    "company": "Gusto",
-    "location": "Denver, CO",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/7993664",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-16T18:08:18-04:00",
-    "detected_at": "2026-10-16T23:29:36.196823+00:00"
-  },
-  {
-    "id": "gh_8286381",
-    "title": "Software Engineer, Solutions Engineering",
-    "company_slug": "justworks",
-    "company": "Justworks",
-    "location": "New York, New York",
-    "url": "https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-16T18:02:28-04:00",
-    "detected_at": "2026-10-16T23:29:36.196823+00:00"
-  },
-  {
-    "id": "gh_8263453",
-    "title": "Senior/Staff Software Engineer, Applied Controls",
-    "company_slug": "nuro",
-    "company": "Nuro",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=8263453",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-16T18:02:34-04:00",
-    "detected_at": "2026-10-16T23:29:36.196823+00:00"
-  },
-  {
-    "id": "ab_5ad8c21c-dbfe-4e04-9826-7f52aaf0ddc3",
-    "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/5ad8c21c-dbfe-4e04-9826-7f52aaf0ddc3",
-    "ats": "Ashby",
-    "posted_at": "2026-10-16T22:45:11.444+00:00",
-    "detected_at": "2026-10-16T23:29:36.196823+00:00"
+    "posted_at": "2026-10-16T22:47:42-04:00",
+    "detected_at": "2026-10-17T05:51:30.912245+00:00"
   }
 ]
