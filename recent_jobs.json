@@ -1,5 +1,27 @@
 [
   {
+    "id": "ab_dbe79b89-e593-44b3-8aec-c667f7134445",
+    "title": "Software Engineer, Full Stack \u2014 Dots",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445",
+    "ats": "Ashby",
+    "posted_at": "2026-10-16T23:48:11.093+00:00",
+    "detected_at": "2026-10-17T01:26:48.938289+00:00"
+  },
+  {
+    "id": "ab_3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
+    "title": "Software Engineer, Mobile Web \u2014 Dots",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
+    "ats": "Ashby",
+    "posted_at": "2026-10-16T23:47:53.457+00:00",
+    "detected_at": "2026-10-17T01:26:48.938289+00:00"
+  },
+  {
     "id": "gh_5267747007",
     "title": "Classified Platform Engineer",
     "company_slug": "andurilindustries",
