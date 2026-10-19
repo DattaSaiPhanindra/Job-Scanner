@@ -1,57 +1,79 @@
 [
   {
-    "id": "gh_5456453008",
-    "title": "Software Engineer, Memory & Search",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
+    "id": "gh_8034651003",
+    "title": "Senior Software Engineer (Comms Core)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034651003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T01:09:10-04:00",
-    "detected_at": "2026-10-19T06:33:28.400458+00:00"
+    "posted_at": "2026-10-19T02:36:17-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
   },
   {
-    "id": "gh_6227918004",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions |  Sweden | Remote",
+    "id": "gh_8034649003",
+    "title": "Senior Software Engineer (Comms Core)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T02:36:14-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
+  },
+  {
+    "id": "gh_7964420",
+    "title": "Staff Software Engineer, Query and Access Control",
+    "company_slug": "asana",
+    "company": "Asana",
+    "location": "Reykjav\u00edk",
+    "url": "https://www.asana.com/jobs/apply/7964420?gh_jid=7964420",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T04:28:22-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
+  },
+  {
+    "id": "gh_8256566",
+    "title": "Staff Software Engineer, Platform",
+    "company_slug": "flexport",
+    "company": "Flexport",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8256566",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T09:46:08-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
+  },
+  {
+    "id": "gh_8891301002",
+    "title": "Backend Engineer (Ruby), Create: Change Record",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Remote, Poland; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T05:22:09-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
+  },
+  {
+    "id": "gh_6000726004",
+    "title": "Sales Development Representative | Sweden | Remote",
     "company_slug": "grafanalabs",
     "company": "Grafanalabs",
     "location": "Sweden (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6227918004",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6000726004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T01:25:01-04:00",
-    "detected_at": "2026-10-19T06:33:28.400458+00:00"
+    "posted_at": "2026-10-19T06:20:43-04:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
   },
   {
-    "id": "gh_8275745",
-    "title": "Software Engineer, Agent Optimization & Evaluation",
-    "company_slug": "reddit",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-18T21:44:46-04:00",
-    "detected_at": "2026-10-19T06:33:28.400458+00:00"
-  },
-  {
-    "id": "ab_1176ec78-e10d-4acd-8af8-47406af929ee",
-    "title": "Full Stack Software Engineer - SQL Console",
-    "company_slug": "clickhouse",
-    "company": "Clickhouse",
-    "location": "Europe or US",
-    "url": "https://jobs.ashbyhq.com/clickhouse/1176ec78-e10d-4acd-8af8-47406af929ee",
-    "ats": "Ashby",
-    "posted_at": "2026-10-19T05:49:24.124+00:00",
-    "detected_at": "2026-10-19T06:33:28.400458+00:00"
-  },
-  {
-    "id": "ab_502fcf97-75b2-4e54-9957-a29cee8eb1ca",
-    "title": "Applied AI Engineer, Startups (Mandarin-speaking)",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca",
-    "ats": "Ashby",
-    "posted_at": "2026-10-19T04:30:59.906+00:00",
-    "detected_at": "2026-10-19T06:33:28.400458+00:00"
+    "id": "lv_75b437e3-8c71-4df7-905b-fddf7c68fd19",
+    "title": "Staff Software Engineer - Sync CRM (Backend - 5 to 9 years)",
+    "company_slug": "outreach",
+    "company": "Outreach",
+    "location": "Hyderabad",
+    "url": "https://jobs.lever.co/outreach/75b437e3-8c71-4df7-905b-fddf7c68fd19",
+    "ats": "Lever",
+    "posted_at": "2026-10-19T10:26:32.590000+00:00",
+    "detected_at": "2026-10-19T13:52:18.988373+00:00"
   }
 ]
