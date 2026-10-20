@@ -1,145 +1,35 @@
 [
   {
-    "id": "gh_5268991007",
-    "title": "Classified Platform Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Washington, District of Columbia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T18:41:46-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5265763007",
-    "title": "Computer Vision Software Engineer, Software Defined Weapon Optic",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265763007?gh_jid=5265763007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T14:56:03-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5268306007",
-    "title": "Realtime Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268306007?gh_jid=5268306007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T09:51:41-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5267908007",
-    "title": "Senior Software Engineer, Actuation and Control Systems",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267908007?gh_jid=5267908007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T10:00:23-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5267904007",
-    "title": "Senior Software Engineer, Vehicle Management Systems",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267904007?gh_jid=5267904007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T09:39:25-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5268307007",
-    "title": "Software Engineer, Imaging",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T09:52:02-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5261106007",
-    "title": "Staff AI & Agentic Platform Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261106007?gh_jid=5261106007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T16:58:49-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_5456018008",
-    "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T16:20:56-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_8226969",
-    "title": "Staff Software Engineer, Data Loading Infrastructure",
-    "company_slug": "asana",
-    "company": "Asana",
-    "location": "San Francisco",
-    "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T17:23:05-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_8301086",
-    "title": "Intern, Software Engineering",
-    "company_slug": "braze",
-    "company": "Braze",
-    "location": "New York City",
-    "url": "https://job-boards.greenhouse.io/braze/jobs/8301086",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-19T16:55:44-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
-  },
-  {
-    "id": "gh_6224661004",
-    "title": "Manager, Software Engineering - External Platform",
+    "id": "gh_6138981004",
+    "title": "Manager, Software Engineering - AI Infrastructure",
     "company_slug": "figma",
     "company": "Figma",
-    "location": "New York, NY \u2022 United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/6224661004?gh_jid=6224661004",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T17:44:06-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
+    "posted_at": "2026-10-19T19:44:50-04:00",
+    "detected_at": "2026-10-20T01:43:00.154071+00:00"
   },
   {
-    "id": "gh_8015117003",
-    "title": "Backend Software Engineer, SDK",
-    "company_slug": "launchdarkly",
-    "company": "Launchdarkly",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003",
+    "id": "gh_8094683",
+    "title": "Principal Software Engineer, Orchestration",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T18:32:33-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
+    "posted_at": "2026-10-19T21:15:51-04:00",
+    "detected_at": "2026-10-20T01:43:00.154071+00:00"
   },
   {
-    "id": "gh_8301918",
-    "title": "Software Engineer",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "PERM - N/A",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8301918",
+    "id": "gh_8042578",
+    "title": "Senior Software Engineer, Data Infrastructure Compute",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T17:09:25-04:00",
-    "detected_at": "2026-10-19T23:02:43.605845+00:00"
+    "posted_at": "2026-10-19T21:25:29-04:00",
+    "detected_at": "2026-10-20T01:43:00.154071+00:00"
   }
 ]
