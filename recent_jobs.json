@@ -1,35 +1,101 @@
 [
   {
-    "id": "gh_6138981004",
-    "title": "Manager, Software Engineering - AI Infrastructure",
-    "company_slug": "figma",
-    "company": "Figma",
-    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004",
+    "id": "gh_8242235",
+    "title": "Senior Software Engineer, Streaming Infrastructure ",
+    "company_slug": "airbnb",
+    "company": "Airbnb",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8242235?gh_jid=8242235",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T19:44:50-04:00",
-    "detected_at": "2026-10-20T01:43:00.154071+00:00"
+    "posted_at": "2026-10-20T00:51:46-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
   },
   {
-    "id": "gh_8094683",
-    "title": "Principal Software Engineer, Orchestration",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683",
+    "id": "gh_5269031007",
+    "title": "Software Engineer - Payload Integrations",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269031007?gh_jid=5269031007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T21:15:51-04:00",
-    "detected_at": "2026-10-20T01:43:00.154071+00:00"
+    "posted_at": "2026-10-19T19:41:09-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
   },
   {
-    "id": "gh_8042578",
-    "title": "Senior Software Engineer, Data Infrastructure Compute",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
+    "id": "gh_5458044008",
+    "title": "Staff+ Software Engineer, VectorDB",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-19T21:25:29-04:00",
-    "detected_at": "2026-10-20T01:43:00.154071+00:00"
+    "posted_at": "2026-10-20T02:30:45-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "gh_8882485002",
+    "title": "Solutions Engineer",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882485002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T23:44:59-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "gh_8210913",
+    "title": "Senior Software Engineer (TS/SCI)",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Maryland",
+    "url": "https://www.okta.com/company/careers/opportunity/8210913?gh_jid=8210913",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T21:50:59-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "gh_8293711",
+    "title": "Senior Software Engineer - Automation & Build Systems,  Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8293711?gh_jid=8293711",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T22:46:14-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "gh_8293709",
+    "title": "Senior Software Engineer, Engine & Tools, Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8293709?gh_jid=8293709",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T22:46:03-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "gh_8293695",
+    "title": "Senior Software Engineer, Social & Store, Unpublished R&D Product",
+    "company_slug": "riotgames",
+    "company": "Riotgames",
+    "location": "Sydney, Australia",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8293695?gh_jid=8293695",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-19T22:46:09-04:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
+  },
+  {
+    "id": "ab_fa7a821b-ca2b-43fe-8942-07f215a060c7",
+    "title": "Software Engineer, Research Tooling",
+    "company_slug": "cursor",
+    "company": "Cursor",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7",
+    "ats": "Ashby",
+    "posted_at": "2026-10-20T01:56:55.619+00:00",
+    "detected_at": "2026-10-20T06:39:28.869592+00:00"
   }
 ]
