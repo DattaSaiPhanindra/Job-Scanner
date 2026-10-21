@@ -1,46 +1,24 @@
 [
   {
-    "id": "gh_5269017007",
-    "title": "Classified Cloud & Platform Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007",
+    "id": "gh_8248303",
+    "title": "Senior Software Engineer, Compute ",
+    "company_slug": "roblox",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8248303?gh_jid=8248303",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-20T14:49:23-04:00",
-    "detected_at": "2026-10-21T01:37:45.143579+00:00"
+    "posted_at": "2026-10-21T00:22:39-04:00",
+    "detected_at": "2026-10-21T06:32:06.598243+00:00"
   },
   {
-    "id": "gh_5228212007",
-    "title": "Senior Software Engineer, VMS",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Quincy, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228212007?gh_jid=5228212007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T12:58:02-04:00",
-    "detected_at": "2026-10-21T01:37:45.143579+00:00"
-  },
-  {
-    "id": "gh_8303806",
-    "title": "Software Engineer II (Networking) - Platform Infra",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T19:39:30-04:00",
-    "detected_at": "2026-10-21T01:37:45.143579+00:00"
-  },
-  {
-    "id": "ab_d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
-    "title": "Solutions Engineer, APAC",
-    "company_slug": "linear",
-    "company": "Linear",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
+    "id": "ab_5ed99d32-eed1-4679-b7b4-037de073e57c",
+    "title": "Software Engineer, Product Infrastructure - Agent Runtime",
+    "company_slug": "openai",
+    "company": "Openai",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c",
     "ats": "Ashby",
-    "posted_at": "2026-10-21T00:50:15.661+00:00",
-    "detected_at": "2026-10-21T01:37:45.143579+00:00"
+    "posted_at": "2026-08-17T05:31:43.308+00:00",
+    "detected_at": "2026-10-21T06:32:06.598243+00:00"
   }
 ]
