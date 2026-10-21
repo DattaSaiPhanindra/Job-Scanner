@@ -1,79 +1,46 @@
 [
   {
-    "id": "gh_8304034",
-    "title": "Senior Software Engineer",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
+    "id": "gh_5269017007",
+    "title": "Classified Cloud & Platform Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-20T17:06:08-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
+    "posted_at": "2026-10-20T14:49:23-04:00",
+    "detected_at": "2026-10-21T01:37:45.143579+00:00"
   },
   {
-    "id": "gh_6222291004",
-    "title": "Udemy Senior Sales & Solutions Engineer",
-    "company_slug": "coursera",
-    "company": "Coursera",
-    "location": "Japan",
-    "url": "https://job-boards.greenhouse.io/coursera/jobs/6222291004",
+    "id": "gh_5228212007",
+    "title": "Senior Software Engineer, VMS",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Quincy, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228212007?gh_jid=5228212007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-20T18:55:33-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
+    "posted_at": "2026-10-20T12:58:02-04:00",
+    "detected_at": "2026-10-21T01:37:45.143579+00:00"
   },
   {
-    "id": "gh_8125293",
-    "title": "Senior Backend Engineer",
-    "company_slug": "hellofresh",
-    "company": "Hellofresh",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://careers.hellofresh.com/global/en/job/8125293?gh_jid=8125293",
+    "id": "gh_8303806",
+    "title": "Software Engineer II (Networking) - Platform Infra",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-20T18:26:07-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
+    "posted_at": "2026-10-20T19:39:30-04:00",
+    "detected_at": "2026-10-21T01:37:45.143579+00:00"
   },
   {
-    "id": "gh_8179751",
-    "title": "Senior Software Engineer, Backend",
-    "company_slug": "justworks",
-    "company": "Justworks",
-    "location": "New York, New York",
-    "url": "https://boards.greenhouse.io/justworks/jobs/8179751?gh_jid=8179751",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T18:37:29-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
-  },
-  {
-    "id": "gh_8179714",
-    "title": "Software Engineer, Backend",
-    "company_slug": "justworks",
-    "company": "Justworks",
-    "location": "New York, New York",
-    "url": "https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T18:39:04-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
-  },
-  {
-    "id": "gh_8304487",
-    "title": "Senior Software Engineer - Ads Manager",
-    "company_slug": "instacart",
-    "company": "Instacart",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "url": "https://instacart.careers/job/?gh_jid=8304487",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T16:58:36-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
-  },
-  {
-    "id": "gh_8300746",
-    "title": "Manager, Client Platform Engineering",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "Palo Alto; San Francisco",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-20T16:52:34-04:00",
-    "detected_at": "2026-10-20T23:12:14.367211+00:00"
+    "id": "ab_d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
+    "title": "Solutions Engineer, APAC",
+    "company_slug": "linear",
+    "company": "Linear",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
+    "ats": "Ashby",
+    "posted_at": "2026-10-21T00:50:15.661+00:00",
+    "detected_at": "2026-10-21T01:37:45.143579+00:00"
   }
 ]
