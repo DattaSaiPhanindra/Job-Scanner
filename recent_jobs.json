@@ -1,46 +1,35 @@
 [
   {
-    "id": "gh_5457716008",
-    "title": "Staff Software Engineer, Finance Engineering",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
+    "id": "gh_8175873",
+    "title": "Software Engineer Intern",
+    "company_slug": "coinbase",
+    "company": "Coinbase",
+    "location": "Hybrid - Singapore",
+    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-21T20:29:11-04:00",
-    "detected_at": "2026-10-22T01:54:25.318339+00:00"
+    "posted_at": "2026-10-21T23:19:41-04:00",
+    "detected_at": "2026-10-22T06:51:21.347964+00:00"
   },
   {
-    "id": "gh_8274383",
-    "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T20:05:16-04:00",
-    "detected_at": "2026-10-22T01:54:25.318339+00:00"
-  },
-  {
-    "id": "ab_529b2dd6-4be3-49db-97cd-781f4897540b",
-    "title": "Senior Software Engineer, Agent Infrastructure",
-    "company_slug": "cohere",
-    "company": "Cohere",
-    "location": "Toronto",
-    "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
+    "id": "ab_edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
+    "title": "Applied AI Engineer (Full-Stack)",
+    "company_slug": "pinecone",
+    "company": "Pinecone",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
     "ats": "Ashby",
-    "posted_at": "2026-10-22T01:52:35.722+00:00",
-    "detected_at": "2026-10-22T01:54:25.318339+00:00"
+    "posted_at": "2026-10-22T02:02:42.448+00:00",
+    "detected_at": "2026-10-22T06:51:21.347964+00:00"
   },
   {
-    "id": "ab_6aa02c13-d9db-4624-b4ce-cc467562e2ed",
-    "title": "Senior Software Engineer - Marketplace ",
+    "id": "ab_2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97",
+    "title": "Senior Software Engineer - Warehouse UX",
     "company_slug": "snowflake",
     "company": "Snowflake",
     "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+    "url": "https://jobs.ashbyhq.com/snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97",
     "ats": "Ashby",
-    "posted_at": "2026-08-21T18:26:54.435+00:00",
-    "detected_at": "2026-10-22T01:54:25.318339+00:00"
+    "posted_at": "2026-10-22T03:23:28.843+00:00",
+    "detected_at": "2026-10-22T06:51:21.347964+00:00"
   }
 ]
