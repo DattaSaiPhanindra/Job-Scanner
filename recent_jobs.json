@@ -1,134 +1,46 @@
 [
   {
-    "id": "gh_8280222",
-    "title": "Software Engineer, DevAI",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
+    "id": "gh_5457716008",
+    "title": "Staff Software Engineer, Finance Engineering",
+    "company_slug": "anthropic",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:20:53-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
+    "posted_at": "2026-10-21T20:29:11-04:00",
+    "detected_at": "2026-10-22T01:54:25.318339+00:00"
   },
   {
-    "id": "gh_8311496",
-    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Canada",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:31:12-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8274400",
-    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Poland",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:31:03-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8311494",
-    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Spain",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8311494&gh_jid=8311494",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:31:09-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8311491",
-    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Greece",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8311491&gh_jid=8311491",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:31:05-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8311493",
-    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "Portugal",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8311493&gh_jid=8311493",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T19:31:07-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8249255",
-    "title": "Senior Software Engineer - Platform Billing Core",
+    "id": "gh_8274383",
+    "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
     "company_slug": "elastic",
     "company": "Elastic",
     "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-21T17:44:39-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
+    "posted_at": "2026-10-21T20:05:16-04:00",
+    "detected_at": "2026-10-22T01:54:25.318339+00:00"
   },
   {
-    "id": "gh_8249252",
-    "title": "Senior Software Engineer - Platform Billing Experience",
-    "company_slug": "elastic",
-    "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8249252&gh_jid=8249252",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T18:07:23-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_6230151004",
-    "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "United States (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T16:45:33-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8311209",
-    "title": "Staff Software Engineer, iOS Platform",
-    "company_slug": "reddit",
-    "company": "Reddit",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T18:00:43-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "gh_8302239",
-    "title": "Manager, Software Engineering - VALORANT, Player Dynamics",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8302239?gh_jid=8302239",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-21T18:55:48-04:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
-  },
-  {
-    "id": "ab_7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
-    "title": "Software Engineer - Turso",
-    "company_slug": "supabase",
-    "company": "Supabase",
-    "location": "Remote, Global",
-    "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+    "id": "ab_529b2dd6-4be3-49db-97cd-781f4897540b",
+    "title": "Senior Software Engineer, Agent Infrastructure",
+    "company_slug": "cohere",
+    "company": "Cohere",
+    "location": "Toronto",
+    "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
     "ats": "Ashby",
-    "posted_at": "2026-10-21T21:46:43.334+00:00",
-    "detected_at": "2026-10-21T23:40:58.606972+00:00"
+    "posted_at": "2026-10-22T01:52:35.722+00:00",
+    "detected_at": "2026-10-22T01:54:25.318339+00:00"
+  },
+  {
+    "id": "ab_6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+    "title": "Senior Software Engineer - Marketplace ",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "url": "https://jobs.ashbyhq.com/snowflake/6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+    "ats": "Ashby",
+    "posted_at": "2026-08-21T18:26:54.435+00:00",
+    "detected_at": "2026-10-22T01:54:25.318339+00:00"
   }
 ]
