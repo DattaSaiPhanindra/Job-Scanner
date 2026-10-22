@@ -1,101 +1,46 @@
 [
   {
-    "id": "gh_8909305002",
-    "title": "Senior Staff Software Engineer, AI Runtime",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002",
+    "id": "gh_8312254",
+    "title": "Senior Software Engineer, Agentic Commerce",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312254?gh_jid=8312254",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-22T14:28:32-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
+    "posted_at": "2026-10-22T19:15:09-04:00",
+    "detected_at": "2026-10-22T23:39:02.006462+00:00"
   },
   {
-    "id": "gh_8263467",
-    "title": "Senior Software Engineer, Workload Resilience",
+    "id": "gh_8312256",
+    "title": "Software Engineer, Agentic Commerce",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T19:15:11-04:00",
+    "detected_at": "2026-10-22T23:39:02.006462+00:00"
+  },
+  {
+    "id": "gh_8263247",
+    "title": "Senior Software Engineer, Replication",
     "company_slug": "mongodb",
     "company": "Mongodb",
     "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8263467",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-22T14:02:37-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
+    "posted_at": "2026-10-22T17:28:43-04:00",
+    "detected_at": "2026-10-22T23:39:02.006462+00:00"
   },
   {
-    "id": "gh_8314196",
-    "title": "Solutions Engineering Associate, Auth0",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Florida; New York, New York; Pennsylvania; Washington, DC",
-    "url": "https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T15:01:09-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "gh_8052237",
-    "title": "Principal Software Engineer, Data Tooling",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8052237?gh_jid=8052237",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T15:17:32-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "gh_8260980",
-    "title": "Staff Software Engineer, Payments Intelligence",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Seattle, New York, San Francisco",
-    "url": "https://stripe.com/jobs/search?gh_jid=8260980",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T15:52:24-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "gh_8311990",
-    "title": "Senior Software Engineer ",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Bangalore , Karnataka",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8311990",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T14:43:11-04:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "ab_6868de4a-f753-4f10-8dc5-f7aabef03b56",
-    "title": "Software Engineer, Compute Infra",
-    "company_slug": "cursor",
-    "company": "Cursor",
+    "id": "ab_dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+    "title": "Principal Software Engineer, Productivity",
+    "company_slug": "openai",
+    "company": "Openai",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
+    "url": "https://jobs.ashbyhq.com/openai/dd9c7c04-7181-4c65-9c6a-0e04313e3707",
     "ats": "Ashby",
-    "posted_at": "2026-10-22T19:53:00.965+00:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "ab_09360e92-fc95-4ba6-9611-dfefd60b13ce",
-    "title": "Software Engineer, Enterprise Product",
-    "company_slug": "ramp",
-    "company": "Ramp",
-    "location": "New York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
-    "ats": "Ashby",
-    "posted_at": "2026-10-22T19:20:13.000+00:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
-  },
-  {
-    "id": "ab_29a5da77-37f0-402a-92bc-072778e77ed8",
-    "title": "Software Engineer, Forward Deployed",
-    "company_slug": "ramp",
-    "company": "Ramp",
-    "location": "New York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
-    "ats": "Ashby",
-    "posted_at": "2026-10-22T19:20:16.077+00:00",
-    "detected_at": "2026-10-22T20:46:10.793573+00:00"
+    "posted_at": "2026-10-22T22:35:52.950+00:00",
+    "detected_at": "2026-10-22T23:39:02.006462+00:00"
   }
 ]
