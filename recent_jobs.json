@@ -1,35 +1,101 @@
 [
   {
-    "id": "gh_8175873",
-    "title": "Software Engineer Intern",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Hybrid - Singapore",
-    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "id": "gh_8303351",
+    "title": "Senior Software Engineer - Alerting Platform Automation",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Nantes, France; Paris, France",
+    "url": "https://careers.datadoghq.com/detail/8303351/?gh_jid=8303351",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-21T23:19:41-04:00",
-    "detected_at": "2026-10-22T06:51:21.347964+00:00"
+    "posted_at": "2026-10-22T07:06:25-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
   },
   {
-    "id": "ab_edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
-    "title": "Applied AI Engineer (Full-Stack)",
-    "company_slug": "pinecone",
-    "company": "Pinecone",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
-    "ats": "Ashby",
-    "posted_at": "2026-10-22T02:02:42.448+00:00",
-    "detected_at": "2026-10-22T06:51:21.347964+00:00"
+    "id": "gh_8280899",
+    "title": "Software Engineer - Marketing Automation (all genders)",
+    "company_slug": "hellofresh",
+    "company": "Hellofresh",
+    "location": "Berlin, Berlin, Germany",
+    "url": "https://careers.hellofresh.com/global/en/job/8280899?gh_jid=8280899",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T05:57:27-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
   },
   {
-    "id": "ab_2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97",
-    "title": "Senior Software Engineer - Warehouse UX",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97",
+    "id": "gh_7780376",
+    "title": "Senior Software Engineer - Java",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T03:41:58-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "gh_8192390",
+    "title": "Director, Infrastructure Engineering",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192390",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T06:40:00-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "gh_8278312",
+    "title": "Staff Software Engineer, Exchange Platform",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8278312?t=gh_src=&gh_jid=8278312",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T03:41:43-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "gh_8045807",
+    "title": "Manager II, Software Engineering",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bangalore, india",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8045807",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T07:06:55-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "gh_8284256",
+    "title": "Senior Software Engineer",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bangalore, India",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8284256",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T07:11:49-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "gh_8302717",
+    "title": "Software Engineer II",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8302717",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-22T04:28:36-04:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
+  },
+  {
+    "id": "ab_7c17d265-2eff-4a1f-97dd-c0e55b218068",
+    "title": "Staff Software Engineer, Backend",
+    "company_slug": "stream",
+    "company": "Stream",
+    "location": "Amsterdam office",
+    "url": "https://jobs.ashbyhq.com/stream/7c17d265-2eff-4a1f-97dd-c0e55b218068",
     "ats": "Ashby",
-    "posted_at": "2026-10-22T03:23:28.843+00:00",
-    "detected_at": "2026-10-22T06:51:21.347964+00:00"
+    "posted_at": "2026-10-22T07:53:47.329+00:00",
+    "detected_at": "2026-10-22T12:38:56.271622+00:00"
   }
 ]
