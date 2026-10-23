@@ -1,46 +1,13 @@
 [
   {
-    "id": "gh_8312254",
-    "title": "Senior Software Engineer, Agentic Commerce",
-    "company_slug": "cloudflare",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312254?gh_jid=8312254",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T19:15:09-04:00",
-    "detected_at": "2026-10-22T23:39:02.006462+00:00"
-  },
-  {
-    "id": "gh_8312256",
-    "title": "Software Engineer, Agentic Commerce",
-    "company_slug": "cloudflare",
-    "company": "Cloudflare",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T19:15:11-04:00",
-    "detected_at": "2026-10-22T23:39:02.006462+00:00"
-  },
-  {
-    "id": "gh_8263247",
-    "title": "Senior Software Engineer, Replication",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-22T17:28:43-04:00",
-    "detected_at": "2026-10-22T23:39:02.006462+00:00"
-  },
-  {
-    "id": "ab_dd9c7c04-7181-4c65-9c6a-0e04313e3707",
-    "title": "Principal Software Engineer, Productivity",
+    "id": "ab_40de0618-fb19-443d-85fd-ba690d3721a8",
+    "title": "Principal Software Engineer, ChatGPT Education and Learning",
     "company_slug": "openai",
     "company": "Openai",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+    "url": "https://jobs.ashbyhq.com/openai/40de0618-fb19-443d-85fd-ba690d3721a8",
     "ats": "Ashby",
-    "posted_at": "2026-10-22T22:35:52.950+00:00",
-    "detected_at": "2026-10-22T23:39:02.006462+00:00"
+    "posted_at": "2026-10-23T00:36:22.701+00:00",
+    "detected_at": "2026-10-23T01:55:51.045695+00:00"
   }
 ]
