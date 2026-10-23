@@ -1,35 +1,79 @@
 [
   {
-    "id": "gh_8284120",
-    "title": "Senior Software Engineer",
-    "company_slug": "earnin",
-    "company": "Earnin",
-    "location": "Mexico City, Mexico",
-    "url": "https://job-boards.greenhouse.io/earnin/jobs/8284120",
+    "id": "gh_8264727",
+    "title": "Team Lead - Software Engineer",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8264727",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-23T01:30:28-04:00",
-    "detected_at": "2026-10-23T06:48:57.807697+00:00"
+    "posted_at": "2026-10-23T04:01:42-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
   },
   {
-    "id": "gh_8202299",
-    "title": "Software Engineer, New Grad",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Taiwan",
-    "url": "https://stripe.com/jobs/search?gh_jid=8202299",
+    "id": "gh_8317738",
+    "title": "Senior Software Engineer - Analytics Data Platform",
+    "company_slug": "datadog",
+    "company": "Datadog",
+    "location": "Paris, France",
+    "url": "https://careers.datadoghq.com/detail/8317738/?gh_jid=8317738",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-22T23:22:57-04:00",
-    "detected_at": "2026-10-23T06:48:57.807697+00:00"
+    "posted_at": "2026-10-23T07:14:53-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
   },
   {
-    "id": "lv_8a7a001b-a5d7-48b9-9651-a0444699338f",
-    "title": "Lead Software Engineering (.NET / React)(10+ years) -  11770",
-    "company_slug": "coupa",
-    "company": "Coupa",
-    "location": "Hyderabad, India",
-    "url": "https://jobs.lever.co/coupa/8a7a001b-a5d7-48b9-9651-a0444699338f",
+    "id": "gh_8317779",
+    "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Ireland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-23T07:31:49-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
+  },
+  {
+    "id": "gh_8317778",
+    "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Poland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8317778&gh_jid=8317778",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-23T07:30:45-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
+  },
+  {
+    "id": "gh_6231343004",
+    "title": "Senior Solutions Engineer | Israel | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "Israel (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6231343004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-23T04:02:40-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
+  },
+  {
+    "id": "gh_8286403",
+    "title": "Software Engineer 3",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Dublin, Ireland",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8286403",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-23T07:37:24-04:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
+  },
+  {
+    "id": "lv_9f66e598-8587-4a57-8552-2cdb8672014a",
+    "title": "Senior Backend Engineer - Content Platform",
+    "company_slug": "spotify",
+    "company": "Spotify",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/9f66e598-8587-4a57-8552-2cdb8672014a",
     "ats": "Lever",
-    "posted_at": "2026-07-30T10:49:15.062000+00:00",
-    "detected_at": "2026-10-23T06:48:57.807697+00:00"
+    "posted_at": "2026-10-21T16:44:17.090000+00:00",
+    "detected_at": "2026-10-23T12:11:58.250912+00:00"
   }
 ]
