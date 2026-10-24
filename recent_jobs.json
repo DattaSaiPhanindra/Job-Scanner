@@ -1,90 +1,13 @@
 [
   {
-    "id": "gh_8319678",
-    "title": "Senior Software Engineer, AI",
-    "company_slug": "asana",
-    "company": "Asana",
-    "location": "Vancouver, BC",
-    "url": "https://www.asana.com/jobs/apply/8319678?gh_jid=8319678",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T18:48:17-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_7962306",
-    "title": "Software Engineer, AI",
-    "company_slug": "asana",
-    "company": "Asana",
-    "location": "Vancouver, BC",
-    "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T18:42:38-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_8771512002",
-    "title": "Backend Engineer, Knowledge Graph (Rust)",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Remote, Canada; Remote, United States",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T18:47:07-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_6233334004",
-    "title": "Principal Technical Marketing Engineer  | Sweden | Remote",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "Sweden (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6233334004",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T16:29:43-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_6233354004",
-    "title": "Senior Product Marketing Manager  | Sweden | Remote",
-    "company_slug": "grafanalabs",
-    "company": "Grafanalabs",
-    "location": "Sweden (Remote)",
-    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6233354004",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T16:29:28-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_8319274",
-    "title": "Sr. Software Engineer, AI Platform & Infrastructure",
+    "id": "gh_8319285",
+    "title": "Staff Software Engineer, AI Platform & Infrastructure",
     "company_slug": "okta",
     "company": "Okta",
     "location": "San Francisco, California",
-    "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274",
+    "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-23T18:53:11-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_5268021007",
-    "title": "Manager \u2013 AI & Data Platform Engineering",
-    "company_slug": "zscaler",
-    "company": "Zscaler",
-    "location": "Santa Clara, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268021007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T17:55:26-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
-  },
-  {
-    "id": "gh_5253937007",
-    "title": "Sr. Staff Software Engineer, Cloud Networking & Datapath",
-    "company_slug": "zscaler",
-    "company": "Zscaler",
-    "location": "Santa Clara, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253937007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-23T17:29:12-04:00",
-    "detected_at": "2026-10-23T23:19:44.866356+00:00"
+    "posted_at": "2026-10-23T20:27:09-04:00",
+    "detected_at": "2026-10-24T01:41:43.229391+00:00"
   }
 ]
