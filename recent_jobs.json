@@ -1,35 +1,35 @@
 [
   {
-    "id": "gh_8316775",
-    "title": "Senior Software Engineer",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Seoul, Korea",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8316775?gh_jid=8316775",
+    "id": "gh_8207624",
+    "title": "Senior Partner Solutions Engineer - Cellular Connectivity",
+    "company_slug": "adyen",
+    "company": "Adyen",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8207624",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-26T02:59:23-04:00",
-    "detected_at": "2026-10-26T07:02:58.848015+00:00"
+    "posted_at": "2026-10-26T08:34:41-04:00",
+    "detected_at": "2026-10-26T14:09:08.939285+00:00"
   },
   {
-    "id": "gh_8318509",
-    "title": "Software Engineer",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "Taiwan",
-    "url": "https://stripe.com/jobs/search?gh_jid=8318509",
+    "id": "gh_8317320",
+    "title": "Senior Software Engineer, Full Stack",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Chennai",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8317320",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-25T22:42:49-04:00",
-    "detected_at": "2026-10-26T07:02:58.848015+00:00"
+    "posted_at": "2026-10-26T03:05:59-04:00",
+    "detected_at": "2026-10-26T14:09:08.939285+00:00"
   },
   {
-    "id": "ab_499b0652-047b-48a9-a056-2083b8d53bab",
-    "title": "Software Engineer Manager, Data Processing",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "CH-Zurich-Observe",
-    "url": "https://jobs.ashbyhq.com/snowflake/499b0652-047b-48a9-a056-2083b8d53bab",
-    "ats": "Ashby",
-    "posted_at": "2026-10-26T06:55:17.634+00:00",
-    "detected_at": "2026-10-26T07:02:58.848015+00:00"
+    "id": "gh_8311988",
+    "title": "Staff Software Engineer",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bengaluru , Karnataka , India",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8311988",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-26T08:07:27-04:00",
+    "detected_at": "2026-10-26T14:09:08.939285+00:00"
   }
 ]
