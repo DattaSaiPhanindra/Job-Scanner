@@ -1,13 +1,167 @@
 [
   {
-    "id": "gh_8044038003",
-    "title": "Senior Site Reliability Engineer",
-    "company_slug": "fivetran",
-    "company": "Fivetran",
-    "location": "Bengaluru, Karnataka, India, APAC",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
+    "id": "gh_8043027003",
+    "title": "Senior Manager, Software Engineering (Card)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-27T02:36:20-04:00",
-    "detected_at": "2026-10-27T08:00:03.150120+00:00"
+    "posted_at": "2026-10-27T08:29:34-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8043029003",
+    "title": "Senior Manager, Software Engineering (Card)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T08:29:36-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8040380003",
+    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:28:02-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8040378003",
+    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040378003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:27:59-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8040394003",
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:27:01-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8040392003",
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:26:59-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8034647003",
+    "title": "Staff Software Engineer, Backend (Recoveries)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:26:44-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8034645003",
+    "title": "Staff Software Engineer, Backend (Recoveries)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T09:26:42-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8034827003",
+    "title": "Staff Software Engineer, Frontend (Decisions Orchestration) ",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T08:05:13-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8034825003",
+    "title": "Staff Software Engineer, Frontend (Decisions Orechestration) ",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T08:05:10-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8306112",
+    "title": "Technical Solutions Engineer, Security & Privacy",
+    "company_slug": "braze",
+    "company": "Braze",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8306112",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T06:34:57-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8325962",
+    "title": "Staff Software Engineer, Security Engineering",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8325962?gh_jid=8325962",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T07:53:15-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8212319",
+    "title": "Backend Engineer, UI Platform",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Barcelona, Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T05:37:14-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "gh_8326932",
+    "title": "Senior Solutions Engineer",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Toronto, Ontario",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8326932",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-27T06:25:06-04:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
+  },
+  {
+    "id": "ab_418a8f32-1658-47d9-9450-ed3a6e947215",
+    "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "PL-Warsaw-Lixa C",
+    "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
+    "ats": "Ashby",
+    "posted_at": "2026-10-12T08:12:25.967+00:00",
+    "detected_at": "2026-10-27T14:13:24.893462+00:00"
   }
 ]
