@@ -1,90 +1,13 @@
 [
   {
-    "id": "gh_5275431007",
-    "title": "Early Career Software Engineer, Battlespace Awareness",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007",
+    "id": "gh_8044038003",
+    "title": "Senior Site Reliability Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-26T15:34:27-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_5275462007",
-    "title": "Scientific Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T15:43:37-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_5275200007",
-    "title": "Senior Site Reliability Engineer, Edge Devices",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Irvine, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275200007?gh_jid=5275200007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T14:09:23-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_4975951007",
-    "title": "Senior Software Engineer ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Seattle, Washington, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4975951007?gh_jid=4975951007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T14:48:40-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_5253746007",
-    "title": "Site Reliability Engineer, Edge Devices ",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Irvine, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253746007?gh_jid=5253746007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T12:17:25-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_5275463007",
-    "title": "Software Engineer, C++",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T15:44:14-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_8302342",
-    "title": "Senior Software Engineer, Tools - Unpublished R&D Product",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Shanghai, China",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8302342?gh_jid=8302342",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T20:18:01-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
-  },
-  {
-    "id": "gh_6204036004",
-    "title": "Senior / Staff Software Engineer \u2014 Product (Backend-Focused)",
-    "company_slug": "snorkelai",
-    "company": "Snorkelai",
-    "location": "San Francisco, CA (Hybrid)",
-    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6204036004",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-26T20:25:12-04:00",
-    "detected_at": "2026-10-27T02:19:11.197395+00:00"
+    "posted_at": "2026-10-27T02:36:20-04:00",
+    "detected_at": "2026-10-27T08:00:03.150120+00:00"
   }
 ]
