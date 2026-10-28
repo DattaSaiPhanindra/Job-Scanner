@@ -1,123 +1,13 @@
 [
   {
-    "id": "gh_5211164007",
-    "title": "Infra Software Engineer, Agentic Runtime",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Washington, District of Columbia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007",
+    "id": "gh_8329718",
+    "title": "Staff Software Engineer, Dashboard Product",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329718",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:46:19-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_5277625007",
-    "title": "Mission Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5277625007?gh_jid=5277625007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:46:19-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_5145121007",
-    "title": "Mission Software Engineer, Ground",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "USA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:46:19-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_5277719007",
-    "title": "Senior Software Engineer, Space Special Programs",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5277719007?gh_jid=5277719007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:46:19-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_5274039007",
-    "title": "Staff Site Reliability Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274039007?gh_jid=5274039007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:46:19-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_6865698002",
-    "title": "Software Engineer - New Grad (2027 Start)",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T16:02:08-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_6865704002",
-    "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Bellevue, Washington; Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T16:22:04-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_8920303002",
-    "title": "Staff Technical Solutions Engineer, Data & AI",
-    "company_slug": "databricks",
-    "company": "Databricks",
-    "location": "Sao Paulo, Brazil",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920303002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T16:59:31-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_8313374",
-    "title": "Software Engineer 3, Identity and Access Management",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "Toronto",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8313374",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T16:24:13-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_8316790",
-    "title": "Senior Software Engineer, Gameplay (Bots) - League of Legends (Mandarin-Proficiency Required)",
-    "company_slug": "riotgames",
-    "company": "Riotgames",
-    "location": "Los Angeles, USA",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8316790?gh_jid=8316790",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:11:26-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
-  },
-  {
-    "id": "gh_8313894",
-    "title": "Staff Software Engineer, Orders",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote, US",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8313894",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-27T18:29:51-04:00",
-    "detected_at": "2026-10-27T23:01:53.820104+00:00"
+    "posted_at": "2026-10-27T21:21:27-04:00",
+    "detected_at": "2026-10-28T02:07:33.809867+00:00"
   }
 ]
