@@ -1,35 +1,57 @@
 [
   {
-    "id": "gh_8916232002",
-    "title": "Software Engineer, Delivery : Release",
-    "company_slug": "gitlab",
-    "company": "Gitlab",
-    "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
+    "id": "gh_5278027007",
+    "title": "Realtime Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Waltham, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278027007?gh_jid=5278027007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T00:26:37-04:00",
-    "detected_at": "2026-10-28T08:21:40.105676+00:00"
+    "posted_at": "2026-10-28T09:52:26-04:00",
+    "detected_at": "2026-10-28T15:15:48.104871+00:00"
   },
   {
-    "id": "gh_8287614",
-    "title": "Principal Software Engineer, GenAI Platform",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8287614?gh_jid=8287614",
+    "id": "gh_5278136007",
+    "title": "Software Engineer, Space Special Programs",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278136007?gh_jid=5278136007",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T02:33:02-04:00",
-    "detected_at": "2026-10-28T08:21:40.105676+00:00"
+    "posted_at": "2026-10-28T11:10:01-04:00",
+    "detected_at": "2026-10-28T15:15:48.104871+00:00"
   },
   {
-    "id": "ab_d8c4529f-6bf6-47b2-b2e9-fd40f57c1581",
-    "title": "Pre-sales Solutions Engineer",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "IN-Bangalore-MSO",
-    "url": "https://jobs.ashbyhq.com/snowflake/d8c4529f-6bf6-47b2-b2e9-fd40f57c1581",
-    "ats": "Ashby",
-    "posted_at": "2026-10-28T05:21:50.178+00:00",
-    "detected_at": "2026-10-28T08:21:40.105676+00:00"
+    "id": "gh_8040396003",
+    "title": "Staff Software Engineer, Backend (Observability)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-28T08:45:51-04:00",
+    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+  },
+  {
+    "id": "gh_8329646",
+    "title": "Senior Software Engineer, Performance ( Toronto) ",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-28T11:14:00-04:00",
+    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+  },
+  {
+    "id": "gh_8130876",
+    "title": "Software Engineer, New Grad",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-28T05:19:59-04:00",
+    "detected_at": "2026-10-28T15:15:48.104871+00:00"
   }
 ]
