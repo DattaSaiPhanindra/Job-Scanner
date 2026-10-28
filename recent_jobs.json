@@ -1,57 +1,68 @@
 [
   {
-    "id": "gh_5278027007",
-    "title": "Realtime Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Waltham, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278027007?gh_jid=5278027007",
+    "id": "gh_8922246002",
+    "title": "Staff Software Engineer - Identity & Access Management",
+    "company_slug": "brex",
+    "company": "Brex",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://www.brex.com/careers/8922246002?gh_jid=8922246002",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T09:52:26-04:00",
-    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+    "posted_at": "2026-10-28T13:17:32-04:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
   },
   {
-    "id": "gh_5278136007",
-    "title": "Software Engineer, Space Special Programs",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278136007?gh_jid=5278136007",
+    "id": "gh_8326088",
+    "title": "Software Engineer II, Autonomous Freight Technology",
+    "company_slug": "flexport",
+    "company": "Flexport",
+    "location": "Bellevue, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8326088",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T11:10:01-04:00",
-    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+    "posted_at": "2026-10-28T12:29:11-04:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
   },
   {
-    "id": "gh_8040396003",
-    "title": "Staff Software Engineer, Backend (Observability)",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
+    "id": "gh_6236201004",
+    "title": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
+    "company_slug": "grafanalabs",
+    "company": "Grafanalabs",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T08:45:51-04:00",
-    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+    "posted_at": "2026-10-28T14:16:57-04:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
   },
   {
-    "id": "gh_8329646",
-    "title": "Senior Software Engineer, Performance ( Toronto) ",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Toronto, Ontario, Canada",
-    "url": "https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646",
+    "id": "gh_8331571",
+    "title": "Senior Software Engineer, Capacity & Efficiency",
+    "company_slug": "robinhood",
+    "company": "Robinhood",
+    "location": "Bellevue, WA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T11:14:00-04:00",
-    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+    "posted_at": "2026-10-28T14:10:48-04:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
   },
   {
-    "id": "gh_8130876",
-    "title": "Software Engineer, New Grad",
+    "id": "gh_8304788",
+    "title": "Staff Software Engineer, Link - Consumer Identity",
     "company_slug": "stripe",
     "company": "Stripe",
-    "location": "Bangalore",
-    "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304788",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-28T05:19:59-04:00",
-    "detected_at": "2026-10-28T15:15:48.104871+00:00"
+    "posted_at": "2026-10-28T14:28:39-04:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
+  },
+  {
+    "id": "lv_7d447365-bf22-40e5-9fbd-df6abd9718be",
+    "title": "AI Engineer - 11952",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bogota, Colombia",
+    "url": "https://jobs.lever.co/coupa/7d447365-bf22-40e5-9fbd-df6abd9718be",
+    "ats": "Lever",
+    "posted_at": "2026-10-27T17:08:26.904000+00:00",
+    "detected_at": "2026-10-28T20:19:01.390601+00:00"
   }
 ]
