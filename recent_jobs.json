@@ -1,35 +1,68 @@
 [
   {
-    "id": "gh_8098803003",
-    "title": "Staff Software Engineer, Backend (Observability)",
+    "id": "gh_8039805003",
+    "title": "Senior Software Engineer, Backend (International)",
     "company_slug": "affirm",
     "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
+    "location": "Remote UK",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039805003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-30T03:35:41-04:00",
-    "detected_at": "2026-10-30T07:41:59.238981+00:00"
+    "posted_at": "2026-10-30T04:57:46-04:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
   },
   {
-    "id": "gh_8317731",
-    "title": "Senior Software Engineer - Full Stack",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8317731?gh_jid=8317731",
+    "id": "gh_8041815003",
+    "title": "Software Engineer II, Backend (Payments)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote UK",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041815003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-30T01:36:08-04:00",
-    "detected_at": "2026-10-30T07:41:59.238981+00:00"
+    "posted_at": "2026-10-30T08:00:31-04:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
   },
   {
-    "id": "gh_7529446",
-    "title": "Senior Software Engineer - Java Developer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446",
+    "id": "gh_7752226",
+    "title": "Backend Product Software Engineer",
+    "company_slug": "dropbox",
+    "company": "Dropbox",
+    "location": "Remote - Mexico",
+    "url": "https://jobs.dropbox.com/listing/7752226?gh_jid=7752226",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-30T01:42:13-04:00",
-    "detected_at": "2026-10-30T07:41:59.238981+00:00"
+    "posted_at": "2026-10-30T10:28:58-04:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
+  },
+  {
+    "id": "gh_8327839",
+    "title": "Senior Solutions Engineer",
+    "company_slug": "twilio",
+    "company": "Twilio",
+    "location": "Remote - United Kingdom",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-30T10:15:58-04:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
+  },
+  {
+    "id": "gh_5271547007",
+    "title": "Manager, Site Reliability Engineer (Production Engineering)",
+    "company_slug": "zscaler",
+    "company": "Zscaler",
+    "location": "Bangalore, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271547007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-10-30T04:04:00-04:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
+  },
+  {
+    "id": "ab_4f5d4a8a-59a8-4696-b499-c01e740795c1",
+    "title": "Software Engineer (Ruby on Rails, APIs)",
+    "company_slug": "oyster",
+    "company": "Oyster",
+    "location": "EMEA",
+    "url": "https://jobs.ashbyhq.com/oyster/4f5d4a8a-59a8-4696-b499-c01e740795c1",
+    "ats": "Ashby",
+    "posted_at": "2026-10-30T11:31:47.300+00:00",
+    "detected_at": "2026-10-30T14:32:22.721119+00:00"
   }
 ]
