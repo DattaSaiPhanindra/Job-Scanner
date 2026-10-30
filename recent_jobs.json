@@ -1,79 +1,35 @@
 [
   {
-    "id": "gh_8307226",
-    "title": "Staff Software Engineer AI, Platform",
-    "company_slug": "airbnb",
-    "company": "Airbnb",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8307226?gh_jid=8307226",
+    "id": "gh_8098803003",
+    "title": "Staff Software Engineer, Backend (Observability)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-29T19:27:23-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
+    "posted_at": "2026-10-30T03:35:41-04:00",
+    "detected_at": "2026-10-30T07:41:59.238981+00:00"
   },
   {
-    "id": "gh_5279976007",
-    "title": "Senior Software Engineer, EW",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279976007?gh_jid=5279976007",
+    "id": "gh_8317731",
+    "title": "Senior Software Engineer - Full Stack",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8317731?gh_jid=8317731",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-29T21:14:54-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
+    "posted_at": "2026-10-30T01:36:08-04:00",
+    "detected_at": "2026-10-30T07:41:59.238981+00:00"
   },
   {
-    "id": "gh_5279793007",
-    "title": "Software Engineer, ERP Applications & Development",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007",
+    "id": "gh_7529446",
+    "title": "Senior Software Engineer - Java Developer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446",
     "ats": "Greenhouse",
-    "posted_at": "2026-10-29T18:52:25-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
-  },
-  {
-    "id": "gh_5279977007",
-    "title": "Staff Software Engineer, EW",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279977007?gh_jid=5279977007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-29T21:18:06-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
-  },
-  {
-    "id": "gh_8335547",
-    "title": "Senior Software Engineer, Backend (Coinbase One)",
-    "company_slug": "coinbase",
-    "company": "Coinbase",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-29T18:43:45-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
-  },
-  {
-    "id": "gh_8335461",
-    "title": "Senior Staff Software Engineer - Identity & Trust",
-    "company_slug": "earnin",
-    "company": "Earnin",
-    "location": "Remote, US",
-    "url": "https://job-boards.greenhouse.io/earnin/jobs/8335461",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-29T20:05:02-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
-  },
-  {
-    "id": "gh_8229848",
-    "title": "Senior Software Engineer",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "Gurugram",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8229848",
-    "ats": "Greenhouse",
-    "posted_at": "2026-10-29T18:04:18-04:00",
-    "detected_at": "2026-10-30T01:35:10.186368+00:00"
+    "posted_at": "2026-10-30T01:42:13-04:00",
+    "detected_at": "2026-10-30T07:41:59.238981+00:00"
   }
 ]
