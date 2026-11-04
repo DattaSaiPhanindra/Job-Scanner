@@ -1,90 +1,79 @@
 [
   {
-    "id": "gh_5472201008",
-    "title": "Staff+ Software Engineer, Platform Intelligence",
-    "company_slug": "anthropic",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472201008",
+    "id": "gh_5284428007",
+    "title": "Mission Software Engineer",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Waltham, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-03T22:49:38-05:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-11-04T09:28:41-05:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   },
   {
-    "id": "gh_8338330",
-    "title": "Staff Engineer - Cloud Backend Engineering",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Bengaluru",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8338330",
+    "id": "gh_5283835007",
+    "title": "Software Engineering Manager",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283835007?gh_jid=5283835007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-03T23:56:11-05:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-11-04T10:46:35-05:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   },
   {
-    "id": "gh_8338332",
-    "title": "Staff Engineer - Cloud Backend Engineering",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Bengaluru",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8338332",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-03T23:56:47-05:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
-  },
-  {
-    "id": "gh_8928675002",
-    "title": "Senior Backend Engineer, Development Health",
+    "id": "gh_8800507002",
+    "title": "Senior Backend Engineer, Cloud Cost & Capacity ",
     "company_slug": "gitlab",
     "company": "Gitlab",
     "location": "Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928675002",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8800507002",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-04T01:44:52-05:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-11-04T07:32:00-05:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   },
   {
-    "id": "gh_8284248",
-    "title": "Staff Software Engineer",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Bangalore, India",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8284248",
+    "id": "gh_8184826",
+    "title": "Senior Site Reliability Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Dublin, Ireland",
+    "url": "https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-04T02:24:40-05:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-11-04T08:46:28-05:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   },
   {
-    "id": "lv_90a7fac9-1086-4a9a-9e42-a0e9413eaa02",
-    "title": "Lead Software Engineer - 11699",
-    "company_slug": "coupa",
-    "company": "Coupa",
-    "location": "Hyderabad, India",
-    "url": "https://jobs.lever.co/coupa/90a7fac9-1086-4a9a-9e42-a0e9413eaa02",
-    "ats": "Lever",
-    "posted_at": "2026-07-15T14:27:02.520000+00:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
-  },
-  {
-    "id": "lv_7bbb7519-d38b-4d4e-933e-b04deafd4029",
-    "title": "Software Engineer - Technology Platform - 11960",
+    "id": "lv_f35ae214-b530-4156-b77a-124fed2e9663",
+    "title": "Software Engineer - 11961",
     "company_slug": "coupa",
     "company": "Coupa",
     "location": "Pune, India",
-    "url": "https://jobs.lever.co/coupa/7bbb7519-d38b-4d4e-933e-b04deafd4029",
+    "url": "https://jobs.lever.co/coupa/f35ae214-b530-4156-b77a-124fed2e9663",
     "ats": "Lever",
-    "posted_at": "2026-10-29T21:33:57.294000+00:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-10-29T21:38:01.468000+00:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   },
   {
-    "id": "ab_4371e808-51f1-4c7a-a1ca-1819926a5c74",
-    "title": "Staff Software Engineer - Billing Platform",
-    "company_slug": "snowflake",
-    "company": "Snowflake",
-    "location": "US-CA-Menlo Park",
-    "url": "https://jobs.ashbyhq.com/snowflake/4371e808-51f1-4c7a-a1ca-1819926a5c74",
+    "id": "ab_33b629b4-fc3a-437e-b13b-16fef283af68",
+    "title": "Senior Software Engineer, Tooling",
+    "company_slug": "docker",
+    "company": "Docker",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/docker/33b629b4-fc3a-437e-b13b-16fef283af68",
     "ats": "Ashby",
-    "posted_at": "2026-11-04T06:45:40.283+00:00",
-    "detected_at": "2026-11-04T07:41:21.709224+00:00"
+    "posted_at": "2026-11-04T15:38:01.476+00:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
+  },
+  {
+    "id": "ab_764fa366-dbe2-4f04-ae55-908651d4c771",
+    "title": "Senior AI Engineering Manager",
+    "company_slug": "multiverse",
+    "company": "Multiverse",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/multiverse/764fa366-dbe2-4f04-ae55-908651d4c771",
+    "ats": "Ashby",
+    "posted_at": "2026-07-03T10:53:10.209+00:00",
+    "detected_at": "2026-11-04T15:47:28.247539+00:00"
   }
 ]
