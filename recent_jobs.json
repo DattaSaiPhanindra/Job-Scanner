@@ -1,35 +1,145 @@
 [
   {
-    "id": "gh_8239282",
+    "id": "gh_8162558003",
+    "title": "Staff Software Engineer, Fullstack (Account Management)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T11:30:14-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "gh_8162556003",
+    "title": "Staff Software Engineer, Fullstack (Account Management)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T11:30:13-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "gh_8346149",
+    "title": "Senior Software Engineer - ZTC",
+    "company_slug": "cloudflare",
+    "company": "Cloudflare",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T07:03:34-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "gh_8196546003",
+    "title": "Senior Full Stack Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8196546003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T07:59:02-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "gh_8196257003",
     "title": "Senior Software Engineer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bengaluru, India",
-    "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8196257003",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-04T21:47:10-05:00",
-    "detected_at": "2026-11-05T08:31:48.745493+00:00"
+    "posted_at": "2026-11-05T07:55:47-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
   },
   {
-    "id": "gh_8338334",
-    "title": "Staff Engineer - Cloud Backend Engineering",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Bengaluru",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8338334",
+    "id": "gh_4751159005",
+    "title": "Principal Software Engineer, GPS",
+    "company_slug": "scaleai",
+    "company": "Scaleai",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751159005",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-05T00:44:03-05:00",
-    "detected_at": "2026-11-05T08:31:48.745493+00:00"
+    "posted_at": "2026-11-05T06:32:33-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
   },
   {
-    "id": "lv_5d249cf9-b546-42ff-a006-89fa166da27e",
-    "title": "AI Engineer - 11927",
-    "company_slug": "coupa",
-    "company": "Coupa",
-    "location": "Pune, India",
-    "url": "https://jobs.lever.co/coupa/5d249cf9-b546-42ff-a006-89fa166da27e",
+    "id": "gh_8267686",
+    "title": "Senior Software Engineer - Infrastructure",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Dublin, Ireland",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8267686",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T05:48:47-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "gh_8922289002",
+    "title": "Software Engineer III \u2013 VoIP / FreeSWITCH",
+    "company_slug": "vonage",
+    "company": "Vonage",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/vonage/jobs/8922289002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-05T08:09:03-05:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "lv_063dfa93-aa1b-4927-b865-093e960aaa39",
+    "title": "Staff Software Engineer (Mobile, Android) - Hyderabad, India",
+    "company_slug": "outreach",
+    "company": "Outreach",
+    "location": "Hyderabad",
+    "url": "https://jobs.lever.co/outreach/063dfa93-aa1b-4927-b865-093e960aaa39",
     "ats": "Lever",
-    "posted_at": "2026-10-13T08:02:00.240000+00:00",
-    "detected_at": "2026-11-05T08:31:48.745493+00:00"
+    "posted_at": "2026-11-05T12:42:21.339000+00:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "lv_18e15790-4e2f-4d5f-b072-8ed74c604ad3",
+    "title": "Staff Software Engineer (Mobile, iOS) - Hyderabad, India",
+    "company_slug": "outreach",
+    "company": "Outreach",
+    "location": "Hyderabad",
+    "url": "https://jobs.lever.co/outreach/18e15790-4e2f-4d5f-b072-8ed74c604ad3",
+    "ats": "Lever",
+    "posted_at": "2026-11-05T12:28:43.511000+00:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "lv_565a94cf-8197-4f03-979c-e97dcda97b76",
+    "title": "Staff Software Engineer, Mobile (Android and iOS) - Hyderabad, India",
+    "company_slug": "outreach",
+    "company": "Outreach",
+    "location": "Hyderabad",
+    "url": "https://jobs.lever.co/outreach/565a94cf-8197-4f03-979c-e97dcda97b76",
+    "ats": "Lever",
+    "posted_at": "2026-11-05T12:57:23.650000+00:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "lv_4c0aa107-bdb7-4061-b2c7-be616e059340",
+    "title": "Staff Backend Engineer - Content Platform",
+    "company_slug": "spotify",
+    "company": "Spotify",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/4c0aa107-bdb7-4061-b2c7-be616e059340",
+    "ats": "Lever",
+    "posted_at": "2026-11-05T13:45:45.876000+00:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
+  },
+  {
+    "id": "ab_466cb97a-809c-46bc-a15c-a8464915ab66",
+    "title": "Senior Solutions Engineer, Observe",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "US-NY-New York",
+    "url": "https://jobs.ashbyhq.com/snowflake/466cb97a-809c-46bc-a15c-a8464915ab66",
+    "ats": "Ashby",
+    "posted_at": "2026-11-05T13:02:18.956+00:00",
+    "detected_at": "2026-11-05T16:44:18.411196+00:00"
   }
 ]
