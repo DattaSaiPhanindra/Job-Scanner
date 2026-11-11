@@ -1,57 +1,101 @@
 [
   {
-    "id": "gh_5291774007",
-    "title": " Software Engineering Manager (ArsenalOS Deployment)",
+    "id": "gh_5291969007",
+    "title": "Software Engineering Manager (Factory Data)",
     "company_slug": "andurilindustries",
     "company": "Andurilindustries",
     "location": "Santa Ana, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291774007?gh_jid=5291774007",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291969007?gh_jid=5291969007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-10T18:03:25-05:00",
-    "detected_at": "2026-11-11T02:49:02.542797+00:00"
+    "posted_at": "2026-11-10T22:47:55-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
   },
   {
-    "id": "gh_8248374",
-    "title": "Forward Deployed Solutions Engineer",
-    "company_slug": "gusto",
-    "company": "Gusto",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
+    "id": "gh_8930224002",
+    "title": "Staff Software Engineer, Security Platform: Authentication",
+    "company_slug": "gitlab",
+    "company": "Gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8930224002",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-10T19:52:00-05:00",
-    "detected_at": "2026-11-11T02:49:02.542797+00:00"
+    "posted_at": "2026-11-10T22:06:50-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
   },
   {
-    "id": "gh_8356764",
-    "title": "Software Engineer, ROS Open Platform & AI Enablement",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764",
+    "id": "gh_8376286",
+    "title": "Technical Lead Software Engineer, Routing",
+    "company_slug": "nuro",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8376286",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-10T19:11:57-05:00",
-    "detected_at": "2026-11-11T02:49:02.542797+00:00"
+    "posted_at": "2026-11-10T22:28:29-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
   },
   {
-    "id": "gh_8376044",
-    "title": "Manager II, Software Engineering",
-    "company_slug": "samsara",
-    "company": "Samsara",
-    "location": "Remote - Canada",
-    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044",
+    "id": "gh_8345577",
+    "title": "Senior Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-10T20:58:59-05:00",
-    "detected_at": "2026-11-11T02:49:02.542797+00:00"
+    "posted_at": "2026-11-11T03:32:39-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
   },
   {
-    "id": "ab_db5d0c48-7c24-474d-a662-c960c3770d44",
-    "title": "Sr. Software Engineer, Pretraining Data",
-    "company_slug": "cursor",
-    "company": "Cursor",
-    "location": "Palo Alto, CA",
-    "url": "https://jobs.ashbyhq.com/cursor/db5d0c48-7c24-474d-a662-c960c3770d44",
+    "id": "gh_8358353",
+    "title": "Senior Software Engineer - Full Stack Developer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-11T02:15:00-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
+  },
+  {
+    "id": "gh_8345801",
+    "title": "Staff Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-11T03:33:11-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
+  },
+  {
+    "id": "gh_6255083004",
+    "title": "Staff Applied AI Engineer - Pre-Sales",
+    "company_slug": "snorkelai",
+    "company": "Snorkelai",
+    "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6255083004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-11T00:32:01-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
+  },
+  {
+    "id": "gh_5278563007",
+    "title": "Senior AI Platform Engineer",
+    "company_slug": "zscaler",
+    "company": "Zscaler",
+    "location": "Pune, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5278563007",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-11T00:46:18-05:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
+  },
+  {
+    "id": "ab_9cd634af-ef58-4f76-8c41-06ef5e87d02c",
+    "title": "AI Engineering Manager",
+    "company_slug": "multiverse",
+    "company": "Multiverse",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/multiverse/9cd634af-ef58-4f76-8c41-06ef5e87d02c",
     "ats": "Ashby",
-    "posted_at": "2026-11-11T00:53:40.315+00:00",
-    "detected_at": "2026-11-11T02:49:02.542797+00:00"
+    "posted_at": "2026-11-11T08:46:03.173+00:00",
+    "detected_at": "2026-11-11T09:53:36.658128+00:00"
   }
 ]
