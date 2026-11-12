@@ -1,46 +1,68 @@
 [
   {
-    "id": "gh_8366703",
-    "title": "Software Engineer 3",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "New York City",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8366703",
+    "id": "gh_8302736",
+    "title": "Staff Backend Engineer (Fintech Data Platform)",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8302736",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-11T22:14:32-05:00",
-    "detected_at": "2026-11-12T04:20:05.032030+00:00"
+    "posted_at": "2026-11-12T03:35:27-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
   },
   {
-    "id": "gh_8367902",
-    "title": "Software Engineer 3",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "New York City",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8367902",
+    "id": "gh_8382373",
+    "title": "Staff Software Engineer, AI Platform (GenAI & Agent Infrastructure)",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8382373",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-11T22:12:10-05:00",
-    "detected_at": "2026-11-12T04:20:05.032030+00:00"
+    "posted_at": "2026-11-12T03:43:31-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
   },
   {
-    "id": "gh_8351199",
-    "title": "Software Engineer 3",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "New York City",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8351199",
+    "id": "gh_8916552002",
+    "title": "Senior Forward Deployed Engineer (Full Stack Engineers)",
+    "company_slug": "databricks",
+    "company": "Databricks",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-11T22:09:08-05:00",
-    "detected_at": "2026-11-12T04:20:05.032030+00:00"
+    "posted_at": "2026-11-12T05:17:51-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
   },
   {
-    "id": "gh_8348102",
-    "title": "Software Engineer 3",
-    "company_slug": "mongodb",
-    "company": "Mongodb",
-    "location": "New York City",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
+    "id": "gh_8263825",
+    "title": "Staff Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-11T22:16:57-05:00",
-    "detected_at": "2026-11-12T04:20:05.032030+00:00"
+    "posted_at": "2026-11-11T23:57:37-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
+  },
+  {
+    "id": "gh_8358096",
+    "title": "Staff Software Engineer - Backend, Identity Threat Protection",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8358096?gh_jid=8358096",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-12T01:07:09-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
+  },
+  {
+    "id": "gh_8382757",
+    "title": "Senior Software Engineer \u2013 Distributed Systems & Networking",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Dublin, Ireland",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8382757",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-12T07:52:24-05:00",
+    "detected_at": "2026-11-12T12:55:55.583278+00:00"
   }
 ]
