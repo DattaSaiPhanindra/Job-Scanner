@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "gh_8387002",
+    "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - Canada",
+    "url": "https://www.samsara.com/company/careers/roles/8387002?gh_jid=8387002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-14T12:29:17-05:00",
+    "detected_at": "2026-11-14T20:09:30.793802+00:00"
+  },
+  {
+    "id": "gh_8374911",
+    "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-14T12:29:14-05:00",
+    "detected_at": "2026-11-14T20:09:30.793802+00:00"
+  },
+  {
+    "id": "gh_8387609",
+    "title": "Sr Software Engineer I/II, Operational AI",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - Canada",
+    "url": "https://www.samsara.com/company/careers/roles/8387609?gh_jid=8387609",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-14T12:33:06-05:00",
+    "detected_at": "2026-11-14T20:09:30.793802+00:00"
+  },
+  {
+    "id": "gh_8223641",
+    "title": "Sr Software Engineer I/II, Operational AI",
+    "company_slug": "samsara",
+    "company": "Samsara",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-14T12:32:27-05:00",
+    "detected_at": "2026-11-14T20:09:30.793802+00:00"
+  }
+]
