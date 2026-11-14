@@ -1,79 +1,13 @@
 [
   {
-    "id": "gh_5294987007",
-    "title": "Staff Software Engineer, Vehicle Management Systems",
+    "id": "gh_5295391007",
+    "title": "Mission Software Engineer - Vehicle Software",
     "company_slug": "andurilindustries",
     "company": "Andurilindustries",
-    "location": "Boston, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294987007?gh_jid=5294987007",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295391007?gh_jid=5295391007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-13T15:13:23-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "gh_7896050",
-    "title": "Senior Software Engineer, Distributed Compute System",
-    "company_slug": "nuro",
-    "company": "Nuro",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7896050",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-13T20:19:42-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "gh_8386877",
-    "title": "Senior Software Engineer, Performance",
-    "company_slug": "nuro",
-    "company": "Nuro",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=8386877",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-13T17:52:42-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "gh_8373834",
-    "title": "Staff Software Engineer - Okta Identity Governance",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "San Francisco, California",
-    "url": "https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-13T17:17:09-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "gh_8366921",
-    "title": "Senior Software Engineer, Data Engineering",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8366921?gh_jid=8366921",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-13T19:23:54-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "gh_8350723",
-    "title": "Senior Software Engineer, Roblox OS",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8350723?gh_jid=8350723",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-13T20:56:05-05:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
-  },
-  {
-    "id": "ab_6d2d05da-c1f4-4ff6-9d02-a30306940857",
-    "title": "Data Platform Engineer",
-    "company_slug": "clickhouse",
-    "company": "Clickhouse",
-    "location": "The Netherlands",
-    "url": "https://jobs.ashbyhq.com/clickhouse/6d2d05da-c1f4-4ff6-9d02-a30306940857",
-    "ats": "Ashby",
-    "posted_at": "2026-11-14T00:21:21.344+00:00",
-    "detected_at": "2026-11-14T02:21:53.500874+00:00"
+    "posted_at": "2026-11-13T21:43:03-05:00",
+    "detected_at": "2026-11-14T09:11:18.827829+00:00"
   }
 ]
