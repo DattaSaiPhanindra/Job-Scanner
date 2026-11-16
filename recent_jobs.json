@@ -1,13 +1,46 @@
 [
   {
-    "id": "ab_41df4950-f6b1-4f97-8b29-cd0a11f19e25",
-    "title": "Manager, Applied AI Engineering (Southeast Asia)",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25",
+    "id": "gh_8016932003",
+    "title": "Software Engineer II - Enterprise IAM",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-16T03:01:35-05:00",
+    "detected_at": "2026-11-16T09:58:25.590677+00:00"
+  },
+  {
+    "id": "gh_8319442",
+    "title": "Software Engineer (L1)",
+    "company_slug": "twilio",
+    "company": "Twilio",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-16T01:27:58-05:00",
+    "detected_at": "2026-11-16T09:58:25.590677+00:00"
+  },
+  {
+    "id": "lv_6b0130d1-0b68-42ec-bd66-1a69192ad9c4",
+    "title": "Sr Software Engineer -(.NET Core with React)(5-9 Years)- 11703",
+    "company_slug": "coupa",
+    "company": "Coupa",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/6b0130d1-0b68-42ec-bd66-1a69192ad9c4",
+    "ats": "Lever",
+    "posted_at": "2026-07-17T06:50:29.783000+00:00",
+    "detected_at": "2026-11-16T09:58:25.590677+00:00"
+  },
+  {
+    "id": "ab_56992f29-17a5-4150-b50b-7a72206c2af6",
+    "title": "Sr. Software Engineer - Enterprise Features & Orchestration",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "Europe or US",
+    "url": "https://jobs.ashbyhq.com/clickhouse/56992f29-17a5-4150-b50b-7a72206c2af6",
     "ats": "Ashby",
-    "posted_at": "2026-09-09T02:59:28.733+00:00",
-    "detected_at": "2026-11-16T02:22:34.453093+00:00"
+    "posted_at": "2026-11-16T04:28:49.787+00:00",
+    "detected_at": "2026-11-16T09:58:25.590677+00:00"
   }
 ]
