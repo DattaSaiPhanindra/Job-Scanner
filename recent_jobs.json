@@ -1,156 +1,35 @@
 [
   {
-    "id": "gh_8207671003",
-    "title": "Software Engineer II, Backend",
-    "company_slug": "affirm",
-    "company": "Affirm",
-    "location": "Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T17:34:14-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8397762",
-    "title": "Software Engineer, DevAI ",
+    "id": "gh_8360478",
+    "title": "Software Engineering Intern (BS/MS)",
     "company_slug": "airbnb",
     "company": "Airbnb",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8397762?gh_jid=8397762",
+    "location": "San Francisco, California",
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-17T18:01:50-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
+    "posted_at": "2026-11-18T00:00:14-05:00",
+    "detected_at": "2026-11-18T10:02:04.881024+00:00"
   },
   {
-    "id": "gh_8396761",
-    "title": "Senior Software Engineer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Toronto, ON, Canada",
-    "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761",
+    "id": "gh_5282155007",
+    "title": "Infrastructure Engineer, Space",
+    "company_slug": "andurilindustries",
+    "company": "Andurilindustries",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5282155007?gh_jid=5282155007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-17T19:48:59-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
+    "posted_at": "2026-11-17T15:31:41-05:00",
+    "detected_at": "2026-11-18T10:02:04.881024+00:00"
   },
   {
-    "id": "gh_8385710",
-    "title": "Staff Software Engineer",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Washington D.C.",
-    "url": "https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710",
+    "id": "gh_8349256",
+    "title": "Software Engineer 3",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Dublin, Ireland",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8349256",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-17T19:30:54-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8396676",
-    "title": "Staff Software Engineer - Okta Identity Governance",
-    "company_slug": "okta",
-    "company": "Okta",
-    "location": "Bellevue, WA, United States; New York, New York, United States; Washington D.C.",
-    "url": "https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T17:15:49-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8949325002",
-    "title": "Software Engineer I (Factory Platform)",
-    "company_slug": "relativity",
-    "company": "Relativity",
-    "location": "Long Beach, California, United States",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T18:23:03-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8207529003",
-    "title": "Senior Software Engineer, Data Platform",
-    "company_slug": "sofi",
-    "company": "Sofi",
-    "location": "Seattle, Washington or Salt Lake City, Utah",
-    "url": "https://sofi.com/careers/job/8207529003?gh_jid=8207529003",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T16:53:08-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8386144",
-    "title": "Software Engineer II, Support AI",
-    "company_slug": "toast",
-    "company": "Toast",
-    "location": "Remote, US ",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8386144",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T15:57:12-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8393931",
-    "title": "Staff, Fullstack Software Engineer (L4)",
-    "company_slug": "twilio",
-    "company": "Twilio",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8393931",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T16:23:27-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_8396527",
-    "title": "Director, Software Engineering - Hardware",
-    "company_slug": "waymo",
-    "company": "Waymo",
-    "location": "Mountain View, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8396527",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T16:24:49-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "gh_5277461007",
-    "title": "Principal Site Reliability Engineer",
-    "company_slug": "zscaler",
-    "company": "Zscaler",
-    "location": "Remote - USA; Santa Clara, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5277461007",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-17T20:17:05-05:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "ab_af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
-    "title": "Senior Software Engineer, Reliability",
-    "company_slug": "temporal",
-    "company": "Temporal",
-    "location": "United States (Remote)",
-    "url": "https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
-    "ats": "Ashby",
-    "posted_at": "2026-11-17T21:28:38.105+00:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "ab_60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
-    "title": "Full Stack Software Engineer, DotCom",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
-    "ats": "Ashby",
-    "posted_at": "2026-11-17T23:57:20.997+00:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
-  },
-  {
-    "id": "ab_7447dd43-9bf5-445f-bb8c-ba57756c8d04",
-    "title": "Full Stack Software Engineer, Dots for Companies",
-    "company_slug": "openai",
-    "company": "Openai",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04",
-    "ats": "Ashby",
-    "posted_at": "2026-11-17T21:50:05.840+00:00",
-    "detected_at": "2026-11-18T02:02:03.879203+00:00"
+    "posted_at": "2026-11-18T04:51:35-05:00",
+    "detected_at": "2026-11-18T10:02:04.881024+00:00"
   }
 ]
