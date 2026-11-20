@@ -1,79 +1,57 @@
 [
   {
-    "id": "gh_7919162",
-    "title": "Senior Software Engineer (Java) - Banking Network",
-    "company_slug": "adyen",
-    "company": "Adyen",
-    "location": "Chicago",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7919162",
+    "id": "gh_8405579",
+    "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8405579&gh_jid=8405579",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-19T20:16:55-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
+    "posted_at": "2026-11-20T06:41:59-05:00",
+    "detected_at": "2026-11-20T12:56:52.268280+00:00"
   },
   {
-    "id": "gh_7919124",
-    "title": "Software Engineer II (Java) - Issuing",
-    "company_slug": "adyen",
-    "company": "Adyen",
-    "location": "Chicago",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/7919124",
+    "id": "gh_8372378",
+    "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-19T20:20:59-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
+    "posted_at": "2026-11-20T06:41:16-05:00",
+    "detected_at": "2026-11-20T12:56:52.268280+00:00"
   },
   {
-    "id": "gh_5119948007",
-    "title": "Staff Mission Software Engineer, Undersea Reconnaissance & Strike",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Quincy, Massachusetts, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5119948007?gh_jid=5119948007",
+    "id": "gh_8405578",
+    "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+    "company_slug": "elastic",
+    "company": "Elastic",
+    "location": "Greece",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8405578&gh_jid=8405578",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-19T23:11:03-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
+    "posted_at": "2026-11-20T06:41:18-05:00",
+    "detected_at": "2026-11-20T12:56:52.268280+00:00"
   },
   {
-    "id": "gh_8403862",
-    "title": "Staff Site Reliability Engineer",
+    "id": "gh_8242443",
+    "title": "Senior Software Engineer - Advanced Threat Protection",
     "company_slug": "okta",
     "company": "Okta",
-    "location": "Toronto, ON, Canada",
-    "url": "https://www.okta.com/company/careers/opportunity/8403862?gh_jid=8403862",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8242443?gh_jid=8242443",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-19T21:51:36-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
+    "posted_at": "2026-11-20T05:48:44-05:00",
+    "detected_at": "2026-11-20T12:56:52.268280+00:00"
   },
   {
-    "id": "gh_8397795",
-    "title": "Senior Software Engineer - UGC Marketplace",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8397795?gh_jid=8397795",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-19T18:55:30-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
-  },
-  {
-    "id": "gh_8404115",
-    "title": "Staff Software Engineer, Mobile Development Productivity",
-    "company_slug": "stripe",
-    "company": "Stripe",
-    "location": "na",
-    "url": "https://stripe.com/jobs/search?gh_jid=8404115",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-19T19:45:58-05:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
-  },
-  {
-    "id": "lv_2eeaedae-6d0b-49d1-874d-1651e735e6e7",
-    "title": "Principal Cloud Platform Engineer - India",
-    "company_slug": "jumpcloud",
-    "company": "Jumpcloud",
-    "location": "Bangalore, India - Remote",
-    "url": "https://jobs.lever.co/jumpcloud/2eeaedae-6d0b-49d1-874d-1651e735e6e7",
-    "ats": "Lever",
-    "posted_at": "2026-11-13T05:11:42.018000+00:00",
-    "detected_at": "2026-11-20T04:13:57.223005+00:00"
+    "id": "ab_220080d1-c844-42e6-a762-9f3453289ac1",
+    "title": "Senior Software Engineer - Postgres Engine",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/clickhouse/220080d1-c844-42e6-a762-9f3453289ac1",
+    "ats": "Ashby",
+    "posted_at": "2026-11-20T05:19:25.426+00:00",
+    "detected_at": "2026-11-20T12:56:52.268280+00:00"
   }
 ]
