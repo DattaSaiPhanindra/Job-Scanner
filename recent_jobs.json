@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": "gh_8201459003",
+    "title": "Senior Software Engineer, Back-end (Fraud)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201459003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T06:09:59-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8213907003",
+    "title": "Senior Software Engineer, Back-end, (Fraud)",
+    "company_slug": "affirm",
+    "company": "Affirm",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T06:12:26-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_6252450004",
+    "title": "Sales & Solutions Engineer",
+    "company_slug": "coursera",
+    "company": "Coursera",
+    "location": "Dublin, Ireland",
+    "url": "https://job-boards.greenhouse.io/coursera/jobs/6252450004",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T04:26:35-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8394537",
+    "title": "Site Reliability Engineer ",
+    "company_slug": "gusto",
+    "company": "Gusto",
+    "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8394537",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-22T22:04:49-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8247588",
+    "title": "Staff Software Engineer, Retirement Engineering",
+    "company_slug": "gusto",
+    "company": "Gusto",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8247588",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T00:05:08-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8370624",
+    "title": "Software Engineer-I",
+    "company_slug": "toast",
+    "company": "Toast",
+    "location": "Bengaluru,Karnataka,India",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8370624",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T05:11:25-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8937373002",
+    "title": "Senior Platform Engineer",
+    "company_slug": "trivago",
+    "company": "Trivago",
+    "location": "D\u00fcsseldorf",
+    "url": "https://careers.trivago.com/apply/8937373002.?gh_jid=8937373002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T05:09:28-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  },
+  {
+    "id": "gh_8065032",
+    "title": "Software Engineer (L3)",
+    "company_slug": "twilio",
+    "company": "Twilio",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-23T03:55:42-05:00",
+    "detected_at": "2026-11-23T11:18:05.854225+00:00"
+  }
+]
