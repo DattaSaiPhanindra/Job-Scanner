@@ -1,90 +1,46 @@
 [
   {
-    "id": "gh_6270090004",
-    "title": "Sales & Solutions Engineer UAE",
-    "company_slug": "coursera",
-    "company": "Coursera",
-    "location": "United Arab Emirates",
-    "url": "https://job-boards.greenhouse.io/coursera/jobs/6270090004",
+    "id": "gh_8215115003",
+    "title": "Senior Software Engineer",
+    "company_slug": "fivetran",
+    "company": "Fivetran",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8215115003",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-26T06:10:29-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
+    "posted_at": "2026-11-26T08:24:17-05:00",
+    "detected_at": "2026-11-26T21:38:20.740389+00:00"
   },
   {
-    "id": "gh_8405048",
-    "title": "Senior Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405048",
+    "id": "gh_8419418",
+    "title": "Sales Development Representative (Swedish Fluency)",
+    "company_slug": "stripe",
+    "company": "Stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8419418",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-26T05:35:31-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
+    "posted_at": "2026-11-26T12:21:42-05:00",
+    "detected_at": "2026-11-26T21:38:20.740389+00:00"
   },
   {
-    "id": "gh_8405020",
-    "title": "Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405020",
+    "id": "gh_5241708007",
+    "title": "Sr. Staff Software Engineer (Full-Stack)",
+    "company_slug": "zscaler",
+    "company": "Zscaler",
+    "location": "Santa Clara, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5241708007",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-25T23:57:36-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
+    "posted_at": "2026-11-26T12:56:19-05:00",
+    "detected_at": "2026-11-26T21:38:20.740389+00:00"
   },
   {
-    "id": "gh_8405022",
-    "title": "Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405022",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-25T23:58:00-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
-  },
-  {
-    "id": "gh_8405054",
-    "title": "Staff Software Engineer",
-    "company_slug": "onetrust",
-    "company": "Onetrust",
-    "location": "Bengaluru, India",
-    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405054",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-26T05:08:26-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
-  },
-  {
-    "id": "gh_8258573",
-    "title": "Software Engineer",
-    "company_slug": "twilio",
-    "company": "Twilio",
-    "location": "Remote - Ireland",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8258573",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-26T04:24:25-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
-  },
-  {
-    "id": "gh_8417787",
-    "title": "Staff Site Reliability Engineer",
-    "company_slug": "coupang",
-    "company": "Coupang",
-    "location": "Bengaluru",
-    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8417787",
-    "ats": "Greenhouse",
-    "posted_at": "2026-11-26T03:10:26-05:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
-  },
-  {
-    "id": "ab_e1880633-5d58-4f38-833e-1bdef24d0bf9",
-    "title": "Platform Engineer - Database ",
-    "company_slug": "supabase",
-    "company": "Supabase",
-    "location": "Remote, EMEA",
-    "url": "https://jobs.ashbyhq.com/supabase/e1880633-5d58-4f38-833e-1bdef24d0bf9",
+    "id": "ab_5d974c58-7b42-4a5b-bb85-419e45e51d3b",
+    "title": "Senior Backend Engineer - ClickPipes Platform",
+    "company_slug": "clickhouse",
+    "company": "Clickhouse",
+    "location": "Germany",
+    "url": "https://jobs.ashbyhq.com/clickhouse/5d974c58-7b42-4a5b-bb85-419e45e51d3b",
     "ats": "Ashby",
-    "posted_at": "2026-11-26T11:36:59.919+00:00",
-    "detected_at": "2026-11-26T12:16:10.653688+00:00"
+    "posted_at": "2026-11-26T19:15:47.969+00:00",
+    "detected_at": "2026-11-26T21:38:20.740389+00:00"
   }
 ]
