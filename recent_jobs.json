@@ -1,24 +1,90 @@
 [
   {
-    "id": "gh_5310639007",
-    "title": "Staff Software Engineer",
-    "company_slug": "andurilindustries",
-    "company": "Andurilindustries",
-    "location": "Sydney, New South Wales, Australia",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5310639007?gh_jid=5310639007",
+    "id": "gh_8420251",
+    "title": "Director, Backend Engineering (Rocket Pay)",
+    "company_slug": "coupang",
+    "company": "Coupang",
+    "location": "Seoul, South Korea",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8420251",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-26T18:56:04-05:00",
-    "detected_at": "2026-11-27T03:46:06.247627+00:00"
+    "posted_at": "2026-11-27T04:22:42-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
   },
   {
-    "id": "gh_8283619",
-    "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
-    "company_slug": "roblox",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/8283619?gh_jid=8283619",
+    "id": "gh_8304154",
+    "title": "Staff Forward Deployed AI Engineer",
+    "company_slug": "mongodb",
+    "company": "Mongodb",
+    "location": "Bengaluru",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8304154",
     "ats": "Greenhouse",
-    "posted_at": "2026-11-26T17:20:18-05:00",
-    "detected_at": "2026-11-27T03:46:06.247627+00:00"
+    "posted_at": "2026-11-27T02:02:34-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "gh_8147075",
+    "title": "Staff Software Engineer",
+    "company_slug": "okta",
+    "company": "Okta",
+    "location": "Bengaluru, India",
+    "url": "https://www.okta.com/company/careers/opportunity/8147075?gh_jid=8147075",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-27T02:32:48-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "gh_8370921",
+    "title": "Senior Solutions Engineer ",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Madrid, Spain",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8370921",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-27T07:01:54-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "gh_8405014",
+    "title": "Senior Staff Software Engineer",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405014",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-27T01:19:29-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "gh_8405028",
+    "title": "Staff Quality Engineer- SDET",
+    "company_slug": "onetrust",
+    "company": "Onetrust",
+    "location": "Bengaluru, India",
+    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405028",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-27T07:23:15-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "gh_8870136002",
+    "title": "Software Engineer",
+    "company_slug": "vonage",
+    "company": "Vonage",
+    "location": "Work from Home - Spain",
+    "url": "https://job-boards.greenhouse.io/vonage/jobs/8870136002",
+    "ats": "Greenhouse",
+    "posted_at": "2026-11-27T06:46:12-05:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
+  },
+  {
+    "id": "ab_a7e02b19-d103-4ebe-9346-4f7be0b89949",
+    "title": "Principal Software Engineer",
+    "company_slug": "snowflake",
+    "company": "Snowflake",
+    "location": "IN-Pune",
+    "url": "https://jobs.ashbyhq.com/snowflake/a7e02b19-d103-4ebe-9346-4f7be0b89949",
+    "ats": "Ashby",
+    "posted_at": "2026-11-27T08:53:40.256+00:00",
+    "detected_at": "2026-11-27T13:10:39.815543+00:00"
   }
 ]
